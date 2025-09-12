@@ -33,10 +33,10 @@ My research interest includes neural machine translation and computer vision. I 
 
 [Plug-and-Play General Image Registration for Misaligned Multi-Modal Image Fusion](https://ieeexplore.ieee.org/abstract/document/11005625)
 
-**Tianheng Zheng**, Guanglu Dong, Pingping Zhang, Xiaohai He, Chao Ren*
+Tianheng Zheng, Guanglu Dong, Pingping Zhang, Xiaohai He, **Chao Ren***
 
 [**Paper**](https://ieeexplore.ieee.org/abstract/document/11005625) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> |
-[**Codes**](https://github.com/liux520/EIMN) <strong><span class='show_paper_citations' data=''></span></strong>
+[**Codes**](https://github.com/stwts/PGMR) <strong><span class='show_paper_citations' data=''></span></strong>
 </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TITS 2022</div><img src='images/publications/TNNLS-2025-Xiao Liu.png' alt="sym" width="100%"></div></div>
