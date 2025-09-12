@@ -50,7 +50,7 @@ Tianheng Zheng, Guanglu Dong, Pingping Zhang, Xiaohai He, **Chao Ren**<sup>✉</
 
 [GBPG-Net: Global Background Prior-Guided Rain and Snow Image Restoration](https://ieeexplore.ieee.org/abstract/document/11048715)
 
-Xiao Liu, Xiaofeng Wang, Shouyi Wang, Haosong Gou, Zhengyong Wang, **Chao Ren**<sup>✉️</sup>
+Xiao Liu, Xiaofeng Wang, Shouyi Wang, Haosong Gou, Zhengyong Wang, **Chao Ren**<sup>✉</sup>
 
 [**Paper**](https://ieeexplore.ieee.org/abstract/document/11048715) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> |
 [**Codes**](https://github.com/liux520/GPBG-Net) <strong><span class='show_paper_citations' data=''></span></strong>
@@ -61,7 +61,7 @@ Xiao Liu, Xiaofeng Wang, Shouyi Wang, Haosong Gou, Zhengyong Wang, **Chao Ren**<
 
 [Re-boosting self-collaboration parallel prompt gan for unsupervised image restoration](https://ieeexplore.ieee.org/abstract/document/11081458)
 
-Xin Lin; Yuyan Zhou; Jingtong Yue; **Chao Ren**✉️; Kelvin C.K. Chan; Lu Qi
+Xin Lin; Yuyan Zhou; Jingtong Yue; **Chao Ren**<sup>✉</sup>; Kelvin C.K. Chan; Lu Qi
 
 [**Paper**](https://ieeexplore.ieee.org/abstract/document/11081458) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> |
 [**Codes**](https://github.com/linxin0/RSCP2GAN) <strong><span class='show_paper_citations' data=''></span></strong>
@@ -72,7 +72,7 @@ Xin Lin; Yuyan Zhou; Jingtong Yue; **Chao Ren**✉️; Kelvin C.K. Chan; Lu Qi
 
 [Dual-Representation Interaction Driven Image Quality Assessment with Restoration Assistance](https://ieeexplore.ieee.org/document/10943422)
 
-Jingtong Yue, Xin Lin, Zijiu Yang, **Chao Ren**✉️
+Jingtong Yue, Xin Lin, Zijiu Yang, **Chao Ren**<sup>✉</sup>
 
 [**Paper**](https://ieeexplore.ieee.org/document/10943422) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | 
 [**Codes**]() <strong><span class='show_paper_citations' data=''></span></strong>
@@ -83,7 +83,7 @@ Jingtong Yue, Xin Lin, Zijiu Yang, **Chao Ren**✉️
 
 [Dual Degradation Representation for Joint Deraining and Low-Light Enhancement in the Dark](https://ieeexplore.ieee.org/document/10737413)
 
-Xin Lin, Jingtong Yue, Sixian Ding, **Chao Ren**✉️, Lu Qi, Ming-Hsuan Yang
+Xin Lin, Jingtong Yue, Sixian Ding, **Chao Ren**<sup>✉</sup>, Lu Qi, Ming-Hsuan Yang
 
 [**Paper**](https://ieeexplore.ieee.org/document/10737413)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | 
 [**Codes**](https://github.com/linxin0) <strong><span class='show_paper_citations' data=''></span></strong>
@@ -94,7 +94,7 @@ Xin Lin, Jingtong Yue, Sixian Ding, **Chao Ren**✉️, Lu Qi, Ming-Hsuan Yang
 
 [Dual-stage feedback network for lightweight color image compression artifact reduction](https://www.sciencedirect.com/science/article/abs/pii/S0893608024004799)
 
-Zhengxin Chen, Xiaohai He, Tingrong Zhang, Shuhua Xiong, **Chao Ren**✉️
+Zhengxin Chen, Xiaohai He, Tingrong Zhang, Shuhua Xiong, **Chao Ren**<sup>✉</sup>
 
 [**Paper**](https://www.sciencedirect.com/science/article/abs/pii/S0893608024004799)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | 
 [**Codes**]() <strong><span class='show_paper_citations' data=''></span></strong>
@@ -105,7 +105,7 @@ Zhengxin Chen, Xiaohai He, Tingrong Zhang, Shuhua Xiong, **Chao Ren**✉️
 
 [HPIDN: A Hierarchical prior-guided iterative denoising network with global–local fusion for enhancing low-dose CT images](https://www.sciencedirect.com/science/article/abs/pii/S1047320324002530)
 
-Xiuya Shi, Yi Yang, Hao Liu, Litai Ma, Zhibo Zhao, **Chao Ren***
+Xiuya Shi, Yi Yang, Hao Liu, Litai Ma, Zhibo Zhao, **Chao Ren**<sup>✉</sup>
 
 [**Paper**](https://www.sciencedirect.com/science/article/abs/pii/S1047320324002530<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | 
 [**Codes**]() <strong><span class='show_paper_citations' data=''></span></strong>
@@ -116,7 +116,7 @@ Xiuya Shi, Yi Yang, Hao Liu, Litai Ma, Zhibo Zhao, **Chao Ren***
 
 [Lightweight Single Image Super-Resolution via Efficient Mixture of Transformers and Convolutional Networks](https://www.mdpi.com/1424-8220/24/16/5098)
 
-Luyang Xiao, Xiangyu Liao, **Chao Ren***
+Luyang Xiao, Xiangyu Liao, **Chao Ren**<sup>✉</sup>
 
 [**Paper**](https://www.mdpi.com/1424-8220/24/16/5098)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | 
 [**Codes**]() <strong><span class='show_paper_citations' data=''></span></strong>
@@ -128,7 +128,7 @@ Luyang Xiao, Xiangyu Liao, **Chao Ren***
 
 [Efficient image super resolution via Mixed Window and Dimension Interaction](https://www.sciencedirect.com/science/article/abs/pii/S0925231224019829)
 
-Shouyi Wang, Gang Liu, Xiao Liu, Xiangyu Liao, **Chao Ren***
+Shouyi Wang, Gang Liu, Xiao Liu, Xiangyu Liao, **Chao Ren**<sup>✉</sup>
 
 [**Paper**](https://www.sciencedirect.com/science/article/abs/pii/S0925231224019829) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | 
 [**Codes**]() <strong><span class='show_paper_citations' data=''></span></strong>
@@ -139,7 +139,7 @@ Shouyi Wang, Gang Liu, Xiao Liu, Xiangyu Liao, **Chao Ren***
 
 [Unsupervised blind image deblurring based on self-enhancement](https://openaccess.thecvf.com/content/CVPR2024/html/Chen_Unsupervised_Blind_Image_Deblurring_Based_on_Self-Enhancement_CVPR_2024_paper.html)
 
-Lufei Chen, Xiangpeng Tian, Shuhua Xiong, Yinjie Lei, **Chao Ren***
+Lufei Chen, Xiangpeng Tian, Shuhua Xiong, Yinjie Lei, **Chao Ren**<sup>✉</sup>
 
 [**Paper**](https://openaccess.thecvf.com/content/CVPR2024/html/Chen_Unsupervised_Blind_Image_Deblurring_Based_on_Self-Enhancement_CVPR_2024_paper.html)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | 
 [**Codes**]() <strong><span class='show_paper_citations' data=''></span></strong> 
@@ -150,7 +150,7 @@ Lufei Chen, Xiangpeng Tian, Shuhua Xiong, Yinjie Lei, **Chao Ren***
 
 [Asymmetric Mask Scheme for Self-supervised Real Image Denoising](https://link.springer.com/content/pdf/10.1007/978-3-031-72698-9_12)
 
-Xiangyu Liao, Tianheng Zheng, Jiayu Zhong, Pingping Zhang, **Chao Ren***
+Xiangyu Liao, Tianheng Zheng, Jiayu Zhong, Pingping Zhang, **Chao Ren**<sup>✉</sup>
 
 [**Paper**](https://link.springer.com/content/pdf/10.1007/978-3-031-72698-9_12)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | 
 [**Codes**]() <strong><span class='show_paper_citations' data=''></span></strong>
@@ -161,7 +161,7 @@ Xiangyu Liao, Tianheng Zheng, Jiayu Zhong, Pingping Zhang, **Chao Ren***
 
 [Real image denoising via guided residual estimation and noise correction](https://ieeexplore.ieee.org/document/9927458)
 
-Yizhong Pan, **Chao Ren***, Xiaohong Wu, Jie Huang, Xiaohai He
+Yizhong Pan, **Chao Ren**<sup>✉</sup>, Xiaohong Wu, Jie Huang, Xiaohai He
 
 [**Paper**](https://ieeexplore.ieee.org/document/9927458) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | 
 [**Codes**]() <strong><span class='show_paper_citations' data=''></span></strong>
@@ -172,7 +172,7 @@ Yizhong Pan, **Chao Ren***, Xiaohong Wu, Jie Huang, Xiaohai He
 
 [Blind image denoising via deep unfolding network with degradation information guidance](https://ieeexplore.ieee.org/document/10054005)
 
-Man Qin, **Chao Ren***, Hong Yang, Xiaohai He, Zhengyong Wang
+Man Qin, **Chao Ren**<sup>✉</sup>, Hong Yang, Xiaohai He, Zhengyong Wang
 
 [**Paper**](https://ieeexplore.ieee.org/document/10054005) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | 
 [**Codes**]() <strong><span class='show_paper_citations' data=''></span></strong>
@@ -183,7 +183,7 @@ Man Qin, **Chao Ren***, Hong Yang, Xiaohai He, Zhengyong Wang
 
 [Unsupervised image denoising in real-world scenarios via self-collaboration parallel generative adversarial branches](https://openaccess.thecvf.com/content/ICCV2023/html/Lin_Unsupervised_Image_Denoising_in_Real-World_Scenarios_via_Self-Collaboration_Parallel_Generative_ICCV_2023_paper.html)
 
-Xin Lin, **Chao Ren***, Xiao Liu, Jie Huang, Yinjie Lei
+Xin Lin, **Chao Ren**<sup>✉</sup>, Xiao Liu, Jie Huang, Yinjie Lei
 
 [**Paper**](https://openaccess.thecvf.com/content/ICCV2023/html/Lin_Unsupervised_Image_Denoising_in_Real-World_Scenarios_via_Self-Collaboration_Parallel_Generative_ICCV_2023_paper.html) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | 
 [**Codes**](https://github.com/linxin0/SCPGabNet) <strong><span class='show_paper_citations' data=''></span></strong>
@@ -194,7 +194,7 @@ Xin Lin, **Chao Ren***, Xiao Liu, Jie Huang, Yinjie Lei
 
 [Random sub-samples generation for self-supervised real image denoising](https://openaccess.thecvf.com/content/ICCV2023/html/Pan_Random_Sub-Samples_Generation_for_Self-Supervised_Real_Image_Denoising_ICCV_2023_paper.html)
 
-Yizhong Pan, Xiao Liu, Xiangyu Liao, Yuanzhouhan Cao, **Chao Ren***
+Yizhong Pan, Xiao Liu, Xiangyu Liao, Yuanzhouhan Cao, **Chao Ren**<sup>✉</sup>
 
 [**Paper**](https://openaccess.thecvf.com/content/ICCV2023/html/Pan_Random_Sub-Samples_Generation_for_Self-Supervised_Real_Image_Denoising_ICCV_2023_paper.html) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | 
 [**Codes**]() <strong><span class='show_paper_citations' data=''></span></strong>
@@ -216,7 +216,7 @@ Yuwei Yang, Munawar Hayat, Zhao Jin, **Chao Ren**, Yinjie Lei
 
 [Efficient parallel multi-scale detail and semantic encoding network for lightweight semantic segmentation](https://dl.acm.org/doi/10.1145/3581783.3611848)
 
-Xiao Liu, Xiuya Shi, Lufei Chen, Linbo Qing, **Chao Ren***
+Xiao Liu, Xiuya Shi, Lufei Chen, Linbo Qing, **Chao Ren**<sup>✉</sup>
 
 [**Paper**](https://dl.acm.org/doi/10.1145/3581783.3611848) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | 
 [**Codes**](https://github.com/liux520/PMSDSEN) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
@@ -227,7 +227,7 @@ Xiao Liu, Xiuya Shi, Lufei Chen, Linbo Qing, **Chao Ren***
 
 [Efficient information modulation network for image super-resolution](https://ebooks.iospress.nl/volumearticle/64367)
 
-Xiao Liu, Xiangyu Liao, Xiuya Shi, Linbo Qing, **Chao Ren***
+Xiao Liu, Xiangyu Liao, Xiuya Shi, Linbo Qing, **Chao Ren**<sup>✉</sup>
 
 [**Paper**](https://ebooks.iospress.nl/volumearticle/64367)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | 
 [**Codes**](https://github.com/liux520/EIMN) <strong><span class='show_paper_citations' data=''></span></strong>
@@ -238,7 +238,7 @@ Xiao Liu, Xiangyu Liao, Xiuya Shi, Linbo Qing, **Chao Ren***
 
 [A prior-guided deep network for real image denoising and its applications](https://www.sciencedirect.com/science/article/abs/pii/S0950705122008991)
 
-Jie Huang, Zhibo Zhao, **Chao Ren***, Qizhi Teng, Xiaohai He
+Jie Huang, Zhibo Zhao, **Chao Ren**<sup>✉</sup>, Qizhi Teng, Xiaohai He
 
 [**Paper**](https://www.sciencedirect.com/science/article/abs/pii/S0950705122008991)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | 
 [**Codes**]() <strong><span class='show_paper_citations' data=''></span></strong>
@@ -249,7 +249,7 @@ Jie Huang, Zhibo Zhao, **Chao Ren***, Qizhi Teng, Xiaohai He
 
 [CasaPuNet: Channel affine self-attention based progressively updated network for real image denoising](https://ieeexplore.ieee.org/document/9969152)
 
-Jie Huang, Xiao Liu, Yizhong Pan, Xiaohai He, **Chao Ren***
+Jie Huang, Xiao Liu, Yizhong Pan, Xiaohai He, **Chao Ren**<sup>✉</sup>
 
 [**Paper**](https://ieeexplore.ieee.org/document/9969152) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | 
 [**Codes**](https://github.com/chaoren88/CasaPuNet) <strong><span class='show_paper_citations' data=''></span></strong>
@@ -271,7 +271,7 @@ Sen Zhai, Chao Ren*, Zhengyong Wang, Xiaohai He, Linbo Qing
 
 [Real-world single image super-resolution: A brief review](https://www.sciencedirect.com/science/article/abs/pii/S1566253521001792)
 
-Honggang Chen, Xiaohai He, Linbo Qing, Yuanyuan Wu, **Chao Ren***, Ray E. Sheriff, Ce Zhu
+Honggang Chen, Xiaohai He, Linbo Qing, Yuanyuan Wu, **Chao Ren**<sup>✉</sup>, Ray E. Sheriff, Ce Zhu
 
 [**Paper**](https://www.sciencedirect.com/science/article/abs/pii/S1566253521001792) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | 
 [**Codes**]() <strong><span class='show_paper_citations' data=''></span></strong>
@@ -282,7 +282,7 @@ Honggang Chen, Xiaohai He, Linbo Qing, Yuanyuan Wu, **Chao Ren***, Ray E. Sherif
 
 [A practical super-resolution method for multi-degradation remote sensing images with deep convolutional neural networks](https://link.springer.com/article/10.1007/s11554-022-01245-9)
 
-Zhibo Zhao, **Chao Ren***, Qizhi Teng, Xiaohai He
+Zhibo Zhao, **Chao Ren**<sup>✉</sup>, Qizhi Teng, Xiaohai He
 
 [**Paper**](https://link.springer.com/article/10.1007/s11554-022-01245-9) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | 
 [**Codes**]() <strong><span class='show_paper_citations' data=''></span></strong>
@@ -307,7 +307,7 @@ Yuanzhouhan Cao, Hui Zhang, Yidong Li, **Chao Ren**, Congyan Lang
 
 [Image restoration algorithm based on wavelet domain ADMM deep network](https://www.cqvip.com/doc/journal/958726148)
 
-Linbo Qing, Mengfan Wu, Gang Liu, Xiao Liu, Xiaohai He, **Chao Ren***
+Linbo Qing, Mengfan Wu, Gang Liu, Xiao Liu, Xiaohai He, **Chao Ren**<sup>✉</sup>
 
 [**Paper**](https://www.cqvip.com/doc/journal/958726148) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> |
 [**Codes**]() <strong><span class='show_paper_citations' data=''></span></strong>
@@ -318,7 +318,7 @@ Linbo Qing, Mengfan Wu, Gang Liu, Xiao Liu, Xiaohai He, **Chao Ren***
 
 [Enhanced latent space blind model for real image denoising via alternative optimization](https://proceedings.neurips.cc/paper_files/paper/2022/hash/fa93d7bfb48450e1af63c8fa647d317f-Abstract-Conference.html)
 
-**Chao Ren***, Yizhong Pan, Jie Huang
+**Chao Ren**<sup>✉</sup>, Yizhong Pan, Jie Huang
 
 [**Paper**](https://proceedings.neurips.cc/paper_files/paper/2022/hash/fa93d7bfb48450e1af63c8fa647d317f-Abstract-Conference.html) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> |
 [**Codes**]() <strong><span class='show_paper_citations' data=''></span></strong>
@@ -329,7 +329,7 @@ Linbo Qing, Mengfan Wu, Gang Liu, Xiao Liu, Xiaohai He, **Chao Ren***
 
 [Learning image profile enhancement and denoising statistics priors for single-image super-resolution](https://ieeexplore.ieee.org/document/8809912)
 
-**Chao Ren***, Xiaohai He, Yifei Pu, Truong Q. Nguyen
+**Chao Ren**<sup>✉</sup>, Xiaohai He, Yifei Pu, Truong Q. Nguyen
 
 [**Paper**](https://ieeexplore.ieee.org/document/8809912) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> |
 [**Codes**]() <strong><span class='show_paper_citations' data=''></span></strong>
@@ -340,7 +340,7 @@ Linbo Qing, Mengfan Wu, Gang Liu, Xiao Liu, Xiaohai He, **Chao Ren***
 
 [Remote sensing image recovery via enhanced residual learning and dual-luminance scheme](https://www.sciencedirect.com/science/article/abs/pii/S0950705121002768)
 
-**Chao Ren***, Xiaohai He, Linbo Qing, Yuanyuan Wu, Yifei Pu
+**Chao Ren**<sup>✉</sup>, Xiaohai He, Linbo Qing, Yuanyuan Wu, Yifei Pu
 
 [**Paper**](https://www.sciencedirect.com/science/article/abs/pii/S0950705121002768) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> |
 [**Codes**]() <strong><span class='show_paper_citations' data=''></span></strong>
@@ -351,7 +351,7 @@ Linbo Qing, Mengfan Wu, Gang Liu, Xiao Liu, Xiaohai He, **Chao Ren***
 
 [Compressed image restoration via deep deblocker driven unified framework](https://www.sciencedirect.com/science/article/abs/pii/S095070512100530X)
 
-**Chao Ren***, Qizhi Teng, Xiaohai He, Linbo Qing, Truong Q. Nguyen
+**Chao Ren**<sup>✉</sup>, Qizhi Teng, Xiaohai He, Linbo Qing, Truong Q. Nguyen
 
 [**Paper**](https://www.sciencedirect.com/science/article/abs/pii/S095070512100530X) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> |
 [**Codes**]() <strong><span class='show_paper_citations' data=''></span></strong>
@@ -362,7 +362,7 @@ Linbo Qing, Mengfan Wu, Gang Liu, Xiao Liu, Xiaohai He, **Chao Ren***
 
 [Deep recursive network for image denoising with global non-linear smoothness constraint prior](https://www.sciencedirect.com/science/article/abs/pii/S0925231220316015)
 
-Chuncheng Wang, **Chao Ren***, Xiaohai He, Linbo Qing
+Chuncheng Wang, **Chao Ren**<sup>✉</sup>, Xiaohai He, Linbo Qing
 
 [**Paper**](https://www.sciencedirect.com/science/article/abs/pii/S0925231220316015) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> |
 [**Codes**]() <strong><span class='show_paper_citations' data=''></span></strong>
@@ -373,7 +373,7 @@ Chuncheng Wang, **Chao Ren***, Xiaohai He, Linbo Qing
 
 [Adaptive consistency prior based deep network for image denoising](https://ieeexplore.ieee.org/document/9577972)
 
-**Chao Ren***, Xiaohai He, Chuncheng Wang, Zhibo Zhao
+**Chao Ren**<sup>✉</sup>, Xiaohai He, Chuncheng Wang, Zhibo Zhao
 
 [**Paper**](https://ieeexplore.ieee.org/document/9577972) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> |
 [**Codes**]() <strong><span class='show_paper_citations' data=''></span></strong>
@@ -384,7 +384,7 @@ Chuncheng Wang, **Chao Ren***, Xiaohai He, Linbo Qing
 
 [Deep deblocker driven adaptive iteration scheme for compressed image recovery](https://ieeexplore.ieee.org/document/9428099)
 
-**Chao Ren***, Xiaohai He, Linbo Qing, Yuanzhouhan Cao
+**Chao Ren**<sup>✉</sup>, Xiaohai He, Linbo Qing, Yuanzhouhan Cao
 
 [**Paper**](https://ieeexplore.ieee.org/document/9428099) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> |
 [**Codes**]() <strong><span class='show_paper_citations' data=''></span></strong>
@@ -428,7 +428,7 @@ Jing Hu, Xin Zhou, **Chao Ren**, Xinglong Li, Xiaohai He
 
 [Adjusted non-local regression and directional smoothness for image restoration](https://ieeexplore.ieee.org/document/8440746)
 
-**Chao Ren***, Xiaohai He, Truong Q. Nguyen
+**Chao Ren**<sup>✉</sup>, Xiaohai He, Truong Q. Nguyen
 
 [**Paper**](https://ieeexplore.ieee.org/document/8440746) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> |
 [**Codes**]() <strong><span class='show_paper_citations' data=''></span></strong>
@@ -461,7 +461,7 @@ Junxi Feng, Xiaohai He, Qizhi Teng, **Chao Ren**, Honggang Chen, Yang Li
 
 [Non-local similarity modeling and deep CNN gradient prior for super resolution](https://ieeexplore.ieee.org/document/8345640)
 
-**Chao Ren***, Xiaohai He, Yifei Pu
+**Chao Ren**<sup>✉</sup>, Xiaohai He, Yifei Pu
 
 [**Paper**](https://ieeexplore.ieee.org/document/8345640) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> |
 [**Codes**]() <strong><span class='show_paper_citations' data=''></span></strong>
@@ -489,29 +489,29 @@ Junxi Feng, Xiaohai He, Qizhi Teng, **Chao Ren**, Honggang Chen, Yang Li
 [**Codes**]() <strong><span class='show_paper_citations' data=''></span></strong>
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TITS 2022</div><img src='images/publications/TIP-2017-Chao Ren.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2022</div><img src='images/publications/TIP-2017-Chao Ren.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Single image super-resolution via adaptive high-dimensional non-local total variation and adaptive geometric feature](https://ieeexplore.ieee.org/document/7600470)
 
-**Chao Ren***, Xiaohai He, Truong Q. Nguyen
+**Chao Ren**<sup>✉</sup>, Xiaohai He, Truong Q. Nguyen
 
 [**Paper**](https://ieeexplore.ieee.org/document/7600470) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> |
 [**Codes**]() <strong><span class='show_paper_citations' data=''></span></strong>
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TITS 2022</div><img src='images/publications/TIP-2016-Chao Ren.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2016</div><img src='images/publications/TIP-2016-Chao Ren.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Single image super-resolution using local geometric duality and non-local similarity](https://ieeexplore.ieee.org/document/7433993)
 
-**Chao Ren***, Xiaohai He, Qizhi Teng, Yuanyuan Wu, Truong Q. Nguyen
+**Chao Ren**<sup>✉</sup>, Xiaohai He, Qizhi Teng, Yuanyuan Wu, Truong Q. Nguyen
 
 [**Paper**](https://ieeexplore.ieee.org/document/7433993) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> |
 [**Codes**]() <strong><span class='show_paper_citations' data=''></span></strong>
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TITS 2022</div><img src='images/publications/SP-2016-Honggang Chen.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Signal Processing 2022</div><img src='images/publications/SP-2016-Honggang Chen.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Single image super resolution using local smoothness and nonlocal self-similarity priors](https://www.sciencedirect.com/science/article/abs/pii/S0923596516000102)
@@ -522,7 +522,7 @@ Honggang Chen, Xiaohai He, Qizhi Teng, **Chao Ren**
 [**Codes**]() <strong><span class='show_paper_citations' data=''></span></strong>
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TITS 2022</div><img src='images/publications/SP-2015-Tao Li.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Signal Processing 2022</div><img src='images/publications/SP-2015-Tao Li.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Space-time super-resolution with patch group cuts prior](https://www.sciencedirect.com/science/article/abs/pii/S0923596514001477)
@@ -561,8 +561,7 @@ Tao Li, Xiaohai He, Qizhi Teng, Zhengyong Wang, **Chao Ren**
 - 2008.09 – 2012.06, Sichuan University, Electronic Information Engineering, **Bachelor's Degree**
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.06*, xxx
 
 # 💻 Academic Communications
 - **Academic Journal Service**: 
