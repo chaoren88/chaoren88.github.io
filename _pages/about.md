@@ -562,11 +562,11 @@ Tao Li, Xiaohai He, Qizhi Teng, Zhengyong Wang, **Chao Ren**
 
 # 💻 Academic Communications
 - **Academic Journal Service**: 
-    - International journals:
+    - **International journals**:
       - Electronics, **Guest Editor**
       - Applied Sciences – Basel, **Guest Editor**
       - Reviewers: TPAMI, TIP, IJCV ...
-    - national journals: 
+    - **National Journals**: 
       - 《工程科学学报》, **Youth Editorial Board Member（青年编委）**
       - 《数据采集与处理》, **Youth Editorial Board Member（青年编委）**
       - 《海军航空大学学报》, **Youth Editorial Board Member（青年编委）**
