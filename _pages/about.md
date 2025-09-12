@@ -29,7 +29,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<font color="#4A708B">TPAMI 1 TIP 1 CVPR 1 ICCV 1 ECCV 1</font>
+## 👏👏👏 <font color="#4A708B">TPAMI 1 TIP 1 CVPR 1 ICCV 1 ECCV 1</font> 👏👏👏
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2025</div><img src='images/publications/TCSVY-2025-Tianheng Zheng.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -566,6 +566,6 @@ Tao Li, Xiaohai He, Qizhi Teng, Zhengyong Wang, **Chao Ren**
       - 
       - 
 - **Academic Conference Service**: 
-  - 2025 the 10th International Conference on Image, Vision and Computing (ICIVC 2025) | Publication Chair
+  - 2025 the 10th International Conference on Image, Vision and Computing (ICIVC 2025), **Publication Chair**
   - 
 - **Academic organizations Service**: 
