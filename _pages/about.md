@@ -563,12 +563,24 @@ Tao Li, Xiaohai He, Qizhi Teng, Zhengyong Wang, **Chao Ren**
 # 💻 Academic Communications
 - **Academic Journal Service**: 
     - International journals:
-      - 
-      - 
+      - Electronics, **Guest Editor**
+      - Applied Sciences – Basel, **Guest Editor**
+      - Reviewers: TPAMI, TIP, IJCV ...
     - national journals: 
-      - 
-      - 
+      - 《工程科学学报》, **Youth Editorial Board Member（青年编委）**
+      - 《数据采集与处理》, **Youth Editorial Board Member（青年编委）**
+      - 《海军航空大学学报》, **Youth Editorial Board Member（青年编委）**
+      - 《通信技术》, **Executive Editorial Board Member（执行编委）**
 - **Academic Conference Service**: 
-  - 2025 the 10th International Conference on Image, Vision and Computing (ICIVC 2025), **Publication Chair**
-  - 
+    - 2025 the 10th International Conference on Image, Vision and Computing (ICIVC 2025), **Publication Chair**
+    - 2018 IEEE International Conference on Computer and Communications (ICCC 2018), **Session Chair**
+    - 2023 the International Conference on Image, Signal and Computing (ICISC 2023), **Program Committee Member**
+    - 2023 the International Conference on Optics and Image Processing (ICOIP 2023), **Publication Chair**
+    - 2023 the International Conference on Machine Vision, Image Processing and Imaging Technology (MVIPIT 2023), **Publicity Chair**
+    - 2025 the International Conference on Machine Vision, Image Processing and Imaging Technology (MVIPIT 2025), **Publicity Chair**
+    - 2023 the International Conference on Computer and Information Technology for Environmental Sciences (CITES 2023), **Program Chair**
+    - 2025 the International Conference on Robotics, Artificial Intelligence and Intelligent Control (RAIIC 2025), **Publicity Chair**
+    - 2025 the ACM International Conference on Intelligent Perception and Pattern Recognition (IPPR 2025), Technical **Committee Chair**
+    - Reviewers: CVPR(2025, 2024), ICCV(2025, 2023), ECCV(2024, 2022) ...
 - **Academic organizations Service**: 
+    - CCF Multimedia Technology Committee, **Executive Committee Member**
