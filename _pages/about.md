@@ -39,7 +39,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 [Plug-and-Play General Image Registration for Misaligned Multi-Modal Image Fusion](https://ieeexplore.ieee.org/abstract/document/11005625)
 
-Tianheng Zheng, Guanglu Dong, Pingping Zhang, Xiaohai He, **Chao Ren**<sup>✉️</sup>
+Tianheng Zheng, Guanglu Dong, Pingping Zhang, Xiaohai He, **Chao Ren**<sup>✉</sup>
 
 [**Paper**](https://ieeexplore.ieee.org/abstract/document/11005625) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> |
 [**Codes**](https://github.com/stwts/PGMR) <strong><span class='show_paper_citations' data=''></span></strong>
@@ -50,7 +50,7 @@ Tianheng Zheng, Guanglu Dong, Pingping Zhang, Xiaohai He, **Chao Ren**<sup>✉�
 
 [GBPG-Net: Global Background Prior-Guided Rain and Snow Image Restoration](https://ieeexplore.ieee.org/abstract/document/11048715)
 
-Xiao Liu, Xiaofeng Wang, Shouyi Wang, Haosong Gou, Zhengyong Wang, **Chao Ren**✉️
+Xiao Liu, Xiaofeng Wang, Shouyi Wang, Haosong Gou, Zhengyong Wang, **Chao Ren**<sup>✉️</sup>
 
 [**Paper**](https://ieeexplore.ieee.org/abstract/document/11048715) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> |
 [**Codes**](https://github.com/liux520/GPBG-Net) <strong><span class='show_paper_citations' data=''></span></strong>
