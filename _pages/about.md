@@ -569,7 +569,7 @@ Tao Li, Xiaohai He, Qizhi Teng, Zhengyong Wang, **Chao Ren**
     - **International journals**:
       - Electronics, **Guest Editor**
       - Applied Sciences – Basel, **Guest Editor**
-      - Reviewers: TPAMI, TIP, IJCV ...
+      - Reviewers: IEEE TPAMI, IEEE TIP, IJCV, IEEE TMM IEEE TCSVT, IEEE TCYB, IEEE TGRS, IEEE TAI, IEEE TITS, IEEE TNNLS, IEEE TII, IEEE Signal Processing, IEEE/CAA Journal of Automatica Sinica, Optics Express, Advanced Engineering Informatics...
     - **National Journals**: 
       - 《工程科学学报》, **Youth Editorial Board Member（青年编委）**
       - 《数据采集与处理》, **Youth Editorial Board Member（青年编委）**
@@ -585,6 +585,6 @@ Tao Li, Xiaohai He, Qizhi Teng, Zhengyong Wang, **Chao Ren**
     - 2023 the International Conference on Computer and Information Technology for Environmental Sciences (CITES 2023), **Program Chair**
     - 2025 the International Conference on Robotics, Artificial Intelligence and Intelligent Control (RAIIC 2025), **Publicity Chair**
     - 2025 the ACM International Conference on Intelligent Perception and Pattern Recognition (IPPR 2025), Technical **Committee Chair**
-    - Reviewers: CVPR(2025, 2024), ICCV(2025, 2023), ECCV(2024, 2022) ...
+    - Reviewers: CVPR(2025, 2024), ICCV(2025, 2023), ECCV(2024, 2022), ACMMM(2025, 2024) ...
 - **Academic organizations Service**: 
     - CCF Multimedia Technology Committee, **Executive Committee Member**
