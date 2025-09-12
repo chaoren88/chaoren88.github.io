@@ -30,7 +30,7 @@ My research interest includes neural machine translation and computer vision. I 
 # 📝 Publications 
 
 
-## <p align="center">👏👏👏 <font color="#4A708B">TPAMI 1 TIP 1 CVPR 1 ICCV 1 ECCV 1</font> 👏👏👏</p>
+## <center>👏👏👏 <font color="#4A708B">TPAMI 1 TIP 1 CVPR 1 ICCV 1 ECCV 1</font> 👏👏👏</center>
 
 
 
