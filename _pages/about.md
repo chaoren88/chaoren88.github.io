@@ -30,7 +30,7 @@ My research interest includes neural machine translation and computer vision. I 
 # 📝 Publications 
 
 
-## <center>👏👏👏 <font color="#4A708B">Total 46: **TPAMI** 1 **TIP** 1 **CVPR** 1 **ICCV** 1 **ECCV** 1 **Others** 1</font> 👏👏👏</center>
+## <center>👏👏👏 <font color="#4A708B">Total 46: TPAMI 1 TIP 1 CVPR 1 ICCV 1 ECCV 1 Others 1</font> 👏👏👏</center>
 
 
 
@@ -39,7 +39,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 [Plug-and-Play General Image Registration for Misaligned Multi-Modal Image Fusion](https://ieeexplore.ieee.org/abstract/document/11005625)
 
-Tianheng Zheng, Guanglu Dong, Pingping Zhang, Xiaohai He, **Chao Ren***
+Tianheng Zheng, Guanglu Dong, Pingping Zhang, Xiaohai He, **Chao Ren**<sup>✉️</sup>
 
 [**Paper**](https://ieeexplore.ieee.org/abstract/document/11005625) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> |
 [**Codes**](https://github.com/stwts/PGMR) <strong><span class='show_paper_citations' data=''></span></strong>
@@ -50,7 +50,7 @@ Tianheng Zheng, Guanglu Dong, Pingping Zhang, Xiaohai He, **Chao Ren***
 
 [GBPG-Net: Global Background Prior-Guided Rain and Snow Image Restoration](https://ieeexplore.ieee.org/abstract/document/11048715)
 
-Xiao Liu, Xiaofeng Wang, Shouyi Wang, Haosong Gou, Zhengyong Wang, **Chao Ren***
+Xiao Liu, Xiaofeng Wang, Shouyi Wang, Haosong Gou, Zhengyong Wang, **Chao Ren**✉️
 
 [**Paper**](https://ieeexplore.ieee.org/abstract/document/11048715) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> |
 [**Codes**](https://github.com/liux520/GPBG-Net) <strong><span class='show_paper_citations' data=''></span></strong>
@@ -61,7 +61,7 @@ Xiao Liu, Xiaofeng Wang, Shouyi Wang, Haosong Gou, Zhengyong Wang, **Chao Ren***
 
 [Re-boosting self-collaboration parallel prompt gan for unsupervised image restoration](https://ieeexplore.ieee.org/abstract/document/11081458)
 
-Xin Lin; Yuyan Zhou; Jingtong Yue; **Chao Ren***; Kelvin C.K. Chan; Lu Qi
+Xin Lin; Yuyan Zhou; Jingtong Yue; **Chao Ren**✉️; Kelvin C.K. Chan; Lu Qi
 
 [**Paper**](https://ieeexplore.ieee.org/abstract/document/11081458) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> |
 [**Codes**](https://github.com/linxin0/RSCP2GAN) <strong><span class='show_paper_citations' data=''></span></strong>
@@ -72,7 +72,7 @@ Xin Lin; Yuyan Zhou; Jingtong Yue; **Chao Ren***; Kelvin C.K. Chan; Lu Qi
 
 [Dual-Representation Interaction Driven Image Quality Assessment with Restoration Assistance](https://ieeexplore.ieee.org/document/10943422)
 
-Jingtong Yue, Xin Lin, Zijiu Yang, **Chao Ren***
+Jingtong Yue, Xin Lin, Zijiu Yang, **Chao Ren**✉️
 
 [**Paper**](https://ieeexplore.ieee.org/document/10943422) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | 
 [**Codes**]() <strong><span class='show_paper_citations' data=''></span></strong>
@@ -83,7 +83,7 @@ Jingtong Yue, Xin Lin, Zijiu Yang, **Chao Ren***
 
 [Dual Degradation Representation for Joint Deraining and Low-Light Enhancement in the Dark](https://ieeexplore.ieee.org/document/10737413)
 
-Xin Lin, Jingtong Yue, Sixian Ding, **Chao Ren***, Lu Qi, Ming-Hsuan Yang
+Xin Lin, Jingtong Yue, Sixian Ding, **Chao Ren**✉️, Lu Qi, Ming-Hsuan Yang
 
 [**Paper**](https://ieeexplore.ieee.org/document/10737413)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | 
 [**Codes**](https://github.com/linxin0) <strong><span class='show_paper_citations' data=''></span></strong>
@@ -94,7 +94,7 @@ Xin Lin, Jingtong Yue, Sixian Ding, **Chao Ren***, Lu Qi, Ming-Hsuan Yang
 
 [Dual-stage feedback network for lightweight color image compression artifact reduction](https://www.sciencedirect.com/science/article/abs/pii/S0893608024004799)
 
-Zhengxin Chen, Xiaohai He, Tingrong Zhang, Shuhua Xiong, **Chao Ren***
+Zhengxin Chen, Xiaohai He, Tingrong Zhang, Shuhua Xiong, **Chao Ren**✉️
 
 [**Paper**](https://www.sciencedirect.com/science/article/abs/pii/S0893608024004799)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | 
 [**Codes**]() <strong><span class='show_paper_citations' data=''></span></strong>
