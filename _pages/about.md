@@ -26,7 +26,10 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
+
 # 📝 Publications 
+
+<"#4A708B"> TPAMI 1 <font> | TIP 1 | CVPR 1 | ICCV 1 | ECCV 1 | 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2025</div><img src='images/publications/TCSVY-2025-Tianheng Zheng.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
