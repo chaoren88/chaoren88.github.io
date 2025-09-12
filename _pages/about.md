@@ -538,8 +538,8 @@ Tao Li, Xiaohai He, Qizhi Teng, Zhengyong Wang, **Chao Ren**
 
 
 # 🎖 Honors and Awards
-- 2017: National Postdoctoral Innovation Talent Support Program (Bo Xin Program; only 8 individuals nationwide selected in this discipline that year), Rank 1, Ministry of Human Resources and Social Security, National Postdoctoral Management Committee
-- 2023: Huawei Spark Award, Rank 1, Huawei Technologies Co., Ltd.
+- 2017, National Postdoctoral Innovation Talent Support Program (Bo Xin Program; only 8 individuals nationwide selected in this discipline that year), Rank 1, Ministry of Human Resources and Social Security, National Postdoctoral Management Committee
+- 2023, Huawei Spark Award, Rank 1, Huawei Technologies Co., Ltd.
 - 2023, Third Prize, Sichuan Provincial Science and Technology Progress Award, Ranked 4th, Sichuan Provincial People's Government
 - 2024, Third Prize, China Institute of Communications Science and Technology Award, Ranked 3rd, China Institute of Communications
 - 2023, Sichuan University Hundred Talents Program, Ranked 1st, Sichuan University
@@ -559,7 +559,13 @@ Tao Li, Xiaohai He, Qizhi Teng, Zhengyong Wang, **Chao Ren**
 
 # 💻 Academic Communications
 - **Academic Journal Service**: 
-    - 2025 the 10th International Conference on Image, Vision and Computing (ICIVC 2025) 
-    - 
-- **Academic Conference Service**: ACM MM2023，ACM MM2024，PRCV2024
+    - International journals:
+      - 
+      - 
+    - national journals: 
+      - 
+      - 
+- **Academic Conference Service**: 
+  - 2025 the 10th International Conference on Image, Vision and Computing (ICIVC 2025) | Publication Chair
+  - 
 - **Academic organizations Service**: 
