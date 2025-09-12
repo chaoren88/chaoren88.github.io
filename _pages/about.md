@@ -538,8 +538,16 @@ Tao Li, Xiaohai He, Qizhi Teng, Zhengyong Wang, **Chao Ren**
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- 2017: National Postdoctoral Innovation Talent Support Program (Bo Xin Program; only 8 individuals nationwide selected in this discipline that year), Rank 1, Ministry of Human Resources and Social Security, National Postdoctoral Management Committee
+- 2023: Huawei Spark Award, Rank 1, Huawei Technologies Co., Ltd.
+- 2023, Third Prize, Sichuan Provincial Science and Technology Progress Award, Ranked 4th, Sichuan Provincial People's Government
+- 2024, Third Prize, China Institute of Communications Science and Technology Award, Ranked 3rd, China Institute of Communications
+- 2023, Sichuan University Hundred Talents Program, Ranked 1st, Sichuan University
+- 2024, Sichuan University Outstanding Research Talent—Academic Newcomer Award (only 10 recipients annually across all disciplines university-wide), Rank 1, Sichuan University
+- 2023, ICDT Novel Display Technology Competition, National First Prize (Advisor), Rank 1, Society for Information Display (SID) China Chapter, International Conference on Display Technology (ICDT) Organizing Committee, Huawei Device Co., Ltd. (The sole national first prize in this category that year)
+- 2017, Elsevier Outstanding Reviewer Award, 2 times, Rank 1, Elsevier
+- 2018, 2020, 2024, Sichuan University Sanxin Teaching Award and Wuliangchun Outstanding Faculty Award, 3 times, Rank 1, Sichuan University
+
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -549,6 +557,9 @@ Tao Li, Xiaohai He, Qizhi Teng, Zhengyong Wang, **Chao Ren**
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Service
-- **Journal Reviewer**: 
-- **Conference Reviewer**: ACM MM2023，ACM MM2024，PRCV2024
+# 💻 Academic Communications
+- **Academic Journal Service**: 
+    - 2025 the 10th International Conference on Image, Vision and Computing (ICIVC 2025) 
+    - 
+- **Academic Conference Service**: ACM MM2023，ACM MM2024，PRCV2024
+- **Academic organizations Service**: 
