@@ -553,8 +553,12 @@ Tao Li, Xiaohai He, Qizhi Teng, Zhengyong Wang, **Chao Ren**
 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- 2021.09 – Present, Sichuan University, College of Electronic Information, **Associate Researcher**
+- 2018.05 – 2021.08, Sichuan University, College of Electronic Information, **Associate Researcher (Full-time Research)**
+- 2017.07 – 2018.04, Sichuan University, College of Electronic Information, **Assistant Researcher**
+- 2012.09 – 2017.06, Sichuan University, Communications and Information Systems, **Ph.D.**
+- 2015.09 – 2016.09, University of California, San Diego (UCSD), **Joint Ph.D. Program**
+- 2008.09 – 2012.06, Sichuan University, Electronic Information Engineering, **Bachelor's Degree**
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
