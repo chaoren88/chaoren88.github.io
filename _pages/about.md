@@ -29,7 +29,10 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-## 👏👏👏 <font color="#4A708B">TPAMI 1 TIP 1 CVPR 1 ICCV 1 ECCV 1</font> 👏👏👏
+
+## <p align="center">👏👏👏 <font color="#4A708B">TPAMI 1 TIP 1 CVPR 1 ICCV 1 ECCV 1</font> 👏👏👏</p>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2025</div><img src='images/publications/TCSVY-2025-Tianheng Zheng.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
