@@ -17,14 +17,24 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Chao Ren, an Associate Research Professor with the College of Electronics and Information Engineering, Sichuan University, Chengdu, China. 
+Dr. Ren received the Ph.D. degree in Communication and Information System from Sichuan University, Chengdu, China, in 2017. 
+His current research interests include inverse problems in image and video processing.
+Dr. Ren has published more than 70 papers in SCI journals and international conferences with total 
+<a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>2080+</span></strong></a> . 
+Among them, he has authored or co-authored over 20 high-level papers as the first or corresponding author in top-tier venues, 
+including the IEEE Conference on Computer Vision and Pattern Recognition (CVPR, CCF A), 
+the International Conference on Computer Vision (ICCV, CCF A), Advances in Neural Information Processing Systems (NeurIPS, CCF A), 
+the ACM International Conference on Multimedia (ACMMM, CCF A), and leading journals such as 
+IEEE Transactions on Image Processing (TIP, CCF A, JCR Q1), IEEE Transactions on Cybernetics (TCYB, JCR Q1), 
+IEEE Transactions on Multimedia (TMM, JCR Q1), IEEE Transactions on Circuits and Systems for Video Technology (TCSVT, JCR Q1), 
+and IEEE Transactions on Industrial Informatics (TII, JCR Q1).
+Dr. Ren has received the Huawei Spark Award and was selected for the National Post-Doctoral Program for Innovative Talents of China.
+My research interest includes neural machine translation and computer vision. 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.09*: &nbsp;🎉🎉 
 
 
 # 📝 Publications 
