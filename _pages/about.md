@@ -328,7 +328,7 @@ Linbo Qing, Mengfan Wu, Gang Liu, Xiao Liu, Xiaohai He, **Chao Ren**<sup>✉</su
 
 [Enhanced latent space blind model for real image denoising via alternative optimization](https://proceedings.neurips.cc/paper_files/paper/2022/hash/fa93d7bfb48450e1af63c8fa647d317f-Abstract-Conference.html)
 
-**Chao Ren**<sup>✉</sup>, Yizhong Pan, Jie Huang
+**Chao Ren**, Yizhong Pan, Jie Huang
 
 [**Paper**](https://proceedings.neurips.cc/paper_files/paper/2022/hash/fa93d7bfb48450e1af63c8fa647d317f-Abstract-Conference.html) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> |
 [**Codes**]() <strong><span class='show_paper_citations' data=''></span></strong>
@@ -339,7 +339,7 @@ Linbo Qing, Mengfan Wu, Gang Liu, Xiao Liu, Xiaohai He, **Chao Ren**<sup>✉</su
 
 [Learning image profile enhancement and denoising statistics priors for single-image super-resolution](https://ieeexplore.ieee.org/document/8809912)
 
-**Chao Ren**<sup>✉</sup>, Xiaohai He, Yifei Pu, Truong Q. Nguyen
+**Chao Ren**, Xiaohai He, Yifei Pu, Truong Q. Nguyen
 
 [**Paper**](https://ieeexplore.ieee.org/document/8809912) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> |
 [**Codes**]() <strong><span class='show_paper_citations' data=''></span></strong>
@@ -350,7 +350,7 @@ Linbo Qing, Mengfan Wu, Gang Liu, Xiao Liu, Xiaohai He, **Chao Ren**<sup>✉</su
 
 [Remote sensing image recovery via enhanced residual learning and dual-luminance scheme](https://www.sciencedirect.com/science/article/abs/pii/S0950705121002768)
 
-**Chao Ren**<sup>✉</sup>, Xiaohai He, Linbo Qing, Yuanyuan Wu, Yifei Pu
+**Chao Ren**, Xiaohai He, Linbo Qing, Yuanyuan Wu, Yifei Pu
 
 [**Paper**](https://www.sciencedirect.com/science/article/abs/pii/S0950705121002768) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> |
 [**Codes**]() <strong><span class='show_paper_citations' data=''></span></strong>
@@ -361,7 +361,7 @@ Linbo Qing, Mengfan Wu, Gang Liu, Xiao Liu, Xiaohai He, **Chao Ren**<sup>✉</su
 
 [Compressed image restoration via deep deblocker driven unified framework](https://www.sciencedirect.com/science/article/abs/pii/S095070512100530X)
 
-**Chao Ren**<sup>✉</sup>, Qizhi Teng, Xiaohai He, Linbo Qing, Truong Q. Nguyen
+**Chao Ren**, Qizhi Teng, Xiaohai He, Linbo Qing, Truong Q. Nguyen
 
 [**Paper**](https://www.sciencedirect.com/science/article/abs/pii/S095070512100530X) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> |
 [**Codes**]() <strong><span class='show_paper_citations' data=''></span></strong>
@@ -383,7 +383,7 @@ Chuncheng Wang, **Chao Ren**<sup>✉</sup>, Xiaohai He, Linbo Qing
 
 [Adaptive consistency prior based deep network for image denoising](https://ieeexplore.ieee.org/document/9577972)
 
-**Chao Ren**<sup>✉</sup>, Xiaohai He, Chuncheng Wang, Zhibo Zhao
+**Chao Ren**, Xiaohai He, Chuncheng Wang, Zhibo Zhao
 
 [**Paper**](https://ieeexplore.ieee.org/document/9577972) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> |
 [**Codes**]() <strong><span class='show_paper_citations' data=''></span></strong>
@@ -394,7 +394,7 @@ Chuncheng Wang, **Chao Ren**<sup>✉</sup>, Xiaohai He, Linbo Qing
 
 [Deep deblocker driven adaptive iteration scheme for compressed image recovery](https://ieeexplore.ieee.org/document/9428099)
 
-**Chao Ren**<sup>✉</sup>, Xiaohai He, Linbo Qing, Yuanzhouhan Cao
+**Chao Ren**, Xiaohai He, Linbo Qing, Yuanzhouhan Cao
 
 [**Paper**](https://ieeexplore.ieee.org/document/9428099) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> |
 [**Codes**]() <strong><span class='show_paper_citations' data=''></span></strong>
@@ -438,7 +438,7 @@ Jing Hu, Xin Zhou, **Chao Ren**, Xinglong Li, Xiaohai He
 
 [Adjusted non-local regression and directional smoothness for image restoration](https://ieeexplore.ieee.org/document/8440746)
 
-**Chao Ren**<sup>✉</sup>, Xiaohai He, Truong Q. Nguyen
+**Chao Ren**, Xiaohai He, Truong Q. Nguyen
 
 [**Paper**](https://ieeexplore.ieee.org/document/8440746) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> |
 [**Codes**]() <strong><span class='show_paper_citations' data=''></span></strong>
@@ -471,7 +471,7 @@ Junxi Feng, Xiaohai He, Qizhi Teng, **Chao Ren**, Honggang Chen, Yang Li
 
 [Non-local similarity modeling and deep CNN gradient prior for super resolution](https://ieeexplore.ieee.org/document/8345640)
 
-**Chao Ren**<sup>✉</sup>, Xiaohai He, Yifei Pu
+**Chao Ren**, Xiaohai He, Yifei Pu
 
 [**Paper**](https://ieeexplore.ieee.org/document/8345640) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> |
 [**Codes**]() <strong><span class='show_paper_citations' data=''></span></strong>
@@ -504,7 +504,7 @@ Junxi Feng, Xiaohai He, Qizhi Teng, **Chao Ren**, Honggang Chen, Yang Li
 
 [Single image super-resolution via adaptive high-dimensional non-local total variation and adaptive geometric feature](https://ieeexplore.ieee.org/document/7600470)
 
-**Chao Ren**<sup>✉</sup>, Xiaohai He, Truong Q. Nguyen
+**Chao Ren**, Xiaohai He, Truong Q. Nguyen
 
 [**Paper**](https://ieeexplore.ieee.org/document/7600470) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> |
 [**Codes**]() <strong><span class='show_paper_citations' data=''></span></strong>
@@ -515,7 +515,7 @@ Junxi Feng, Xiaohai He, Qizhi Teng, **Chao Ren**, Honggang Chen, Yang Li
 
 [Single image super-resolution using local geometric duality and non-local similarity](https://ieeexplore.ieee.org/document/7433993)
 
-**Chao Ren**<sup>✉</sup>, Xiaohai He, Qizhi Teng, Yuanyuan Wu, Truong Q. Nguyen
+**Chao Ren**, Xiaohai He, Qizhi Teng, Yuanyuan Wu, Truong Q. Nguyen
 
 [**Paper**](https://ieeexplore.ieee.org/document/7433993) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> |
 [**Codes**]() <strong><span class='show_paper_citations' data=''></span></strong>
