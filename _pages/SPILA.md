@@ -1,11 +1,11 @@
 ---
-permalink: /SPILA/
+permalink: /
 title: ""
 excerpt: ""
 author_profile: true
 redirect_from: 
-  - /SPILA/
-  - /SPILA.html
+  - /about/
+  - /about.html
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
