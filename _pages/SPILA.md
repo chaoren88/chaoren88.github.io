@@ -8,14 +8,7 @@ layout: default
 
 
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
-<span class='anchor' id='about-me'></span> 
+# 🔥 News
 
 Chao Ren, an Associate Research Professor with the College of Electronics and Information Engineering, Sichuan University, Chengdu, China. 
 Dr. Ren received the Ph.D. degree in Communication and Information System from Sichuan University, Chengdu, China, in 2017. 
