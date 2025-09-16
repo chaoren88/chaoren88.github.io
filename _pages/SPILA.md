@@ -1,8 +1,9 @@
 ---
-permalink: /
+permalink: /SPILA/
 title: ""
 excerpt: ""
 author_profile: true
+layout: archive
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
