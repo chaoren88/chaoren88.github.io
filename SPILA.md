@@ -66,10 +66,9 @@ We are interested in **Image/Video Processing**, **Computer Vision**, **Artifici
         }
 
         .student img {
-            width: 200px;
-            height: 200px;
-            border-radius: 50%; 
-            object-fit: cover;
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
             margin-bottom: 10px;
         }
 
@@ -274,7 +273,7 @@ We are interested in **Image/Video Processing**, **Computer Vision**, **Artifici
                 <div class="student-name">Jie Huang (黄杰)</div>
                 <div class="student-role">MS@SCU, 2021 - 2024</div>
                 <div class="student-research">Image Denoising</div>
-                <div class="student-work">OPPO</div>
+                <div class="student-work">CATL</div>
             </div>
         </div>        
 
