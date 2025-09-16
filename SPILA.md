@@ -130,13 +130,13 @@
             <div class="student">
                 <img src="/images/labs/wxf.jpg" alt="Meng Li">
                 <div class="student-name">Meng Li (李梦)</div>
-                <div class="student-role">PhD@SCU, 2025 - present</div>
+                <div class="student-role">PhD@SCU, 2024 - present</div>
                 <div class="student-research">Image Restoration</div>
             </div>
             <div class="student">
                 <img src="/images/labs/wxf.jpg" alt="XiangPeng Tian">
                 <div class="student-name">XiangPeng Tian (田相鹏)</div>
-                <div class="student-role">PhD@SCU, 2025 - present</div>
+                <div class="student-role">PhD@SCU, 2023 - present</div>
                 <div class="student-research">Image Restoration</div>
             </div>
         </div>
