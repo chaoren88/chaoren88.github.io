@@ -66,8 +66,8 @@ We are interested in **Image/Video Processing**, **Computer Vision**, **Artifici
         }
 
         .student img {
-            width: 150px;
-            height: 150px;
+            width: 100px;
+            height: 100px;
             border-radius: 50%;
             margin-bottom: 10px;
         }
@@ -121,7 +121,7 @@ We are interested in **Image/Video Processing**, **Computer Vision**, **Artifici
                 <div class="student-research">Image Restoration</div>
             </div>
             <div class="student">
-                <img src="/images/labs/liuxiao.jpg" alt="Guihuan Guo">
+                <img src="/images/labs/ggh.jpg" alt="Guihuan Guo">
                 <div class="student-name">Guihuan Guo (国桂环)</div>
                 <div class="student-role">PhD@SCU, 2024 - present</div>
                 <div class="student-research">Image Restoration</div>
@@ -185,8 +185,8 @@ We are interested in **Image/Video Processing**, **Computer Vision**, **Artifici
                 <div class="student-research">Change Caption</div>
             </div>
             <div class="student">
-                <img src="/images/labs/zyh.jpg" alt="Tianheng Zheng">
-                <div class="student-name">Tianheng Zheng (郑天恒)</div>
+                <img src="/images/labs/zth.jpg" alt="Tianheng Zheng">
+                <div class="student-name">Tianheng Zheng (郑天衡)</div>
                 <div class="student-role">MS@SCU, 2023 - present</div>
                 <div class="student-research">Change Caption</div>
             </div>
