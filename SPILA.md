@@ -2,15 +2,25 @@
 # Welcome to our **Super Pixel Intelligence LAB (SPILA)**! 
 
 We are interested in **Image/Video Processing**, **Computer Vision**, **Artificial Intelligence**, and **Multimedia Communications and Information Systems**, etc. 
+
 <style>
+  .image-container {
+      display: flex; /* Enable Flexbox */
+      gap: 20px;     /* Space between the images */
+      justify-content: center; /* Center the images */
+  }
+
   .custom-image {
-      width: 100%;
-      height: auto;
-      border-radius: 10px;
+      width: 45%;      /* Each image takes 45% of the width */
+      height: auto;    /* Maintain aspect ratio */
+      border-radius: 10px; /* Optional: rounded corners */
   }
 </style>
 
-<img src="/images/500x300.png" alt="SPILA" class="custom-image">
+<div class="image-container">
+  <img src="/images/500x300.png" alt="SPILA" class="custom-image">
+  <img src="/images/500x300.png" alt="SPILA" class="custom-image">
+</div>
 
 <hr />
 
