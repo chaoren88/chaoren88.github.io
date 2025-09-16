@@ -66,9 +66,9 @@ We are interested in **Image/Video Processing**, **Computer Vision**, **Artifici
         }
 
         .student img {
-            width: 80px;
-            height: 80px;
-            border-radius: 50%;
+            width: 100px;
+            height: 100px;
+            border-radius: 70%; 
             object-fit: cover;
             margin-bottom: 10px;
         }
