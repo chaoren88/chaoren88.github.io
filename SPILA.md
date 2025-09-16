@@ -20,6 +20,8 @@ We are interested in **Image/Video Processing**, **Computer Vision**, **Artifici
 <div class="image-container">
   <img src="/images/500x300.png" alt="SPILA" class="custom-image">
   <img src="/images/500x300.png" alt="SPILA" class="custom-image">
+  <img src="/images/500x300.png" alt="SPILA" class="custom-image">
+  <img src="/images/500x300.png" alt="SPILA" class="custom-image">
 </div>
 
 <hr />
