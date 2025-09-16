@@ -75,6 +75,11 @@
             font-size: 1.1rem;
             font-weight: bold;
         }
+        
+        .student-name a {
+            text-decoration: none; /* Ensures no underline */
+            color: inherit;        /* Inherit color from the parent (i.e., no change in color) */
+        }
 
         .student-role {
             font-size: 1rem;
@@ -109,7 +114,9 @@
         <div class="students">
             <div class="student">
                 <img src="/images/labs/liuxiao.jpg" alt="Xiao Liu">
-                <div class="student-name">[Xiao Liu (刘晓)](https://liuxiao.email/)</div>
+                <div class="student-name">
+                    <href="https://liuxiao.email/" target="_blank">Xiao Liu (刘晓)</a>
+                </div>
                 <div class="student-role">PhD@SCU, 2024 - present</div>
                 <div class="student-research">Image Restoration</div>
             </div>
