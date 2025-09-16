@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /SPILA/
 title: ""
 excerpt: ""
 author_profile: true
