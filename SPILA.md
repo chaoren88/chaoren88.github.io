@@ -1,13 +1,157 @@
-Chao Ren, an Associate Research Professor with the College of Electronics and Information Engineering, Sichuan University, Chengdu, China. 
-Dr. Ren received the Ph.D. degree in Communication and Information System from Sichuan University, Chengdu, China, in 2017. 
-His current research interests include inverse problems in image and video processing.
-Dr. Ren has published more than 70 papers in SCI journals and international conferences with total 
-<a href='https://scholar.google.com/citations?user=Y6OuBMYAAAAJ&hl=zh-CN&oi=ao'>google scholar citations <strong><span id='total_cit'>2080+</span></strong></a> . 
-Among them, he has authored or co-authored over 20 high-level papers as the first or corresponding author in top-tier venues, 
-including the IEEE Conference on Computer Vision and Pattern Recognition (CVPR, CCF A), 
-the International Conference on Computer Vision (ICCV, CCF A), Advances in Neural Information Processing Systems (NeurIPS, CCF A), 
-the ACM International Conference on Multimedia (ACMMM, CCF A), and leading journals such as 
-IEEE Transactions on Image Processing (TIP, CCF A, JCR Q1), IEEE Transactions on Cybernetics (TCYB, JCR Q1), 
-IEEE Transactions on Multimedia (TMM, JCR Q1), IEEE Transactions on Circuits and Systems for Video Technology (TCSVT, JCR Q1), 
-and IEEE Transactions on Industrial Informatics (TII, JCR Q1).
-Dr. Ren has received the Huawei Spark Award and was selected for the National Post-Doctoral Program for Innovative Talents of China.
+Welcome to our **Super Pixel Intelligence LAB (SPILA)**! 
+We are interested in **Image/Video Processing**, **Computer Vision**, **Artificial Intelligence**, and
+**Multimedia Communications and Information Systems**, etc. 
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Academic Team</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        h2 {
+            font-size: 2rem;
+            margin-bottom: 20px;
+        }
+
+        .students {
+            display: flex;
+            justify-content: space-between;
+            flex-wrap: wrap;
+            gap: 40px;
+            margin-bottom: 60px;
+        }
+
+        .student {
+            width: 30%;
+            text-align: center;
+        }
+
+        .student img {
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+            object-fit: cover;
+            margin-bottom: 10px;
+        }
+
+        .student-name {
+            font-size: 1.1rem;
+            font-weight: bold;
+        }
+
+        .student-role {
+            font-size: 1rem;
+            color: #555;
+        }
+
+        .student-research {
+            font-size: 0.9rem;
+            color: #777;
+        }
+
+        .students-section {
+            margin-bottom: 40px;
+        }
+
+        .students-section:last-child {
+            margin-bottom: 0;
+        }
+
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h2>PhD Students</h2>
+        <div class="students">
+            <div class="student">
+                <img src="images/personal/android-chrome-192x192.png" alt="Yida Chen">
+                <div class="student-name">Xiao Liu (刘晓)</div>
+                <div class="student-role">PhD@Kust, 2023 - present</div>
+                <div class="student-research">Image Registration/Fusion</div>
+            </div>
+            <div class="student">
+                <img src="images/personal/android-chrome-192x192.png" alt="Keying Du">
+                <div class="student-name">Xiao Liu (刘晓)</div>
+                <div class="student-role">PhD@Kust, 2024 - present</div>
+                <div class="student-research">Image Registration/Fusion</div>
+            </div>
+        </div>
+
+        <h2>MS Students</h2>
+        <div class="students">
+            <div class="student">
+                <img src="images/personal/android-chrome-192x192.png" alt="Jiaqi Fang">
+                <div class="student-name">Xiao Liu (刘晓)</div>
+                <div class="student-role">MS@Kust, 2023 - present</div>
+                <div class="student-research">Image Fusion</div>
+            </div>
+            <div class="student">
+                <img src="images/personal/android-chrome-192x192.png" alt="Lingqi Kong">
+                <div class="student-name">Xiao Liu (刘晓)</div>
+                <div class="student-role">MS@Kust, 2023 - present</div>
+                <div class="student-research">Person Re-ID</div>
+            </div>
+            <div class="student">
+                <img src="images/personal/android-chrome-192x192.png" alt="Hao Li">
+                <div class="student-name">Xiao Liu (刘晓)</div>
+                <div class="student-role">MS@Kust, 2023 - present</div>
+                <div class="student-research">Change Caption</div>
+            </div>
+            <div class="student">
+                <img src="images/personal/android-chrome-192x192.png" alt="Yongle Shang">
+                <div class="student-name">Xiao Liu (刘晓)</div>
+                <div class="student-role">MS@Kust, 2023 - present</div>
+                <div class="student-research">Person Re-ID</div>
+            </div>
+        </div>
+
+        <h2>Former Students</h2>
+        <div class="students">
+            <div class="student">
+                <img src="images/personal/android-chrome-192x192.png" alt="Jiaqi Fang">
+                <div class="student-name">Xiao Liu (刘晓)</div>
+                <div class="student-role">MS@Kust, 2023 - present</div>
+                <div class="student-research">Image Fusion</div>
+            </div>
+            <div class="student">
+                <img src="images/personal/android-chrome-192x192.png" alt="Lingqi Kong">
+                <div class="student-name">Xiao Liu (刘晓)</div>
+                <div class="student-role">MS@Kust, 2023 - present</div>
+                <div class="student-research">Person Re-ID</div>
+            </div>
+            <div class="student">
+                <img src="images/personal/android-chrome-192x192.png" alt="Hao Li">
+                <div class="student-name">Xiao Liu (刘晓)</div>
+                <div class="student-role">MS@Kust, 2023 - present</div>
+                <div class="student-research">Change Caption</div>
+            </div>
+            <div class="student">
+                <img src="images/personal/android-chrome-192x192.png" alt="Yongle Shang">
+                <div class="student-name">Xiao Liu (刘晓)</div>
+                <div class="student-role">MS@Kust, 2023 - present</div>
+                <div class="student-research">Person Re-ID</div>
+            </div>
+        </div>        
+
+    </div>
+
+</body>
+</html>
+
