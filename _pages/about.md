@@ -51,7 +51,6 @@ Dr. Ren has received the Huawei Spark Award and was selected for the National Po
 <body>
 
 <div class="scroll-box">
-    <p><span class="date">2025.09:</span> 🎉🎉 One paper was accepted by ACM International Conference on Multimedia (ACM MM 2023).</p>
     <p>- 2025.09: 🎉🎉 One paper was accepted by ACM International Conference on Multimedia (ACM MM 2023).</p>
     <p>- 2025.09: 🎉🎉 One paper was accepted by ACM International Conference on Multimedia (ACM MM 2023).</p>
     <p>- 2025.09: 🎉🎉 One paper was accepted by ACM International Conference on Multimedia (ACM MM 2023).</p>
