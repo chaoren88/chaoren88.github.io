@@ -15,8 +15,8 @@ main:
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
-
   - title: "Academic Communications"
     url: "/#-academic-communications"
+
+  - title: "SPILA"
+    url: "SPILA"

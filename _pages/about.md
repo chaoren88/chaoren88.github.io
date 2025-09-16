@@ -30,11 +30,23 @@ IEEE Transactions on Image Processing (TIP, CCF A, JCR Q1), IEEE Transactions on
 IEEE Transactions on Multimedia (TMM, JCR Q1), IEEE Transactions on Circuits and Systems for Video Technology (TCSVT, JCR Q1), 
 and IEEE Transactions on Industrial Informatics (TII, JCR Q1).
 Dr. Ren has received the Huawei Spark Award and was selected for the National Post-Doctoral Program for Innovative Talents of China.
-My research interest includes neural machine translation and computer vision. 
 
 
 # 🔥 News
+
+<div style="max-height: 300px; overflow-y: auto;">
+
 - *2025.09*: &nbsp;🎉🎉 
+- *2025.09*: &nbsp;🎉🎉 
+- *2025.09*: &nbsp;🎉🎉 
+- *2025.09*: &nbsp;🎉🎉 
+- *2025.09*: &nbsp;🎉🎉 
+
+</div>
+
+
+
+
 
 
 # 📝 Publications 
