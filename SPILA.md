@@ -162,13 +162,13 @@
                 <div class="student-research">Change Caption</div>
             </div>
             <div class="student">
-                <img src="/images/labs/zyh.jpg" alt="Mingyang Li">
+                <img src="/images/labs/lmy.jpg" alt="Mingyang Li">
                 <div class="student-name">Mingyang Li (李鸣阳)</div>
                 <div class="student-role">MS@SCU, 2024 - present</div>
                 <div class="student-research">Change Caption</div>
             </div>
             <div class="student">
-                <img src="/images/labs/zyh.jpg" alt="Fajing Liu">
+                <img src="/images/labs/lfj.jpg" alt="Fajing Liu">
                 <div class="student-name">Fajing Liu (刘发静)</div>
                 <div class="student-role">MS@SCU, 2024 - present</div>
                 <div class="student-research">Change Caption</div>
