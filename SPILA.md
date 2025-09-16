@@ -69,7 +69,7 @@
             width: 120px;
             height: 120px;
             border-radius: 50%;
-            object-fit: contain;
+            object-fit: none;  /* fill contain cover scale-down none  */
             margin-bottom: 10px;
         }
 
