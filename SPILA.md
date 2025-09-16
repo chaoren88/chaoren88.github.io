@@ -1,7 +1,7 @@
 
 # Welcome to our **Super Pixel Intelligence LAB (SPILA)**! 
 
-# We are interested in **Image/Video Processing**, **Computer Vision**, **Artificial Intelligence**, and **Multimedia Communications and Information Systems**, etc. 
+## We are interested in **Image/Video Processing**, **Computer Vision**, **Artificial Intelligence**, and **Multimedia Communications and Information Systems**, etc. 
 
 
 <html lang="en">
