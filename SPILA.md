@@ -66,8 +66,8 @@
         }
 
         .student img {
-            width: 100px;
-            height: 100px;
+            width: 120px;
+            height: 120px;
             border-radius: 50%;
             object-fit: contain;
             margin-bottom: 10px;
