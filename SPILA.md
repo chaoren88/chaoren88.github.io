@@ -270,7 +270,7 @@
                 <div class="student-work">OPPO</div>
             </div>
             <div class="student">
-                <img src="/images/labs/lxy.JPG" alt="Jie Huang">
+                <img src="/images/labs/hj.jpg" alt="Jie Huang">
                 <div class="student-name">Jie Huang (黄杰)</div>
                 <div class="student-role">MS@SCU, 2021 - 2024</div>
                 <div class="student-research">Image Denoising</div>
