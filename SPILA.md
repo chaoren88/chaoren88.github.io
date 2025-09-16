@@ -212,14 +212,14 @@
         <h2>Research Interns</h2>
         <div class="students">
             <div class="student">
-                <img src="/images/personal/android-chrome-192x192.png" alt="Jiaqi Fang">
-                <div class="student-name">Xiao Liu (刘晓)</div>
+                <img src="/images/labs/ls.jpg" alt="Shi Luo">
+                <div class="student-name">Shi Luo (罗十)</div>
                 <div class="student-role">BS@SCU, 2023 - present</div>
                 <div class="student-research">Image Fusion</div>
             </div>
             <div class="student">
-                <img src="/images/personal/android-chrome-192x192.png" alt="Lingqi Kong">
-                <div class="student-name">Xiao Liu (刘晓)</div>
+                <img src="/images/labs/psr.jpg" alt="Shurui Peng">
+                <div class="student-name">Shurui Peng (彭书睿)</div>
                 <div class="student-role">BS@SCU, 2023 - present</div>
                 <div class="student-research">Person Re-ID</div>
             </div>
