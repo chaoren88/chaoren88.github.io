@@ -1,13 +1,3 @@
----
-permalink: /SPILA/
-title: ""
-excerpt: ""
-author_profile: true
-layout: default
----
-
-
-
 # 🔥 News
 
 Chao Ren, an Associate Research Professor with the College of Electronics and Information Engineering, Sichuan University, Chengdu, China. 
