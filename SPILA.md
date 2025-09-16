@@ -69,7 +69,7 @@
             width: 120px;
             height: 120px;
             border-radius: 50%;
-            object-fit: none;  /* fill contain cover scale-down none  */
+            /* object-fit: none;   fill contain cover scale-down none  */
             margin-bottom: 10px;
         }
 
@@ -180,7 +180,7 @@
                 <div class="student-research">Change Caption</div>
             </div>
             <div class="student">
-                <img src="/images/labs/zyh.jpg" alt="Yiqi Hu">
+                <img src="/images/labs/hyq.jpg" alt="Yiqi Hu">
                 <div class="student-name">Yiqi Hu (胡屹琪)</div>
                 <div class="student-role">MS@SCU, 2024 - present</div>
                 <div class="student-research">Change Caption</div>
