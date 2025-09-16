@@ -38,7 +38,7 @@
         }
 
         .student {
-            width: 30%;
+            width: 20%;
             text-align: center;
         }
 
@@ -157,7 +157,7 @@
             </div>
         </div>        
 
-        <h2>Former Students</h2>
+        <h2>Graduates</h2>
         <div class="students">
             <div class="student">
                 <img src="/images/personal/android-chrome-192x192.png" alt="Jiaqi Fang">
