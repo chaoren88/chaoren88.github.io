@@ -32,24 +32,6 @@ and IEEE Transactions on Industrial Informatics (TII, JCR Q1).
 Dr. Ren has received the Huawei Spark Award and was selected for the National Post-Doctoral Program for Innovative Talents of China.
 
 
-# 🔥 News
-
-<div style="max-height: 300px; overflow-y: auto;">
-
-- *2025.09*: &nbsp;🎉🎉
-
-- *2025.09*: &nbsp;🎉🎉 
-
-- *2025.09*: &nbsp;🎉🎉 
-
-- *2025.09*: &nbsp;🎉🎉 
-
-- *2025.09*: &nbsp;🎉🎉
-
-</div>
-
-
-
 
 
 
