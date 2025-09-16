@@ -34,20 +34,40 @@ Dr. Ren has received the Huawei Spark Award and was selected for the National Po
 
 # 🔥 News
 
-<div style="max-height: 300px; overflow-y: auto;">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>滚动文本示例</title>
+    <style>
+        .scroll-box {
+            max-height: 300px; /* 设置最大高度 */
+            overflow-y: auto;  /* 设置垂直方向上自动显示滚动条 */
+            padding: 10px;     /* 可选，增加内边距 */
+            border: 1px solid #ccc; /* 设置边框 */
+            font-family: Arial, sans-serif; /* 可选，设置字体 */
+        }
+    </style>
+</head>
+<body>
 
-- 2025.09: &nbsp;🎉🎉 One paper was accepted by ACM International Conference on Multimedia (ACM MM 2023). <br>
-- 2025.09: &nbsp;🎉🎉 One paper was accepted by ACM International Conference on Multimedia (ACM MM 2023). <br>
-- 2025.09: &nbsp;🎉🎉 One paper was accepted by ACM International Conference on Multimedia (ACM MM 2023). <br>
-- 2025.09: &nbsp;🎉🎉 One paper was accepted by ACM International Conference on Multimedia (ACM MM 2023). <br>
-- 2025.09: &nbsp;🎉🎉 One paper was accepted by ACM International Conference on Multimedia (ACM MM 2023). <br>
-- 2025.09: &nbsp;🎉🎉 One paper was accepted by ACM International Conference on Multimedia (ACM MM 2023). <br>
-- 2025.09: &nbsp;🎉🎉 One paper was accepted by ACM International Conference on Multimedia (ACM MM 2023). <br>
-- 2025.09: &nbsp;🎉🎉 One paper was accepted by ACM International Conference on Multimedia (ACM MM 2023). <br>
-- 2025.09: &nbsp;🎉🎉 One paper was accepted by ACM International Conference on Multimedia (ACM MM 2023). <br>
-- 2025.09: &nbsp;🎉🎉 One paper was accepted by ACM International Conference on Multimedia (ACM MM 2023). <br>
-
+<div class="scroll-box">
+    <p>- 2025.09: 🎉🎉 One paper was accepted by ACM International Conference on Multimedia (ACM MM 2023).</p>
+    <p>- 2025.09: 🎉🎉 One paper was accepted by ACM International Conference on Multimedia (ACM MM 2023).</p>
+    <p>- 2025.09: 🎉🎉 One paper was accepted by ACM International Conference on Multimedia (ACM MM 2023).</p>
+    <p>- 2025.09: 🎉🎉 One paper was accepted by ACM International Conference on Multimedia (ACM MM 2023).</p>
+    <p>- 2025.09: 🎉🎉 One paper was accepted by ACM International Conference on Multimedia (ACM MM 2023).</p>
+    <p>- 2025.09: 🎉🎉 One paper was accepted by ACM International Conference on Multimedia (ACM MM 2023).</p>
+    <p>- 2025.09: 🎉🎉 One paper was accepted by ACM International Conference on Multimedia (ACM MM 2023).</p>
+    <p>- 2025.09: 🎉🎉 One paper was accepted by ACM International Conference on Multimedia (ACM MM 2023).</p>
+    <p>- 2025.09: 🎉🎉 One paper was accepted by ACM International Conference on Multimedia (ACM MM 2023).</p>
+    <p>- 2025.09: 🎉🎉 One paper was accepted by ACM International Conference on Multimedia (ACM MM 2023).</p>
 </div>
+
+</body>
+</html>
+
 
 
 
