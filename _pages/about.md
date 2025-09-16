@@ -41,10 +41,9 @@ Dr. Ren has received the Huawei Spark Award and was selected for the National Po
     <title>滚动文本示例</title>
     <style>
         .scroll-box {
-            max-height: 300px; /* 设置最大高度 */
+            max-height: 200px; /* 设置最大高度 */
             overflow-y: auto;  /* 设置垂直方向上自动显示滚动条 */
             padding: 10px;     /* 可选，增加内边距 */
-            border: 1px solid #ccc; /* 设置边框 */
             font-family: Arial, sans-serif; /* 可选，设置字体 */
         }
     </style>
@@ -52,6 +51,11 @@ Dr. Ren has received the Huawei Spark Award and was selected for the National Po
 <body>
 
 <div class="scroll-box">
+    <p>- 2025.09: 🎉🎉 One paper was accepted by ACM International Conference on Multimedia (ACM MM 2023).</p>
+    <p>- 2025.09: 🎉🎉 One paper was accepted by ACM International Conference on Multimedia (ACM MM 2023).</p>
+    <p>- 2025.09: 🎉🎉 One paper was accepted by ACM International Conference on Multimedia (ACM MM 2023).</p>
+    <p>- 2025.09: 🎉🎉 One paper was accepted by ACM International Conference on Multimedia (ACM MM 2023).</p>
+    <p>- 2025.09: 🎉🎉 One paper was accepted by ACM International Conference on Multimedia (ACM MM 2023).</p>
     <p>- 2025.09: 🎉🎉 One paper was accepted by ACM International Conference on Multimedia (ACM MM 2023).</p>
     <p>- 2025.09: 🎉🎉 One paper was accepted by ACM International Conference on Multimedia (ACM MM 2023).</p>
     <p>- 2025.09: 🎉🎉 One paper was accepted by ACM International Conference on Multimedia (ACM MM 2023).</p>
