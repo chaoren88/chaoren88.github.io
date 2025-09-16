@@ -109,7 +109,7 @@
         <div class="students">
             <div class="student">
                 <img src="/images/labs/liuxiao.jpg" alt="Xiao Liu">
-                <div class="student-name">Xiao Liu (刘晓)</div>
+                <div class="student-name">[Xiao Liu (刘晓)](https://liuxiao.email/)</div>
                 <div class="student-role">PhD@SCU, 2024 - present</div>
                 <div class="student-research">Image Restoration</div>
             </div>
