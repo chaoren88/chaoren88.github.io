@@ -1,7 +1,7 @@
 
-# <font color="#4A708B">Welcome to our Super Pixel Intelligence LAB (SPILA)!</center>
+# <font color="#4A708B">Welcome to our Super Pixel Intelligence LAB (SPILA)!
 
-<font color="#4A708B">We are interested in Image/Video Processing, Computer Vision, Artificial Intelligence, and Multimedia Communications and Information Systems, etc.</center> 
+<font color="#4A708B">We are interested in Image/Video Processing, Computer Vision, Artificial Intelligence, and Multimedia Communications and Information Systems, etc.
 
 <style>
   .image-container {
@@ -19,8 +19,8 @@
 </style>
 
 <div class="image-container">
-  <img src="/images/labs/lab-2025.JPG" alt="SPILA" class="custom-image">
-  <img src="/images/labs/lab-2025.JPG" alt="SPILA" class="custom-image">
+  <img src="/images/labs/lab-2025-2.png" alt="SPILA" class="custom-image">
+  <img src="/images/labs/lab-2025-2.png" alt="SPILA" class="custom-image">
 </div>
 
 <hr />
@@ -214,25 +214,25 @@
             <div class="student">
                 <img src="/images/personal/android-chrome-192x192.png" alt="Jiaqi Fang">
                 <div class="student-name">Xiao Liu (刘晓)</div>
-                <div class="student-role">MS@SCU, 2023 - present</div>
+                <div class="student-role">BS@SCU, 2023 - present</div>
                 <div class="student-research">Image Fusion</div>
             </div>
             <div class="student">
                 <img src="/images/personal/android-chrome-192x192.png" alt="Lingqi Kong">
                 <div class="student-name">Xiao Liu (刘晓)</div>
-                <div class="student-role">MS@SCU, 2023 - present</div>
+                <div class="student-role">BS@SCU, 2023 - present</div>
                 <div class="student-research">Person Re-ID</div>
             </div>
             <div class="student">
                 <img src="/images/personal/android-chrome-192x192.png" alt="Hao Li">
                 <div class="student-name">Xiao Liu (刘晓)</div>
-                <div class="student-role">MS@SCU, 2023 - present</div>
+                <div class="student-role">BS@SCU, 2023 - present</div>
                 <div class="student-research">Change Caption</div>
             </div>
             <div class="student">
                 <img src="/images/personal/android-chrome-192x192.png" alt="Yongle Shang">
                 <div class="student-name">Xiao Liu (刘晓)</div>
-                <div class="student-role">MS@SCU, 2023 - present</div>
+                <div class="student-role">BS@SCU, 2023 - present</div>
                 <div class="student-research">Person Re-ID</div>
             </div>
         </div>        
@@ -242,7 +242,7 @@
             <div class="student">
                 <img src="/images/labs/linxin.jpg" alt="Xin Lin">
                 <div class="student-name">Xin Lin (林鑫)</div>
-                <div class="student-role">MS@SCU, 2021 - 2025</div>
+                <div class="student-role">BS@SCU, 2021 - 2025</div>
                 <div class="student-research">Image Restoration/3D Vision</div>
                 <div class="student-work">PhD student at UCSD</div>
             </div>
