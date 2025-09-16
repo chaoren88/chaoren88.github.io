@@ -1,7 +1,7 @@
 
-# Welcome to our **Super Pixel Intelligence LAB (SPILA)**! 
+# <font color="#4A708B">Welcome to our **Super Pixel Intelligence LAB (SPILA)**!</center>
 
-We are interested in **Image/Video Processing**, **Computer Vision**, **Artificial Intelligence**, and **Multimedia Communications and Information Systems**, etc. 
+<font color="#4A708B">We are interested in **Image/Video Processing**, **Computer Vision**, **Artificial Intelligence**, and **Multimedia Communications and Information Systems**, etc.</center> 
 
 <style>
   .image-container {
