@@ -110,14 +110,32 @@ We are interested in **Image/Video Processing**, **Computer Vision**, **Artifici
         <h2>PhD Students</h2>
         <div class="students">
             <div class="student">
-                <img src="/images/personal/android-chrome-192x192.png" alt="Xiao Liu">
+                <img src="/images/labs/liuxiao.jpg" alt="Xiao Liu">
                 <div class="student-name">Xiao Liu (刘晓)</div>
                 <div class="student-role">PhD@SCU, 2024 - present</div>
                 <div class="student-research">Image Restoration</div>
             </div>
             <div class="student">
-                <img src="/images/personal/android-chrome-192x192.png" alt="Xiaofeng Wang">
+                <img src="/images/labs/wxf.jpg" alt="Xiaofeng Wang">
                 <div class="student-name">Xiaofeng Wang (王晓峰)</div>
+                <div class="student-role">PhD@SCU, 2025 - present</div>
+                <div class="student-research">Image Restoration</div>
+            </div>
+            <div class="student">
+                <img src="/images/labs/liuxiao.jpg" alt="Guihuan Guo">
+                <div class="student-name">Guihuan Guo (国桂环)</div>
+                <div class="student-role">PhD@SCU, 2024 - present</div>
+                <div class="student-research">Image Restoration</div>
+            </div>
+            <div class="student">
+                <img src="/images/labs/wxf.jpg" alt="Meng Li">
+                <div class="student-name">Meng Li (李梦)</div>
+                <div class="student-role">PhD@SCU, 2025 - present</div>
+                <div class="student-research">Image Restoration</div>
+            </div>
+            <div class="student">
+                <img src="/images/labs/wxf.jpg" alt="XiangPeng Tian">
+                <div class="student-name">XiangPeng Tian (田相鹏)</div>
                 <div class="student-role">PhD@SCU, 2025 - present</div>
                 <div class="student-research">Image Restoration</div>
             </div>
@@ -126,28 +144,70 @@ We are interested in **Image/Video Processing**, **Computer Vision**, **Artifici
         <h2>MS Students</h2>
         <div class="students">
             <div class="student">
-                <img src="/images/personal/android-chrome-192x192.png" alt="Jiaqi Fang">
-                <div class="student-name">Xiao Liu (刘晓)</div>
-                <div class="student-role">MS@Kust, 2023 - present</div>
+                <img src="/images/labs/hh.jpg" alt="Hao Hong">
+                <div class="student-name">Hao Hong (洪豪)</div>
+                <div class="student-role">MS@SCU, 2025 - present</div>
                 <div class="student-research">Image Fusion</div>
             </div>
             <div class="student">
-                <img src="/images/personal/android-chrome-192x192.png" alt="Lingqi Kong">
-                <div class="student-name">Xiao Liu (刘晓)</div>
-                <div class="student-role">MS@Kust, 2023 - present</div>
+                <img src="/images/labs/wyl.jpg" alt="YuLin Wu">
+                <div class="student-name">YuLin Wu (吴宇林)</div>
+                <div class="student-role">MS@SCU, 2025 - present</div>
                 <div class="student-research">Person Re-ID</div>
             </div>
             <div class="student">
-                <img src="/images/personal/android-chrome-192x192.png" alt="Hao Li">
-                <div class="student-name">Xiao Liu (刘晓)</div>
-                <div class="student-role">MS@Kust, 2023 - present</div>
+                <img src="/images/labs/zyh.jpg" alt="Yuhan Zhao">
+                <div class="student-name">Yuhan Zhao (赵钰涵)</div>
+                <div class="student-role">MS@SCU, 2025 - present</div>
                 <div class="student-research">Change Caption</div>
             </div>
             <div class="student">
-                <img src="/images/personal/android-chrome-192x192.png" alt="Yongle Shang">
-                <div class="student-name">Xiao Liu (刘晓)</div>
-                <div class="student-role">MS@Kust, 2023 - present</div>
-                <div class="student-research">Person Re-ID</div>
+                <img src="/images/labs/zyh.jpg" alt="Mingyang Li">
+                <div class="student-name">Mingyang Li (李鸣阳)</div>
+                <div class="student-role">MS@SCU, 2024 - present</div>
+                <div class="student-research">Change Caption</div>
+            </div>
+            <div class="student">
+                <img src="/images/labs/zyh.jpg" alt="Fajing Liu">
+                <div class="student-name">Fajing Liu (刘发静)</div>
+                <div class="student-role">MS@SCU, 2024 - present</div>
+                <div class="student-research">Change Caption</div>
+            </div>
+            <div class="student">
+                <img src="/images/labs/zyh.jpg" alt="Zheng Yang">
+                <div class="student-name">Zheng Yang (杨郑)</div>
+                <div class="student-role">MS@SCU, 2024 - present</div>
+                <div class="student-research">Change Caption</div>
+            </div>
+            <div class="student">
+                <img src="/images/labs/zyh.jpg" alt="Yiqi Hu">
+                <div class="student-name">Yiqi Hu (胡屹琪)</div>
+                <div class="student-role">MS@SCU, 2024 - present</div>
+                <div class="student-research">Change Caption</div>
+            </div>
+            <div class="student">
+                <img src="/images/labs/zyh.jpg" alt="Tianheng Zheng">
+                <div class="student-name">Tianheng Zheng (郑天恒)</div>
+                <div class="student-role">MS@SCU, 2023 - present</div>
+                <div class="student-research">Change Caption</div>
+            </div>
+            <div class="student">
+                <img src="/images/labs/zyh.jpg" alt="Guanglu Dong">
+                <div class="student-name">Guanglu Dong (董广陆)</div>
+                <div class="student-role">MS@SCU, 2023 - present</div>
+                <div class="student-research">Change Caption</div>
+            </div>
+            <div class="student">
+                <img src="/images/labs/zyh.jpg" alt="Shouyi Wang">
+                <div class="student-name">Shouyi Wang (王守一)</div>
+                <div class="student-role">MS@SCU, 2023 - present</div>
+                <div class="student-research">Change Caption</div>
+            </div>
+            <div class="student">
+                <img src="/images/labs/zyh.jpg" alt="Jiayu Zhong">
+                <div class="student-name">Jiayu Zhong (钟嘉宇)</div>
+                <div class="student-role">MS@SCU, 2023 - present</div>
+                <div class="student-research">Change Caption</div>
             </div>
         </div>
 
@@ -156,25 +216,25 @@ We are interested in **Image/Video Processing**, **Computer Vision**, **Artifici
             <div class="student">
                 <img src="/images/personal/android-chrome-192x192.png" alt="Jiaqi Fang">
                 <div class="student-name">Xiao Liu (刘晓)</div>
-                <div class="student-role">MS@Kust, 2023 - present</div>
+                <div class="student-role">MS@SCU, 2023 - present</div>
                 <div class="student-research">Image Fusion</div>
             </div>
             <div class="student">
                 <img src="/images/personal/android-chrome-192x192.png" alt="Lingqi Kong">
                 <div class="student-name">Xiao Liu (刘晓)</div>
-                <div class="student-role">MS@Kust, 2023 - present</div>
+                <div class="student-role">MS@SCU, 2023 - present</div>
                 <div class="student-research">Person Re-ID</div>
             </div>
             <div class="student">
                 <img src="/images/personal/android-chrome-192x192.png" alt="Hao Li">
                 <div class="student-name">Xiao Liu (刘晓)</div>
-                <div class="student-role">MS@Kust, 2023 - present</div>
+                <div class="student-role">MS@SCU, 2023 - present</div>
                 <div class="student-research">Change Caption</div>
             </div>
             <div class="student">
                 <img src="/images/personal/android-chrome-192x192.png" alt="Yongle Shang">
                 <div class="student-name">Xiao Liu (刘晓)</div>
-                <div class="student-role">MS@Kust, 2023 - present</div>
+                <div class="student-role">MS@SCU, 2023 - present</div>
                 <div class="student-research">Person Re-ID</div>
             </div>
         </div>        
@@ -182,30 +242,30 @@ We are interested in **Image/Video Processing**, **Computer Vision**, **Artifici
         <h2>Graduates</h2>
         <div class="students">
             <div class="student">
-                <img src="/images/personal/android-chrome-192x192.png" alt="Jiaqi Fang">
-                <div class="student-name">Xiao Liu (刘晓)</div>
-                <div class="student-role">MS@Kust, 2023 - present</div>
-                <div class="student-research">Image Fusion</div>
-                <div class="student-work">HUAWEI</div>
+                <img src="/images/labs/linxin.jpg" alt="Xin Lin">
+                <div class="student-name">Xin Lin (林鑫)</div>
+                <div class="student-role">MS@SCU, 2021 - 2025</div>
+                <div class="student-research">Image Restoration/3D Vision</div>
+                <div class="student-work">PhD student at UCSD</div>
             </div>
             <div class="student">
                 <img src="/images/personal/android-chrome-192x192.png" alt="Lingqi Kong">
                 <div class="student-name">Xiao Liu (刘晓)</div>
-                <div class="student-role">MS@Kust, 2023 - present</div>
+                <div class="student-role">MS@SCU, 2023 - present</div>
                 <div class="student-research">Person Re-ID</div>
                 <div class="student-work">HUAWEI</div>
             </div>
             <div class="student">
                 <img src="/images/personal/android-chrome-192x192.png" alt="Hao Li">
                 <div class="student-name">Xiao Liu (刘晓)</div>
-                <div class="student-role">MS@Kust, 2023 - present</div>
+                <div class="student-role">MS@SCU, 2023 - present</div>
                 <div class="student-research">Change Caption</div>
                 <div class="student-work">HUAWEI</div>
             </div>
             <div class="student">
                 <img src="/images/personal/android-chrome-192x192.png" alt="Yongle Shang">
                 <div class="student-name">Xiao Liu (刘晓)</div>
-                <div class="student-role">MS@Kust, 2023 - present</div>
+                <div class="student-role">MS@SCU, 2023 - present</div>
                 <div class="student-research">Person Re-ID</div>
                 <div class="student-work">HUAWEI</div>
             </div>
