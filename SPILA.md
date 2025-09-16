@@ -198,7 +198,7 @@ We are interested in **Image/Video Processing**, **Computer Vision**, **Artifici
                 <div class="student-research">Change Caption</div>
             </div>
             <div class="student">
-                <img src="/images/labs/zyh.jpg" alt="Shouyi Wang">
+                <img src="/images/labs/wsy.jpg" alt="Shouyi Wang">
                 <div class="student-name">Shouyi Wang (王守一)</div>
                 <div class="student-role">MS@SCU, 2023 - present</div>
                 <div class="student-research">Change Caption</div>
@@ -249,25 +249,32 @@ We are interested in **Image/Video Processing**, **Computer Vision**, **Artifici
                 <div class="student-work">PhD student at UCSD</div>
             </div>
             <div class="student">
-                <img src="/images/personal/android-chrome-192x192.png" alt="Lingqi Kong">
-                <div class="student-name">Xiao Liu (刘晓)</div>
-                <div class="student-role">MS@SCU, 2023 - present</div>
-                <div class="student-research">Person Re-ID</div>
-                <div class="student-work">HUAWEI</div>
+                <img src="/images/labs/sxy.jpg" alt="Xiuya Shi">
+                <div class="student-name">Xiuya Shi (石秀雅)</div>
+                <div class="student-role">MS@SCU, 2022 - 2025</div>
+                <div class="student-research">Image Restoration</div>
+                <div class="student-work">SinopecGroup</div>
             </div>
             <div class="student">
-                <img src="/images/personal/android-chrome-192x192.png" alt="Hao Li">
-                <div class="student-name">Xiao Liu (刘晓)</div>
-                <div class="student-role">MS@SCU, 2023 - present</div>
-                <div class="student-research">Change Caption</div>
-                <div class="student-work">HUAWEI</div>
+                <img src="/images/labs/clf.jpg" alt="Lufei Chen">
+                <div class="student-name">Lufei Chen (陈卢飞)</div>
+                <div class="student-role">MS@SCU, 2022 - 2025</div>
+                <div class="student-research">Image Deblurring</div>
+                <div class="student-work">Dji</div>
             </div>
             <div class="student">
-                <img src="/images/personal/android-chrome-192x192.png" alt="Yongle Shang">
-                <div class="student-name">Xiao Liu (刘晓)</div>
-                <div class="student-role">MS@SCU, 2023 - present</div>
-                <div class="student-research">Person Re-ID</div>
-                <div class="student-work">HUAWEI</div>
+                <img src="/images/labs/lxy.JPG" alt="Xiangyu Liao">
+                <div class="student-name">Xiangyu Liao (廖祥宇)</div>
+                <div class="student-role">MS@SCU, 2022 - 2025</div>
+                <div class="student-research">Image Denoising</div>
+                <div class="student-work">OPPO</div>
+            </div>
+            <div class="student">
+                <img src="/images/labs/lxy.JPG" alt="Jie Huang">
+                <div class="student-name">Jie Huang (黄杰)</div>
+                <div class="student-role">MS@SCU, 2021 - 2024</div>
+                <div class="student-research">Image Denoising</div>
+                <div class="student-work">OPPO</div>
             </div>
         </div>        
 
