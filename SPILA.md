@@ -1,5 +1,3 @@
-# 🔥 News
-
 Chao Ren, an Associate Research Professor with the College of Electronics and Information Engineering, Sichuan University, Chengdu, China. 
 Dr. Ren received the Ph.D. degree in Communication and Information System from Sichuan University, Chengdu, China, in 2017. 
 His current research interests include inverse problems in image and video processing.
