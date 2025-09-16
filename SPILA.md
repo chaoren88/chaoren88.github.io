@@ -2,7 +2,17 @@
 # Welcome to our **Super Pixel Intelligence LAB (SPILA)**! 
 
 We are interested in **Image/Video Processing**, **Computer Vision**, **Artificial Intelligence**, and **Multimedia Communications and Information Systems**, etc. 
+<style>
+  .custom-image {
+      width: 100%;
+      height: auto;
+      border-radius: 10px;
+  }
+</style>
 
+<img src="/images/500x300.png" alt="SPILA" class="custom-image">
+
+<hr />
 
 <html lang="en">
 <head>
@@ -87,16 +97,16 @@ We are interested in **Image/Video Processing**, **Computer Vision**, **Artifici
         <h2>PhD Students</h2>
         <div class="students">
             <div class="student">
-                <img src="/images/personal/android-chrome-192x192.png" alt="Yida Chen">
+                <img src="/images/personal/android-chrome-192x192.png" alt="Xiao Liu">
                 <div class="student-name">Xiao Liu (刘晓)</div>
-                <div class="student-role">PhD@Kust, 2023 - present</div>
-                <div class="student-research">Image Registration/Fusion</div>
+                <div class="student-role">PhD@SCU, 2024 - present</div>
+                <div class="student-research">Image Restoration</div>
             </div>
             <div class="student">
-                <img src="/images/personal/android-chrome-192x192.png" alt="Keying Du">
-                <div class="student-name">Xiao Liu (刘晓)</div>
-                <div class="student-role">PhD@Kust, 2024 - present</div>
-                <div class="student-research">Image Registration/Fusion</div>
+                <img src="/images/personal/android-chrome-192x192.png" alt="Xiaofeng Wang">
+                <div class="student-name">Xiaofeng Wang (王晓峰)</div>
+                <div class="student-role">PhD@SCU, 2025 - present</div>
+                <div class="student-research">Image Restoration</div>
             </div>
         </div>
 
