@@ -6,6 +6,7 @@ We are interested in **Image/Video Processing**, **Computer Vision**, **Artifici
 <style>
   .image-container {
       display: flex; /* Enable Flexbox */
+      flex-wrap: wrap; /* Allow items to wrap to the next line */
       gap: 20px;     /* Space between the images */
       justify-content: center; /* Center the images */
   }
