@@ -631,8 +631,3 @@ Tao Li, Xiaohai He, Qizhi Teng, Zhengyong Wang, **Chao Ren**
     - Reviewers: CVPR(2025, 2024), ICCV(2025, 2023), ECCV(2024, 2022), ACMMM(2025, 2024) ...
 - **Academic organizations Service**: 
     - CCF Multimedia Technology Committee, **Executive Committee Member**
-
-
-# 💻 SPILA
-Welcome to our [Super Pixel Intelligence LAB (SPILA)](SPILA.md)! 
-{% include_relative SPILA.md %}
