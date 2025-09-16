@@ -1,7 +1,7 @@
 
-# <font color="#4A708B">Welcome to our **Super Pixel Intelligence LAB (SPILA)**!</center>
+# <font color="#4A708B">Welcome to our Super Pixel Intelligence LAB (SPILA)!</center>
 
-<font color="#4A708B">We are interested in **Image/Video Processing**, **Computer Vision**, **Artificial Intelligence**, and **Multimedia Communications and Information Systems**, etc.</center> 
+<font color="#4A708B">We are interested in Image/Video Processing, Computer Vision, Artificial Intelligence, and Multimedia Communications and Information Systems, etc.</center> 
 
 <style>
   .image-container {
@@ -19,10 +19,8 @@
 </style>
 
 <div class="image-container">
-  <img src="/images/500x300.png" alt="SPILA" class="custom-image">
-  <img src="/images/500x300.png" alt="SPILA" class="custom-image">
-  <img src="/images/500x300.png" alt="SPILA" class="custom-image">
-  <img src="/images/500x300.png" alt="SPILA" class="custom-image">
+  <img src="/images/labs/lab-2025.JPG" alt="SPILA" class="custom-image">
+  <img src="/images/labs/lab-2025.JPG" alt="SPILA" class="custom-image">
 </div>
 
 <hr />
