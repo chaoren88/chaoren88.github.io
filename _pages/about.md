@@ -634,4 +634,5 @@ Tao Li, Xiaohai He, Qizhi Teng, Zhengyong Wang, **Chao Ren**
 
 
 # 💻 SPILA
-Welcome to our [Super Pixel Intelligence LAB (SPILA)](./SPILA.md)! 
+Welcome to our [Super Pixel Intelligence LAB (SPILA)](SPILA.md)! 
+{% include_relative SPILA.md %}
