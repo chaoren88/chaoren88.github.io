@@ -126,7 +126,7 @@
                 <div class="student-research">Image Restoration</div>
             </div>
             <div class="student">
-                <img src="/images/labs/wxf.jpg" alt="Meng Li">
+                <img src="/images/labs/lm.jpg" alt="Meng Li">
                 <div class="student-name">Meng Li (李梦)</div>
                 <div class="student-role">PhD@SCU, 2024 - present</div>
                 <div class="student-research">Image Restoration</div>
@@ -247,7 +247,7 @@
                 <div class="student-work">PhD student at UCSD</div>
             </div>
             <div class="student">
-                <img src="/images/labs/sxy.jpg" alt="Xiuya Shi">
+                <img src="/images/labs/sxy-2.jpg" alt="Xiuya Shi">
                 <div class="student-name">Xiuya Shi (石秀雅)</div>
                 <div class="student-role">MS@SCU, 2022 - 2025</div>
                 <div class="student-research">Image Restoration</div>
