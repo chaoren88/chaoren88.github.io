@@ -190,7 +190,7 @@
                 <div class="student-research">Image Registration and Fusion</div>
             </div>
             <div class="student">
-                <img src="/images/labs/zyh.jpg" alt="Guanglu Dong">
+                <img src="/images/labs/dgl.jpg" alt="Guanglu Dong">
                 <div class="student-name">Guanglu Dong (董广陆)</div>
                 <div class="student-role">MS@SCU, 2023 - present</div>
                 <div class="student-research">Image Deraining and Quality Assessment</div>
