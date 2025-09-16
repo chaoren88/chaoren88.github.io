@@ -3,9 +3,6 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -33,7 +30,7 @@ Dr. Ren has received the Huawei Spark Award and was selected for the National Po
 
 
 
-# 📝 Publications 
+# 📝 Publications  
 
 
 ## <center>👏👏👏 <font color="#4A708B">Total 46: TPAMI 1 TIP 3 CVPR 5 ICCV 2 ECCV 1 Others 34</font> 👏👏👏</center>
