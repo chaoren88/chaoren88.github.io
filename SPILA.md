@@ -139,7 +139,7 @@
                 <div class="student-research">Image Restoration</div>
             </div>
             <div class="student">
-                <img src="/images/labs/wxf.jpg" alt="XiangPeng Tian">
+                <img src="/images/labs/txp.jpg" alt="XiangPeng Tian">
                 <div class="student-name">XiangPeng Tian (田相鹏)</div>
                 <div class="student-role">PhD@SCU, 2023 - present</div>
                 <div class="student-research">Image Restoration</div>
@@ -179,7 +179,7 @@
                 <div class="student-research">Change Caption</div>
             </div>
             <div class="student">
-                <img src="/images/labs/zyh.jpg" alt="Zheng Yang">
+                <img src="/images/labs/yz.jpg" alt="Zheng Yang">
                 <div class="student-name">Zheng Yang (杨郑)</div>
                 <div class="student-role">MS@SCU, 2024 - present</div>
                 <div class="student-research">Change Caption</div>

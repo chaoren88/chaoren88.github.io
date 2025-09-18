@@ -100,6 +100,18 @@ Xiao Liu, Xiaofeng Wang, Shouyi Wang, Haosong Gou, Zhengyong Wang, **Chao Ren**<
 [**Codes**](https://github.com/liux520/GPBG-Net) <strong><span class='show_paper_citations' data=''></span></strong>
 </div></div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TII 2025</div><img src='images/publications/TII-2025-Xiao Liu.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Transformer-Style Convolutional Network for Efficient Natural and Industrial Image Superresolution](https://ieeexplore.ieee.org/abstract/document/10949639)
+
+Xiao Liu, Zhengyong Wang, Hong Yang, Xiaohai He, Haosong Gou, **Chao Ren**<sup>✉</sup>
+
+[**Paper**](https://ieeexplore.ieee.org/abstract/document/10949639) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> |
+[**Codes**](https://github.com/liux520/TSCN) <strong><span class='show_paper_citations' data=''></span></strong>
+</div></div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='images/publications/TPAMI-2025-Xin Lin.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
