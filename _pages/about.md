@@ -219,17 +219,6 @@ Zhengxin Chen, Xiaohai He, Tingrong Zhang, Shuhua Xiong, **Chao Ren**<sup>✉</s
 [**Codes**]() <strong><span class='show_paper_citations' data=''></span></strong>
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JVCIR 2024</div><img src='images/publications/JVCIR-2024-Xiuya Shi.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[HPIDN: A Hierarchical prior-guided iterative denoising network with global–local fusion for enhancing low-dose CT images](https://www.sciencedirect.com/science/article/abs/pii/S1047320324002530)
-
-Xiuya Shi, Yi Yang, Hao Liu, Litai Ma, Zhibo Zhao, **Chao Ren**<sup>✉</sup>
-
-[**Paper**](https://www.sciencedirect.com/science/article/abs/pii/S1047320324002530<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | 
-[**Codes**]() <strong><span class='show_paper_citations' data=''></span></strong>
-</div></div>
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing 2024</div><img src='images/publications/Neurocomputing-2024-Shouyi Wang.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -633,6 +622,6 @@ Tao Li, Xiaohai He, Qizhi Teng, Zhengyong Wang, **Chao Ren**
     - 2023 the International Conference on Computer and Information Technology for Environmental Sciences (CITES 2023), **Program Chair**
     - 2025 the International Conference on Robotics, Artificial Intelligence and Intelligent Control (RAIIC 2025), **Publicity Chair**
     - 2025 the ACM International Conference on Intelligent Perception and Pattern Recognition (IPPR 2025), Technical **Committee Chair**
-    - Reviewers: CVPR(2025, 2024), ICCV(2025, 2023), ECCV(2024, 2022), ACMMM(2025, 2024) ...
+    - Reviewers: CVPR, ICCV, ECCV, NeurIPS, ICLR, ICML, ACMMM ...
 - **Academic organizations Service**: 
     - CCF Multimedia Technology Committee, **Executive Committee Member**
