@@ -284,8 +284,6 @@ Yuwei Yang, Munawar Hayat, Zhao Jin, **Chao Ren**, Yinjie Lei
 [**Codes**]() <strong><span class='show_paper_citations' data=''></span></strong>
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2023</div><img src='images/publications/TCSVT-2023-Yizhong Pan.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2023</div><img src='images/publications/ACMMM-2023-Xiao Liu.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -310,6 +308,10 @@ Xiao Liu, Xiangyu Liao, Xiuya Shi, Linbo Qing, **Chao Ren**<sup>✉</sup>
 [**Paper**](https://ebooks.iospress.nl/volumearticle/64367)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | 
 [**Codes**](https://github.com/liux520/EIMN) <strong><span class='show_paper_citations' data=''></span></strong>
 </div></div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2023</div><img src='images/publications/TCSVT-2023-Yizhong Pan.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 [Real image denoising via guided residual estimation and noise correction](https://ieeexplore.ieee.org/document/9927458)
 
