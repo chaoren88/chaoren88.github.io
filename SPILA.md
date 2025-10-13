@@ -243,7 +243,7 @@
                 <div class="student-research">Image Super-Resolution</div>
             </div>
             <div class="student">
-                <img src="/images/labs/nyt.jpg" alt="jincen Ou">
+                <img src="/images/labs/ojc.jpg" alt="jincen Ou">
                 <div class="student-name">jincen Ou (欧津岑)</div>
                 <div class="student-role">BS@SCU, 2023 - present</div>
                 <div class="student-research">Image Restoration/3D Vision</div>
