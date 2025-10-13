@@ -86,6 +86,7 @@ Dr. Ren has received the Huawei Spark Award and was selected for the National Po
 [Re-boosting self-collaboration parallel prompt gan for unsupervised image restoration](https://ieeexplore.ieee.org/abstract/document/11081458)
 
 Xin Lin, Yuyan Zhou, Jingtong Yue, **Chao Ren**<sup>✉</sup>, Kelvin C.K. Chan, Lu Qi, and Ming-Hsuan Yang
+
 *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI 2025)*
 
 [**Paper**](https://ieeexplore.ieee.org/abstract/document/11081458) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> |
@@ -99,6 +100,7 @@ Xin Lin, Yuyan Zhou, Jingtong Yue, **Chao Ren**<sup>✉</sup>, Kelvin C.K. Chan,
 [Channel Consistency Prior and Self-Reconstruction Strategy Based Unsupervised Image Deraining](https://openaccess.thecvf.com/content/CVPR2025/html/Dong_Channel_Consistency_Prior_and_Self-Reconstruction_Strategy_Based_Unsupervised_Image_Deraining_CVPR_2025_paper.html)
 
 Guanglu Dong, Tianheng Zheng, Yuanzhouhan Cao, Linbo Qing, **Chao Ren**<sup>✉</sup>
+
 *In Proc. IEEE Conf. on Computer Vision and Pattern Recognition (CVPR 2025)*
 
 [**Paper**](https://openaccess.thecvf.com/content/CVPR2025/papers/Dong_Channel_Consistency_Prior_and_Self-Reconstruction_Strategy_Based_Unsupervised_Image_Deraining_CVPR_2025_paper.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> |
@@ -112,6 +114,7 @@ Guanglu Dong, Tianheng Zheng, Yuanzhouhan Cao, Linbo Qing, **Chao Ren**<sup>✉<
 [Exploring semantic feature discrimination for perceptual image super-resolution and opinion-unaware no-reference image quality assessment](https://openaccess.thecvf.com/content/CVPR2025/papers/Dong_Exploring_Semantic_Feature_Discrimination_for_Perceptual_Image_Super-Resolution_and_Opinion-Unaware_CVPR_2025_paper.pdf)
 
 Guanglu Dong, Xiangyu Liao, Mingyang Li, Guihuan Guo, **Chao Ren**<sup>✉</sup>
+
 *In Proc. IEEE Conf. on Computer Vision and Pattern Recognition (CVPR 2025)*
 
 [**Paper**](https://openaccess.thecvf.com/content/CVPR2025/papers/Dong_Exploring_Semantic_Feature_Discrimination_for_Perceptual_Image_Super-Resolution_and_Opinion-Unaware_CVPR_2025_paper.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> |
@@ -124,6 +127,7 @@ Guanglu Dong, Xiangyu Liao, Mingyang Li, Guihuan Guo, **Chao Ren**<sup>✉</sup>
 [Degradation-Aware Feature Perturbation for All-in-One Image Restoration](https://openaccess.thecvf.com/content/CVPR2025/papers/Tian_Degradation-Aware_Feature_Perturbation_for_All-in-One_Image_Restoration_CVPR_2025_paper.pdf)
 
 Xiangpeng Tian, Xiangyu Liao, Xiao Liu, Meng Li, **Chao Ren**<sup>✉</sup>
+
 *In Proc. IEEE Conf. on Computer Vision and Pattern Recognition (CVPR 2025)*
 
 [**Paper**](https://openaccess.thecvf.com/content/CVPR2025/papers/Tian_Degradation-Aware_Feature_Perturbation_for_All-in-One_Image_Restoration_CVPR_2025_paper.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> |
@@ -137,6 +141,7 @@ Xiangpeng Tian, Xiangyu Liao, Xiao Liu, Meng Li, **Chao Ren**<sup>✉</sup>
 [Plug-and-Play General Image Registration for Misaligned Multi-Modal Image Fusion](https://ieeexplore.ieee.org/abstract/document/11005625)
 
 Tianheng Zheng, Guanglu Dong, Pingping Zhang, Xiaohai He, **Chao Ren**<sup>✉</sup>
+
 *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT 2025)*
 
 [**Paper**](https://ieeexplore.ieee.org/abstract/document/11005625) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> |
