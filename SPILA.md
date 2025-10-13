@@ -130,7 +130,7 @@
                 <img src="/images/labs/ggh.jpg" alt="Guihuan Guo">
                 <div class="student-name">Guihuan Guo (国桂环)</div>
                 <div class="student-role">PhD@SCU, 2024 - present</div>
-                <div class="student-research">Image Restoration</div>
+                <div class="student-research">Image Restoration/3D Vision</div>
             </div>
             <div class="student">
                 <img src="/images/labs/lm.jpg" alt="Meng Li">
@@ -152,43 +152,43 @@
                 <img src="/images/labs/hh.jpg" alt="Hao Hong">
                 <div class="student-name">Hao Hong (洪豪)</div>
                 <div class="student-role">MS@SCU, 2025 - present</div>
-                <div class="student-research">Image Fusion</div>
+                <div class="student-research">Agent</div>
             </div>
             <div class="student">
                 <img src="/images/labs/wyl.jpg" alt="YuLin Wu">
                 <div class="student-name">YuLin Wu (吴宇林)</div>
                 <div class="student-role">MS@SCU, 2025 - present</div>
-                <div class="student-research">Person Re-ID</div>
+                <div class="student-research">Agent</div>
             </div>
             <div class="student">
                 <img src="/images/labs/zyh.jpg" alt="Yuhan Zhao">
                 <div class="student-name">Yuhan Zhao (赵钰涵)</div>
                 <div class="student-role">MS@SCU, 2025 - present</div>
-                <div class="student-research">Change Caption</div>
+                <div class="student-research">Agent</div>
             </div>
             <div class="student">
                 <img src="/images/labs/lmy.jpg" alt="Mingyang Li">
                 <div class="student-name">Mingyang Li (李鸣阳)</div>
                 <div class="student-role">MS@SCU, 2024 - present</div>
-                <div class="student-research">Image Resolution</div>
+                <div class="student-research">Edge-side, Lightweight, Deployment</div>
             </div>
             <div class="student">
                 <img src="/images/labs/lfj.jpg" alt="Fajing Liu">
                 <div class="student-name">Fajing Liu (刘发静)</div>
                 <div class="student-role">MS@SCU, 2024 - present</div>
-                <div class="student-research">Change Caption</div>
+                <div class="student-research">Image De-hazing and De-clouding</div>
             </div>
             <div class="student">
                 <img src="/images/labs/yz.jpg" alt="Zheng Yang">
                 <div class="student-name">Zheng Yang (杨郑)</div>
                 <div class="student-role">MS@SCU, 2024 - present</div>
-                <div class="student-research">Change Caption</div>
+                <div class="student-research">Medical Image Analysis</div>
             </div>
             <div class="student">
                 <img src="/images/labs/hyq.jpg" alt="Yiqi Hu">
                 <div class="student-name">Yiqi Hu (胡屹琪)</div>
                 <div class="student-role">MS@SCU, 2024 - present</div>
-                <div class="student-research">Change Caption</div>
+                <div class="student-research">Image Registration and Fusion</div>
             </div>
             <div class="student">
                 <img src="/images/labs/zth.jpg" alt="Tianheng Zheng">
