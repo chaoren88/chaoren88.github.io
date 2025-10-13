@@ -51,15 +51,11 @@ Dr. Ren has received the Huawei Spark Award and was selected for the National Po
 <body>
 
 <div class="scroll-box">
-    <p>- 2025.09: 🎉🎉 One paper was accepted by ACM International Conference on Multimedia (ACM MM 2023).</p>
-    <p>- 2025.09: 🎉🎉 One paper was accepted by ACM International Conference on Multimedia (ACM MM 2023).</p>
-    <p>- 2025.09: 🎉🎉 One paper was accepted by ACM International Conference on Multimedia (ACM MM 2023).</p>
-    <p>- 2025.09: 🎉🎉 One paper was accepted by ACM International Conference on Multimedia (ACM MM 2023).</p>
-    <p>- 2025.09: 🎉🎉 One paper was accepted by ACM International Conference on Multimedia (ACM MM 2023).</p>
-    <p>- 2025.09: 🎉🎉 One paper was accepted by ACM International Conference on Multimedia (ACM MM 2023).</p>
-    <p>- 2025.09: 🎉🎉 One paper was accepted by ACM International Conference on Multimedia (ACM MM 2023).</p>
-    <p>- 2025.09: 🎉🎉 One paper was accepted by ACM International Conference on Multimedia (ACM MM 2023).</p>
-    <p>- 2025.09: 🎉🎉 One paper was accepted by ACM International Conference on Multimedia (ACM MM 2023).</p>
+    <p>- May 16, 2025: 🎉🎉🎉 One paper was accepted by TPAMI. Congratulations to Xin Lin 👏👏👏. </p>
+    <p>- May 16, 2025: 🎉🎉🎉 One paper was accepted by TPAMI. Congratulations to Xin Lin 👏👏👏. </p>
+    <p>- May 16, 2025: 🎉🎉🎉 One paper was accepted by TPAMI. Congratulations to Xin Lin 👏👏👏. </p>
+    <p>- May 16, 2025: 🎉🎉🎉 One paper was accepted by TPAMI. Congratulations to Xin Lin 👏👏👏. </p>
+    <p>- May 16, 2025: 🎉🎉🎉 One paper was accepted by TPAMI. Congratulations to Xin Lin 👏👏👏. </p>
 </div>
 
 </body>
@@ -73,9 +69,9 @@ Dr. Ren has received the Huawei Spark Award and was selected for the National Po
 
 # 📝 Publications 
 
-## <center> 🤗🤗🤗 <font color="#4A708B"> Summary (First Author and Corresponding Author) </font> 🤗🤗🤗 </center>
+## <center> 📑📑📑 <font color="#4A708B"> Summary (First Author and Corresponding Author) </font> 📑📑📑 </center>
 
-## <center>👏👏👏 <font color="#4A708B"> Total 46: TPAMI 1 TIP 3 CVPR 5 ICCV 2 ECCV 1 NeurIPS 1 ACMMM 1 Others 34 </font> 👏👏👏</center>
+## <center> 📑📑📑 <font color="#4A708B"> Total 46: TPAMI 1 TIP 3 CVPR 5 ICCV 2 ECCV 1 NeurIPS 1 ACMMM 1 Others 34 </font> 📑📑📑 </center>
 
 <hr />
 

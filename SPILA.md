@@ -222,25 +222,31 @@
                 <img src="/images/labs/ls.jpg" alt="Shi Luo">
                 <div class="student-name">Shi Luo (罗十)</div>
                 <div class="student-role">BS@SCU, 2023 - present</div>
-                <div class="student-research">Image Fusion</div>
+                <div class="student-research">Image Restoration/3D Vision</div>
             </div>
             <div class="student">
                 <img src="/images/labs/psr.jpg" alt="Shurui Peng">
                 <div class="student-name">Shurui Peng (彭书睿)</div>
                 <div class="student-role">BS@SCU, 2023 - present</div>
-                <div class="student-research">Person Re-ID</div>
+                <div class="student-research">Image Restoration/3D Vision</div>
             </div>
             <div class="student">
-                <img src="/images/personal/android-chrome-192x192.png" alt="Hao Li">
-                <div class="student-name">Xiao Liu (刘晓)</div>
+                <img src="/images/personal/hyx.jpg" alt="Yuxin Hu">
+                <div class="student-name">Yuxin Hu (胡雨馨)</div>
                 <div class="student-role">BS@SCU, 2023 - present</div>
-                <div class="student-research">Change Caption</div>
+                <div class="student-research">Image Restoration/3D Vision</div>
             </div>
             <div class="student">
-                <img src="/images/personal/android-chrome-192x192.png" alt="Yongle Shang">
-                <div class="student-name">Xiao Liu (刘晓)</div>
+                <img src="/images/personal/nyt.jpg" alt="Yuting Nie">
+                <div class="student-name">Yuting Nie (聂玉婷)</div>
                 <div class="student-role">BS@SCU, 2023 - present</div>
-                <div class="student-research">Person Re-ID</div>
+                <div class="student-research">Image Super-Resolution</div>
+            </div>
+            <div class="student">
+                <img src="/images/personal/nyt.jpg" alt="jincen Ou">
+                <div class="student-name">jincen Ou (欧津岑)</div>
+                <div class="student-role">BS@SCU, 2023 - present</div>
+                <div class="student-research">Image Restoration/3D Vision</div>
             </div>
         </div>        
 
