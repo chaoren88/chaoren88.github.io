@@ -78,7 +78,7 @@ Dr. Ren has received the Huawei Spark Award and was selected for the National Po
 
 <hr />
 
-## 🤗🤗🤗 2025 🤗🤗🤗
+## <center> 🤗🤗🤗 <font color="#4A708B"> 2025 </font> 🤗🤗🤗 </center>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='images/publications/TCSVY-2025-Tianheng Zheng.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
