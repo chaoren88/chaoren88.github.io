@@ -569,32 +569,7 @@ Yuanzhouhan Cao, Yidong Li, Haokui Zhang, **Chao Ren**, Yifan Liu
 </div></div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Signal Processing 2022</div><img src='images/publications/SP-2016-Honggang Chen.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Single image super resolution using local smoothness and nonlocal self-similarity priors](https://www.sciencedirect.com/science/article/abs/pii/S0923596516000102)
-
-Honggang Chen, Xiaohai He, Qizhi Teng, **Chao Ren**
-
-*Signal Processing: Image Communication (2016)*
-
-[**Paper**](https://www.sciencedirect.com/science/article/abs/pii/S0923596516000102) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> |
-[**Codes**]() <strong><span class='show_paper_citations' data=''></span></strong>
-</div></div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Signal Processing 2022</div><img src='images/publications/SP-2015-Tao Li.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Space-time super-resolution with patch group cuts prior](https://www.sciencedirect.com/science/article/abs/pii/S0923596514001477)
-
-Tao Li, Xiaohai He, Qizhi Teng, Zhengyong Wang, **Chao Ren**
-
-*Signal Processing: Image Communication (2015)*
-
-[**Paper**](https://www.sciencedirect.com/science/article/abs/pii/S0923596514001477) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> |
-[**Codes**]() <strong><span class='show_paper_citations' data=''></span></strong>
-</div></div>
 
 
 
