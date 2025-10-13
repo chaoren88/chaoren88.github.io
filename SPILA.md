@@ -254,7 +254,9 @@
         <div class="students">
             <div class="student">
                 <img src="/images/labs/linxin.jpg" alt="Xin Lin">
-                <div class="student-name">Xin Lin (林鑫)</div>
+                <div class="student-name">
+                    <a href="https://linxin0.github.io/" target="_blank">Xin Lin (林鑫)</a>
+                </div>
                 <div class="student-role">BS@SCU, 2021 - 2025</div>
                 <div class="student-research">Image Restoration/3D Vision</div>
                 <div class="student-work">PhD student at UCSD</div>
