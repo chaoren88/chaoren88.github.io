@@ -120,7 +120,7 @@ Guanglu Dong, Xiangyu Liao, Mingyang Li, Guihuan Guo, **Chao Ren**<sup>✉</sup>
 [**Codes**](https://github.com/GuangluDong0728/SFD) <strong><span class='show_paper_citations' data=''></span></strong>
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/publications/TCSVY-2025-Tianheng Zheng.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/publications2/TCSVY-2025-Tianheng Zheng.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Degradation-Aware Feature Perturbation for All-in-One Image Restoration](https://openaccess.thecvf.com/content/CVPR2025/papers/Tian_Degradation-Aware_Feature_Perturbation_for_All-in-One_Image_Restoration_CVPR_2025_paper.pdf)
@@ -134,7 +134,7 @@ Xiangpeng Tian, Xiangyu Liao, Xiao Liu, Meng Li, **Chao Ren**<sup>✉</sup>
 </div></div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2025</div><img src='images/publications/TCSVY-2025-Tianheng Zheng.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2025</div><img src='images/publications2/TCSVY-2025-Tianheng Zheng.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Plug-and-Play General Image Registration for Misaligned Multi-Modal Image Fusion](https://ieeexplore.ieee.org/abstract/document/11005625)
