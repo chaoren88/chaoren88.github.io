@@ -79,7 +79,7 @@ Dr. Ren has received the Huawei Spark Award and was selected for the National Po
 
 <hr />
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='images/publications2/TCSVY-2025-Tianheng Zheng.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='images/publications2/TPAMI-2025-Xin Lin_P.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Re-boosting self-collaboration parallel prompt gan for unsupervised image restoration](https://ieeexplore.ieee.org/abstract/document/11081458)
