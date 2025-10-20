@@ -20,8 +20,7 @@ redirect_from:
 Chao Ren, an Associate Research Professor with the College of Electronics and Information Engineering, Sichuan University, Chengdu, China. 
 Dr. Ren received the Ph.D. degree in Communication and Information System from Sichuan University, Chengdu, China, in 2017. 
 His current research interests include inverse problems in image and video processing.
-Dr. Ren has published more than 70 papers in SCI journals and international conferences with total 
-<a href='https://scholar.google.com/citations?user=Y6OuBMYAAAAJ&hl=zh-CN&oi=ao'>google scholar citations <strong><span id='total_cit'>2080+</span></strong></a> . 
+Dr. Ren has published more than 70 papers in SCI journals and international conferences. 
 Among them, he has authored or co-authored over 20 high-level papers as the first or corresponding author in top-tier venues, 
 including the IEEE Conference on Computer Vision and Pattern Recognition (CVPR, CCF A), 
 the International Conference on Computer Vision (ICCV, CCF A), Advances in Neural Information Processing Systems (NeurIPS, CCF A), 
@@ -93,7 +92,7 @@ Xin Lin, Yuyan Zhou, Jingtong Yue, **Chao Ren**<sup>✉</sup>, Kelvin C.K. Chan,
 </div></div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/publications/TCSVY-2025-Tianheng Zheng.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/publications2/CVPR-2025-Guanglu Dong.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Channel Consistency Prior and Self-Reconstruction Strategy Based Unsupervised Image Deraining](https://openaccess.thecvf.com/content/CVPR2025/html/Dong_Channel_Consistency_Prior_and_Self-Reconstruction_Strategy_Based_Unsupervised_Image_Deraining_CVPR_2025_paper.html)
@@ -107,7 +106,7 @@ Guanglu Dong, Tianheng Zheng, Yuanzhouhan Cao, Linbo Qing, **Chao Ren**<sup>✉<
 </div></div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/publications/TCSVY-2025-Tianheng Zheng.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/publications2/CVPR-2025-Guanglu Dong.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Exploring semantic feature discrimination for perceptual image super-resolution and opinion-unaware no-reference image quality assessment](https://openaccess.thecvf.com/content/CVPR2025/papers/Dong_Exploring_Semantic_Feature_Discrimination_for_Perceptual_Image_Super-Resolution_and_Opinion-Unaware_CVPR_2025_paper.pdf)
@@ -194,7 +193,7 @@ Jingtong Yue, Xin Lin, Zijiu Yang, **Chao Ren**<sup>✉</sup>
 
 <hr />
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/publications/CVPR-2024-Lufei Chen.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/publications2/CVPR-2024-Lufei Chen.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Unsupervised blind image deblurring based on self-enhancement](https://openaccess.thecvf.com/content/CVPR2024/html/Chen_Unsupervised_Blind_Image_Deblurring_Based_on_Self-Enhancement_CVPR_2024_paper.html)
@@ -266,7 +265,7 @@ Xin Lin, **Chao Ren**<sup>✉</sup>, Xiao Liu, Jie Huang, Yinjie Lei
 [**Codes**](https://github.com/linxin0/SCPGabNet) <strong><span class='show_paper_citations' data=''></span></strong>
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/publications/ICCV-2023-Yizhong Pan.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/publications2/ICCV-2023-Yizhong Pan.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Random sub-samples generation for self-supervised real image denoising](https://openaccess.thecvf.com/content/ICCV2023/html/Pan_Random_Sub-Samples_Generation_for_Self-Supervised_Real_Image_Denoising_ICCV_2023_paper.html)
@@ -293,7 +292,7 @@ Yuwei Yang, Munawar Hayat, Zhao Jin, **Chao Ren**, Yinjie Lei
 </div></div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2023</div><img src='images/publications/ACMMM-2023-Xiao Liu.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2023</div><img src='images/publications2/ACMMM-2023-Xiao Liu.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Efficient parallel multi-scale detail and semantic encoding network for lightweight semantic segmentation](https://dl.acm.org/doi/10.1145/3581783.3611848)
@@ -306,7 +305,7 @@ Xiao Liu, Xiuya Shi, Lufei Chen, Linbo Qing, **Chao Ren**<sup>✉</sup>
 [**Codes**](https://github.com/liux520/PMSDSEN) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECAI 2023</div><img src='images/publications/ECAI-2023-Xiao Liu.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECAI 2023</div><img src='images/publications2/ECAI-2023-Xiao Liu.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Efficient information modulation network for image super-resolution](https://ebooks.iospress.nl/volumearticle/64367)
@@ -421,7 +420,7 @@ Yuanzhouhan Cao, Hui Zhang, Yidong Li, **Chao Ren**, Congyan Lang
 </div></div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022</div><img src='images/publications/NeurIPS-2022-Chao Ren.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022</div><img src='images/publications2/NIPS-2022-Chao Ren.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Enhanced latent space blind model for real image denoising via alternative optimization](https://proceedings.neurips.cc/paper_files/paper/2022/hash/fa93d7bfb48450e1af63c8fa647d317f-Abstract-Conference.html)
@@ -474,7 +473,7 @@ Yuanzhouhan Cao, Hui Zhang, Yidong Li, **Chao Ren**, Congyan Lang
 </div></div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/publications/CVPR-2021-Chao Ren.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/publications2/CVPR-2021-Chao Ren.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Adaptive consistency prior based deep network for image denoising](https://ieeexplore.ieee.org/document/9577972)
