@@ -170,7 +170,7 @@ Xiao Liu, Xiaofeng Wang, Shouyi Wang, Haosong Gou, Zhengyong Wang, **Chao Ren**<
 
 [Transformer-Style Convolutional Network for Efficient Natural and Industrial Image Superresolution](https://ieeexplore.ieee.org/abstract/document/10949639)
 
-Xiao Liu, Zhengyong Wang, Hong Yang, Xiaohai He, Haosong Gou, **Chao Ren**<sup>✉</sup>
+<span style="color: #BA625F;">Xiao Liu, Zhengyong Wang, Hong Yang, Xiaohai He, Haosong Gou, <strong>Chao Ren</strong><sup>✉</sup></span>
 
 *IEEE Transactions on Industrial Informatics (TII 2025)* 
 
