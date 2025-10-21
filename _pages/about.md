@@ -211,7 +211,7 @@ Lufei Chen, Xiangpeng Tian, Shuhua Xiong, Yinjie Lei, **Chao Ren**<sup>✉</sup>
 [**Codes**]() <strong><span class='show_paper_citations' data=''></span></strong> 
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/publications/ECCV-2024-Xiangyu Liao.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/publications2/ECCV-2024-Xiangyu Liao.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Asymmetric Mask Scheme for Self-supervised Real Image Denoising](https://link.springer.com/content/pdf/10.1007/978-3-031-72698-9_12)
@@ -225,7 +225,7 @@ Xiangyu Liao, Tianheng Zheng, Jiayu Zhong, Pingping Zhang, **Chao Ren**<sup>✉<
 </div></div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2024</div><img src='images/publications/TCSVT-2024-Xin Lin.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2024</div><img src='images/publications2/TCSVT-2024-Xin Lin.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Dual Degradation Representation for Joint Deraining and Low-Light Enhancement in the Dark](https://ieeexplore.ieee.org/document/10737413)
@@ -257,7 +257,7 @@ Zhengxin Chen, Xiaohai He, Tingrong Zhang, Shuhua Xiong, **Chao Ren**<sup>✉</s
 
 <hr />
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/publications/ICCV-2023-Xin Lin.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/publications2/ICCV-2023-Xin Lin.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Unsupervised image denoising in real-world scenarios via self-collaboration parallel generative adversarial branches](https://openaccess.thecvf.com/content/ICCV2023/html/Lin_Unsupervised_Image_Denoising_in_Real-World_Scenarios_via_Self-Collaboration_Parallel_Generative_ICCV_2023_paper.html)
@@ -324,7 +324,7 @@ Xiao Liu, Xiangyu Liao, Xiuya Shi, Linbo Qing, **Chao Ren**<sup>✉</sup>
 </div></div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2023</div><img src='images/publications/TCSVT-2023-Yizhong Pan.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2023</div><img src='images/publications2/TCSVT-2023-Yizhong Pan.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Real image denoising via guided residual estimation and noise correction](https://ieeexplore.ieee.org/document/9927458)
@@ -337,7 +337,7 @@ Yizhong Pan, **Chao Ren**<sup>✉</sup>, Xiaohong Wu, Jie Huang, Xiaohai He
 [**Codes**]() <strong><span class='show_paper_citations' data=''></span></strong>
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT-II 2023</div><img src='images/publications/TCSVT-II-2023-Man Qin.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT-II 2023</div><img src='images/publications2/TCSVT-II-2023-Man Qin.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Blind image denoising via deep unfolding network with degradation information guidance](https://ieeexplore.ieee.org/document/10054005)
@@ -397,7 +397,7 @@ Sen Zhai, Chao Ren*, Zhengyong Wang, Xiaohai He, Linbo Qing
 [**Codes**]() <strong><span class='show_paper_citations' data=''></span></strong>
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Fusion 2022</div><img src='images/publications/IF-2022-Honggang Chen.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Fusion 2022</div><img src='images/publications2/IF-2022-Honggang Chen.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Real-world single image super-resolution: A brief review](https://www.sciencedirect.com/science/article/abs/pii/S1566253521001792)
