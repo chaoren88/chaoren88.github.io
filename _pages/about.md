@@ -194,8 +194,8 @@ Dr. Ren has received the Huawei Spark Award and was selected for the National Po
  <strong><span class='show_paper_citations' data=''></span></strong>
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div>< img src='images/publications2/ICLR-2025-Xin Lin.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/publications2/ICLR-2025-Xin Lin.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> 
 
 [HQGS: High-Quality Novel View Synthesis with Gaussian Splatting in Degraded Scenes](https://proceedings.iclr.cc/paper_files/paper/2025/hash/4a69d58b1a64fd931ef72cd93b71dcbe-Abstract-Conference.html)
 
