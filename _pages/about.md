@@ -51,11 +51,11 @@ Dr. Ren has received the Huawei Spark Award and was selected for the National Po
 <body>
 
 <div class="scroll-box">
-    <p>- May 16, 2025: 🎉🎉🎉 One paper was accepted by TPAMI. Congratulations to Xin Lin 👏👏👏. </p>
-    <p>- May 16, 2025: 🎉🎉🎉 Three papers were accepted by CVPR. Congratulations to Guanglu Dong and Xiangpeng Tian 👏👏👏. </p>
-    <p>- May 16, 2025: 🎉🎉🎉 One paper was accepted by TCSVT. Congratulations to Tianheng Zhen 👏👏👏. </p>
-    <p>- June 16, 2025: 🎉🎉🎉 One paper was accepted by TNNLS. Congratulations to Xiao Liu 👏👏👏. </p>
-    <p>- April 16, 2025: 🎉🎉🎉 One paper was accepted by TII. Congratulations to Xiao Liu 👏👏👏. </p>
+    <p>- July  12, 2025: 🎉🎉🎉 One paper was accepted by TPAMI. Congratulations to Xin Lin 👏👏👏. </p>
+    <p>- May   16, 2025: 🎉🎉🎉 Three papers were accepted by CVPR. Congratulations to Guanglu Dong and Xiangpeng Tian 👏👏👏. </p>
+    <p>- May   12, 2025: 🎉🎉🎉 One paper was accepted by TCSVT. Congratulations to Tianheng Zhen 👏👏👏. </p>
+    <p>- June  16, 2025: 🎉🎉🎉 One paper was accepted by TNNLS. Congratulations to Xiao Liu 👏👏👏. </p>
+    <p>- June  02, 2025: 🎉🎉🎉 One paper was accepted by TII. Congratulations to Xiao Liu 👏👏👏. </p>
     <p>- April 16, 2025: 🎉🎉🎉 One paper was accepted by WACV. Congratulations to Jingtong Yue 👏👏👏. </p>
     <p>- April 16, 2024: 🎉🎉🎉 One paper was accepted by CVPR. Congratulations to Lufei Chen 👏👏👏. </p>
     <p>- April 16, 2024: 🎉🎉🎉 One paper was accepted by ECCV. Congratulations to Xiangyu Liao 👏👏👏. </p>
@@ -581,19 +581,19 @@ Yuanzhouhan Cao, Yidong Li, Haokui Zhang, **Chao Ren**, Yifan Liu
 
 # 🎖 Honors and Awards
 
-| Year | Award Name | Ranking |                                    Awarding Institution                                     |                           Notes                           |
-|:----:|:------------|:-------:|:-------------------------------------------------------------------------------------------:|:---------------------------------------------------------:|
-| 2025 | CVPR Outstanding Reviewer Award | - |                                            CVPR                                             |                             -                             |
-| 2025 | Sichuan University Annual Outstanding Individual | - |                                     Sichuan University                                      |                             -                             |
-| 2024 | Sichuan University Outstanding Research Talent—Academic Newcomer Award | Rank 1 |                                     Sichuan University                                      |    Only 10 recipients annually across all disciplines     |
-| 2024 | Third Prize, China Institute of Communications Science and Technology Award | Rank 3 |                              China Institute of Communications                              |                             -                             |
-| 2023 | Huawei Spark Award | Rank 1 |                                Huawei Technologies Co., Ltd.                                |                             -                             |
-| 2023 | Third Prize, Sichuan Provincial Science and Technology Progress Award | Rank 4 |                           Sichuan Provincial People's Government                            |                             -                             |
-| 2023 | Sichuan University Hundred Talents Program | Rank 1 |                                     Sichuan University                                      |                             -                             |
-| 2023 | ICDT Novel Display Technology Competition, National First Prize (Advisor) | Rank 1 |            SID China Chapter, ICDT Organizing Committee, Huawei Device Co., Ltd.            |      The sole national first prize in this category       |
+| Year |                                          Award Name                                          | Ranking |                                    Awarding Institution                                     |                           Notes                           |
+|:----:|:--------------------------------------------------------------------------------------------:|:-------:|:-------------------------------------------------------------------------------------------:|:---------------------------------------------------------:|
+| 2025 |                               CVPR Outstanding Reviewer Award                                | - |                                            CVPR                                             |                             -                             |
+| 2025 |                       Sichuan University Annual Outstanding Individual                       | - |                                     Sichuan University                                      |                             -                             |
+| 2024 |            Sichuan University Outstanding Research Talent—Academic Newcomer Award            | Rank 1 |                                     Sichuan University                                      |    Only 10 recipients annually across all disciplines     |
+| 2024 |         Third Prize, China Institute of Communications Science and Technology Award          | Rank 3 |                              China Institute of Communications                              |                             -                             |
+| 2023 |                                      Huawei Spark Award                                      | Rank 1 |                                Huawei Technologies Co., Ltd.                                |                             -                             |
+| 2023 |            Third Prize, Sichuan Provincial Science and Technology Progress Award             | Rank 4 |                           Sichuan Provincial People's Government                            |                             -                             |
+| 2023 |                          Sichuan University Hundred Talents Program                          | Rank 1 |                                     Sichuan University                                      |                             -                             |
+| 2023 |          ICDT Novel Display Technology Competition, National First Prize (Advisor)           | Rank 1 |            SID China Chapter, ICDT Organizing Committee, Huawei Device Co., Ltd.            |      The sole national first prize in this category       |
 | 2018, 2020, 2024 | Sichuan University Sanxin Teaching Award and Wuliangchun Outstanding Faculty Award (3 times) | Rank 1 |                                     Sichuan University                                      |                             -                             |
-| 2017 | National Postdoctoral Innovation Talent Support Program (Bo Xin Program) | Rank 1 | Ministry of Human Resources and Social Security, National Postdoctoral Management Committee | Only 8 individuals nationwide selected in this discipline |
-| 2017 | Elsevier Outstanding Reviewer Award (2 times) | Rank 1 |                                          Elsevier                                           |                             -                             |
+| 2017 |           National Postdoctoral Innovation Talent Support Program (Bo Xin Program)           | Rank 1 | Ministry of Human Resources and Social Security, National Postdoctoral Management Committee | Only 8 individuals nationwide selected in this discipline |
+| 2017 |                        Elsevier Outstanding Reviewer Award (2 times)                         | Rank 1 |                                          Elsevier                                           |                             -                             |
 
 
 # 📖 Educations
