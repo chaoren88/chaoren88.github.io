@@ -174,8 +174,22 @@ Xiao Liu, Zhengyong Wang, Hong Yang, Xiaohai He, Haosong Gou, **Chao Ren**<sup>â
 
 *IEEE Transactions on Industrial Informatics (TII 2025)*
 
-[**Paper**](https://ieeexplore.ieee.org/abstract/document/10949639) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> |
-[**Codes**](https://github.com/liux520/TSCN) <strong><span class='show_paper_citations' data=''></span></strong>
+<span style="display: inline-block; margin: 3px;">
+  <a href="https://ieeexplore.ieee.org/abstract/document/10949639" 
+     style="display: inline-block; padding: 6px 16px; background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%); color: #495057; text-decoration: none; border: 1px solid #ced4da; border-radius: 10px; font-size: 14px; font-weight: 600; box-shadow: 0 2px 4px rgba(0,0,0,0.05); transition: all 0.2s;">
+    Paper
+  </a>
+</span>
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+<span style="display: inline-block; margin: 3px;">
+  <a href="https://github.com/liux520/TSCN" 
+     style="display: inline-block; padding: 6px 16px; background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%); color: #495057; text-decoration: none; border: 1px solid #ced4da; border-radius: 10px; font-size: 14px; font-weight: 600; box-shadow: 0 2px 4px rgba(0,0,0,0.05); transition: all 0.2s;">
+    Codes
+  </a>
+</span>
+<strong><span class='show_paper_citations' data=''></span></strong>
+
 </div></div>
 
 
@@ -188,8 +202,7 @@ Jingtong Yue, Xin Lin, Zijiu Yang, **Chao Ren**<sup>âœ‰</sup>
 
 *In Proc. IEEE/CVF Winter Conf. on Applications of Computer Vision (WACV 2025)*
 
-[**Paper**](https://ieeexplore.ieee.org/document/10943422) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | 
-[**Codes**]() <strong><span class='show_paper_citations' data=''></span></strong>
+[**Paper**](https://ieeexplore.ieee.org/document/10943422) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div></div>
 
 <hr />
