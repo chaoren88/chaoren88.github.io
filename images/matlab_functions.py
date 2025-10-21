@@ -196,9 +196,9 @@ def pil_resize(img_pil, size=(1280, 720), save_path=''):
 if __name__ == '__main__':
 
     pil_resize(
-        img_pil=r'D:\PhD\Github\Lab\infos\posters\papers\图片21.jpg',
+        img_pil=r'D:\PhD\Github\Lab\infos\posters\papers\P',
         size=(1280, 720),
-        save_path='D:\PhD\Github\Lab\infos\posters\papers'
+        save_path='D:\PhD\Github\Lab\infos\posters\papers\P'
     )
 
 
