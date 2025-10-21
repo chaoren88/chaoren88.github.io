@@ -209,7 +209,7 @@
                 <div class="student-research">Image Super-Resolution</div>
             </div>
             <div class="student">
-                <img src="/images/labs/zyh.jpg" alt="Jiayu Zhong">
+                <img src="/images/labs/zjy.jpg" alt="Jiayu Zhong">
                 <div class="student-name">Jiayu Zhong (钟嘉宇)</div>
                 <div class="student-role">MS@SCU, 2023 - present</div>
                 <div class="student-research">Few-shot Object Detection</div>
@@ -240,7 +240,7 @@
                 <img src="/images/labs/nyt.jpg" alt="Yuting Nie">
                 <div class="student-name">Yuting Nie (聂玉婷)</div>
                 <div class="student-role">BS@SCU, 2023 - present</div>
-                <div class="student-research">Image Super-Resolution</div>
+                <div class="student-research">Image Super-Resolution and Quality Assessment</div>
             </div>
             <div class="student">
                 <img src="/images/labs/ojc.jpg" alt="jincen Ou">
@@ -260,6 +260,15 @@
                 <div class="student-role">BS@SCU, 2021 - 2025</div>
                 <div class="student-research">Image Restoration/3D Vision</div>
                 <div class="student-work">PhD student at UCSD</div>
+            </div>
+            <div class="student">
+                <img src="/images/labs/yjt.jpg" alt="Jingtong Yue">
+                <div class="student-name">
+                    <a href="https://jingtong0527.github.io/" target="_blank">Jingtong Yue (岳靖童)</a>
+                </div>
+                <div class="student-role">BS@SCU, 2021 - 2025</div>
+                <div class="student-research">Image Restoration/3D Vision</div>
+                <div class="student-work">Master student at CMU</div>
             </div>
             <div class="student">
                 <img src="/images/labs/sxy-2.jpg" alt="Xiuya Shi">
