@@ -134,6 +134,21 @@ Xiangpeng Tian, Xiangyu Liao, Xiao Liu, Meng Li, **Chao Ren**<sup>✉</sup>
 </div></div>
 
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/publications2/ICLR-2025-Xin Lin.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[HQGS: High-Quality Novel View Synthesis with Gaussian Splatting in Degraded Scenes](https://proceedings.iclr.cc/paper_files/paper/2025/hash/4a69d58b1a64fd931ef72cd93b71dcbe-Abstract-Conference.html)
+
+Xin Lin, Shi Luo, Xiaojun Shan, Xiaoyu Zhou, Chao Ren, Lu Qi, Ming-Hsuan Yang, Nuno Vasconcelos
+
+*International Conference on Representation Learning 2025 (ICLR 2025)*
+
+[**Paper**](https://proceedings.iclr.cc/paper_files/paper/2025/hash/4a69d58b1a64fd931ef72cd93b71dcbe-Abstract-Conference.html) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div></div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2025</div><img src='images/publications2/TCSVT-2025-Tianheng Zheng.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
