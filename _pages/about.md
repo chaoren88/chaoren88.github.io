@@ -81,12 +81,28 @@ Dr. Ren has received the Huawei Spark Award and was selected for the National Po
 
 [Re-boosting self-collaboration parallel prompt gan for unsupervised image restoration](https://ieeexplore.ieee.org/abstract/document/11081458)
 
-Xin Lin, Yuyan Zhou, Jingtong Yue, **Chao Ren**<sup>✉</sup>, Kelvin C.K. Chan, Lu Qi, and Ming-Hsuan Yang
+<span style="color: #BA625F;">Xin Lin, Yuyan Zhou, Jingtong Yue, <strong>Chao Ren</strong><sup>✉</sup>, Kelvin C.K. Chan, Lu Qi, and Ming-Hsuan Yang</span>
 
 *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI 2025)*
 
-[**Paper**](https://ieeexplore.ieee.org/abstract/document/11081458) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> |
-[**Codes**](https://github.com/linxin0/RSCP2GAN) <strong><span class='show_paper_citations' data=''></span></strong>
+
+<div style="display: flex; gap: 10px; align-items: center;">
+  <span>
+    <a href="https://ieeexplore.ieee.org/abstract/document/11081458" 
+       style="display: inline-block; padding: 4px 12px; background-color: #f8f9fa; color: #0366d6; text-decoration: none; border: 1px solid #d1d5da; border-radius: 6px; font-size: 14px; font-weight: 500;">
+      Paper
+    </a>
+    <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+  </span>
+  <span>
+    <a href="https://github.com/linxin0/RSCP2GAN" 
+       style="display: inline-block; padding: 4px 12px; background-color: #f8f9fa; color: #0366d6; text-decoration: none; border: 1px solid #d1d5da; border-radius: 6px; font-size: 14px; font-weight: 500;">
+      Codes
+    </a>
+    <strong><span class='show_paper_citations' data=''></span></strong>
+  </span>
+</div>
+ <strong><span class='show_paper_citations' data=''></span></strong>
 </div></div>
 
 
@@ -95,12 +111,28 @@ Xin Lin, Yuyan Zhou, Jingtong Yue, **Chao Ren**<sup>✉</sup>, Kelvin C.K. Chan,
 
 [Channel Consistency Prior and Self-Reconstruction Strategy Based Unsupervised Image Deraining](https://openaccess.thecvf.com/content/CVPR2025/html/Dong_Channel_Consistency_Prior_and_Self-Reconstruction_Strategy_Based_Unsupervised_Image_Deraining_CVPR_2025_paper.html)
 
-Guanglu Dong, Tianheng Zheng, Yuanzhouhan Cao, Linbo Qing, **Chao Ren**<sup>✉</sup>
+<span style="color: #BA625F;">Guanglu Dong, Tianheng Zheng, Yuanzhouhan Cao, Linbo Qing, <strong>Chao Ren</strong><sup>✉</sup></span>
 
 *In Proc. IEEE Conf. on Computer Vision and Pattern Recognition (CVPR 2025)*
 
-[**Paper**](https://openaccess.thecvf.com/content/CVPR2025/papers/Dong_Channel_Consistency_Prior_and_Self-Reconstruction_Strategy_Based_Unsupervised_Image_Deraining_CVPR_2025_paper.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> |
-[**Codes**](https://github.com/GuangluDong0728/CSUD-Unsupervised-Deraining-CVPR2025) <strong><span class='show_paper_citations' data=''></span></strong>
+
+<div style="display: flex; gap: 10px; align-items: center;">
+  <span>
+    <a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Dong_Channel_Consistency_Prior_and_Self-Reconstruction_Strategy_Based_Unsupervised_Image_Deraining_CVPR_2025_paper.pdf" 
+       style="display: inline-block; padding: 4px 12px; background-color: #f8f9fa; color: #0366d6; text-decoration: none; border: 1px solid #d1d5da; border-radius: 6px; font-size: 14px; font-weight: 500;">
+      Paper
+    </a>
+    <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+  </span>
+  <span>
+    <a href="https://github.com/GuangluDong0728/CSUD-Unsupervised-Deraining-CVPR2025" 
+       style="display: inline-block; padding: 4px 12px; background-color: #f8f9fa; color: #0366d6; text-decoration: none; border: 1px solid #d1d5da; border-radius: 6px; font-size: 14px; font-weight: 500;">
+      Codes
+    </a>
+    <strong><span class='show_paper_citations' data=''></span></strong>
+  </span>
+</div>
+ <strong><span class='show_paper_citations' data=''></span></strong>
 </div></div>
 
 
@@ -109,12 +141,28 @@ Guanglu Dong, Tianheng Zheng, Yuanzhouhan Cao, Linbo Qing, **Chao Ren**<sup>✉<
 
 [Exploring semantic feature discrimination for perceptual image super-resolution and opinion-unaware no-reference image quality assessment](https://openaccess.thecvf.com/content/CVPR2025/papers/Dong_Exploring_Semantic_Feature_Discrimination_for_Perceptual_Image_Super-Resolution_and_Opinion-Unaware_CVPR_2025_paper.pdf)
 
-Guanglu Dong, Xiangyu Liao, Mingyang Li, Guihuan Guo, **Chao Ren**<sup>✉</sup>
+<span style="color: #BA625F;">Guanglu Dong, Xiangyu Liao, Mingyang Li, Guihuan Guo, <strong>Chao Ren</strong><sup>✉</sup></span>
 
 *In Proc. IEEE Conf. on Computer Vision and Pattern Recognition (CVPR 2025)*
 
-[**Paper**](https://openaccess.thecvf.com/content/CVPR2025/papers/Dong_Exploring_Semantic_Feature_Discrimination_for_Perceptual_Image_Super-Resolution_and_Opinion-Unaware_CVPR_2025_paper.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> |
-[**Codes**](https://github.com/GuangluDong0728/SFD) <strong><span class='show_paper_citations' data=''></span></strong>
+
+<div style="display: flex; gap: 10px; align-items: center;">
+  <span>
+    <a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Dong_Exploring_Semantic_Feature_Discrimination_for_Perceptual_Image_Super-Resolution_and_Opinion-Unaware_CVPR_2025_paper.pdf" 
+       style="display: inline-block; padding: 4px 12px; background-color: #f8f9fa; color: #0366d6; text-decoration: none; border: 1px solid #d1d5da; border-radius: 6px; font-size: 14px; font-weight: 500;">
+      Paper
+    </a>
+    <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+  </span>
+  <span>
+    <a href="https://github.com/GuangluDong0728/SFD" 
+       style="display: inline-block; padding: 4px 12px; background-color: #f8f9fa; color: #0366d6; text-decoration: none; border: 1px solid #d1d5da; border-radius: 6px; font-size: 14px; font-weight: 500;">
+      Codes
+    </a>
+    <strong><span class='show_paper_citations' data=''></span></strong>
+  </span>
+</div>
+ <strong><span class='show_paper_citations' data=''></span></strong>
 </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/publications2/CVPR-2025-Xiangpeng Tian.jpg' alt="sym" width="100%"></div></div>
@@ -122,41 +170,78 @@ Guanglu Dong, Xiangyu Liao, Mingyang Li, Guihuan Guo, **Chao Ren**<sup>✉</sup>
 
 [Degradation-Aware Feature Perturbation for All-in-One Image Restoration](https://openaccess.thecvf.com/content/CVPR2025/papers/Tian_Degradation-Aware_Feature_Perturbation_for_All-in-One_Image_Restoration_CVPR_2025_paper.pdf)
 
-Xiangpeng Tian, Xiangyu Liao, Xiao Liu, Meng Li, **Chao Ren**<sup>✉</sup>
+<span style="color: #BA625F;">Xiangpeng Tian, Xiangyu Liao, Xiao Liu, Meng Li, <strong>Chao Ren</strong><sup>✉</sup></span>
 
 *In Proc. IEEE Conf. on Computer Vision and Pattern Recognition (CVPR 2025)*
 
-[**Paper**](https://openaccess.thecvf.com/content/CVPR2025/papers/Tian_Degradation-Aware_Feature_Perturbation_for_All-in-One_Image_Restoration_CVPR_2025_paper.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> |
-[**Codes**](https://github.com/TxpHome/DFPIR) <strong><span class='show_paper_citations' data=''></span></strong>
+
+<div style="display: flex; gap: 10px; align-items: center;">
+  <span>
+    <a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Tian_Degradation-Aware_Feature_Perturbation_for_All-in-One_Image_Restoration_CVPR_2025_paper.pdf" 
+       style="display: inline-block; padding: 4px 12px; background-color: #f8f9fa; color: #0366d6; text-decoration: none; border: 1px solid #d1d5da; border-radius: 6px; font-size: 14px; font-weight: 500;">
+      Paper
+    </a>
+    <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+  </span>
+  <span>
+    <a href="https://github.com/TxpHome/DFPIR" 
+       style="display: inline-block; padding: 4px 12px; background-color: #f8f9fa; color: #0366d6; text-decoration: none; border: 1px solid #d1d5da; border-radius: 6px; font-size: 14px; font-weight: 500;">
+      Codes
+    </a>
+    <strong><span class='show_paper_citations' data=''></span></strong>
+  </span>
+</div>
+ <strong><span class='show_paper_citations' data=''></span></strong>
 </div></div>
 
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/publications2/ICLR-2025-Xin Lin.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div>< img src='images/publications2/ICLR-2025-Xin Lin.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [HQGS: High-Quality Novel View Synthesis with Gaussian Splatting in Degraded Scenes](https://proceedings.iclr.cc/paper_files/paper/2025/hash/4a69d58b1a64fd931ef72cd93b71dcbe-Abstract-Conference.html)
 
-Xin Lin, Shi Luo, Xiaojun Shan, Xiaoyu Zhou, Chao Ren, Lu Qi, Ming-Hsuan Yang, Nuno Vasconcelos
+<span style="color: #BA625F;">Xin Lin, Shi Luo, Xiaojun Shan, Xiaoyu Zhou, <strong>Chao Ren</strong><sup>✉</sup>, Lu Qi, Ming-Hsuan Yang, Nuno Vasconcelos</span>
 
 *International Conference on Representation Learning 2025 (ICLR 2025)*
 
-[**Paper**](https://proceedings.iclr.cc/paper_files/paper/2025/hash/4a69d58b1a64fd931ef72cd93b71dcbe-Abstract-Conference.html) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+<div style="display: flex; gap: 10px; align-items: center;">
+  <span>
+    <a href="https://proceedings.iclr.cc/paper_files/paper/2025/hash/4a69d58b1a64fd931ef72cd93b71dcbe-Abstract-Conference.html" 
+       style="display: inline-block; padding: 4px 12px; background-color: #f8f9fa; color: #0366d6; text-decoration: none; border: 1px solid #d1d5da; border-radius: 6px; font-size: 14px; font-weight: 500;">
+      Paper
+    </a>
+    <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+  </span>
+</div>
 </div></div>
-
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2025</div><img src='images/publications2/TCSVT-2025-Tianheng Zheng.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Plug-and-Play General Image Registration for Misaligned Multi-Modal Image Fusion](https://ieeexplore.ieee.org/abstract/document/11005625)
 
-Tianheng Zheng, Guanglu Dong, Pingping Zhang, Xiaohai He, **Chao Ren**<sup>✉</sup>
+<span style="color: #BA625F;">Tianheng Zheng, Guanglu Dong, Pingping Zhang, Xiaohai He, <strong>Chao Ren</strong><sup>✉</sup></span>
 
 *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT 2025)*
 
-[**Paper**](https://ieeexplore.ieee.org/abstract/document/11005625) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> |
-[**Codes**](https://github.com/stwts/PGMR) <strong><span class='show_paper_citations' data=''></span></strong>
+
+<div style="display: flex; gap: 10px; align-items: center;">
+  <span>
+    <a href="https://ieeexplore.ieee.org/abstract/document/11005625" 
+       style="display: inline-block; padding: 4px 12px; background-color: #f8f9fa; color: #0366d6; text-decoration: none; border: 1px solid #d1d5da; border-radius: 6px; font-size: 14px; font-weight: 500;">
+      Paper
+    </a>
+    <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+  </span>
+  <span>
+    <a href="https://github.com/stwts/PGMR" 
+       style="display: inline-block; padding: 4px 12px; background-color: #f8f9fa; color: #0366d6; text-decoration: none; border: 1px solid #d1d5da; border-radius: 6px; font-size: 14px; font-weight: 500;">
+      Codes
+    </a>
+    <strong><span class='show_paper_citations' data=''></span></strong>
+  </span>
+</div>
+ <strong><span class='show_paper_citations' data=''></span></strong>
 </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2025</div><img src='images/publications2/TNNLS-2025-Xiao Liu.jpg' alt="sym" width="100%"></div></div>
@@ -164,12 +249,28 @@ Tianheng Zheng, Guanglu Dong, Pingping Zhang, Xiaohai He, **Chao Ren**<sup>✉</
 
 [GBPG-Net: Global Background Prior-Guided Rain and Snow Image Restoration](https://ieeexplore.ieee.org/abstract/document/11048715)
 
-Xiao Liu, Xiaofeng Wang, Shouyi Wang, Haosong Gou, Zhengyong Wang, **Chao Ren**<sup>✉</sup>
+<span style="color: #BA625F;">Xiao Liu, Xiaofeng Wang, Shouyi Wang, Haosong Gou, Zhengyong Wang, <strong>Chao Ren</strong><sup>✉</sup></span>
 
 *IEEE Transactions on Neural Networks and Learning Systems (TNNLS 2025)*
 
-[**Paper**](https://ieeexplore.ieee.org/abstract/document/11048715) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> |
-[**Codes**](https://github.com/liux520/GPBG-Net) <strong><span class='show_paper_citations' data=''></span></strong>
+
+<div style="display: flex; gap: 10px; align-items: center;">
+  <span>
+    <a href="https://ieeexplore.ieee.org/abstract/document/11048715" 
+       style="display: inline-block; padding: 4px 12px; background-color: #f8f9fa; color: #0366d6; text-decoration: none; border: 1px solid #d1d5da; border-radius: 6px; font-size: 14px; font-weight: 500;">
+      Paper
+    </a>
+    <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+  </span>
+  <span>
+    <a href="https://github.com/liux520/GPBG-Net" 
+       style="display: inline-block; padding: 4px 12px; background-color: #f8f9fa; color: #0366d6; text-decoration: none; border: 1px solid #d1d5da; border-radius: 6px; font-size: 14px; font-weight: 500;">
+      Codes
+    </a>
+    <strong><span class='show_paper_citations' data=''></span></strong>
+  </span>
+</div>
+ <strong><span class='show_paper_citations' data=''></span></strong>
 </div></div>
 
 
@@ -178,7 +279,7 @@ Xiao Liu, Xiaofeng Wang, Shouyi Wang, Haosong Gou, Zhengyong Wang, **Chao Ren**<
 
 [Transformer-Style Convolutional Network for Efficient Natural and Industrial Image Superresolution](https://ieeexplore.ieee.org/abstract/document/10949639)
 
-<span style="color: #BA625F;">Xiao Liu, Zhengyong Wang, Hong Yang, Xiaohai He, Haosong Gou, <strong>Chao Ren</strong><sup>✉</sup></span>
+<span style="color: #BA625F;"><span style="color: #BA625F;">Xiao Liu, Zhengyong Wang, Hong Yang, Xiaohai He, Haosong Gou, <strong>Chao Ren</strong><sup>✉</sup></span></span>
 
 *IEEE Transactions on Industrial Informatics (TII 2025)* 
 
@@ -207,11 +308,20 @@ Xiao Liu, Xiaofeng Wang, Shouyi Wang, Haosong Gou, Zhengyong Wang, **Chao Ren**<
 
 [Dual-Representation Interaction Driven Image Quality Assessment with Restoration Assistance](https://ieeexplore.ieee.org/document/10943422)
 
-Jingtong Yue, Xin Lin, Zijiu Yang, **Chao Ren**<sup>✉</sup>
+<span style="color: #BA625F;">Jingtong Yue, Xin Lin, Zijiu Yang, <strong>Chao Ren</strong><sup>✉</sup></span>
 
 *In Proc. IEEE/CVF Winter Conf. on Applications of Computer Vision (WACV 2025)*
 
-[**Paper**](https://ieeexplore.ieee.org/document/10943422) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+<div style="display: flex; gap: 10px; align-items: center;">
+  <span>
+    <a href="https://ieeexplore.ieee.org/document/10943422" 
+       style="display: inline-block; padding: 4px 12px; background-color: #f8f9fa; color: #0366d6; text-decoration: none; border: 1px solid #d1d5da; border-radius: 6px; font-size: 14px; font-weight: 500;">
+      Paper
+    </a>
+    <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+  </span>
+</div>
 </div></div>
 
 <hr />
@@ -225,11 +335,20 @@ Jingtong Yue, Xin Lin, Zijiu Yang, **Chao Ren**<sup>✉</sup>
 
 [Unsupervised blind image deblurring based on self-enhancement](https://openaccess.thecvf.com/content/CVPR2024/html/Chen_Unsupervised_Blind_Image_Deblurring_Based_on_Self-Enhancement_CVPR_2024_paper.html)
 
-Lufei Chen, Xiangpeng Tian, Shuhua Xiong, Yinjie Lei, **Chao Ren**<sup>✉</sup>
+<span style="color: #BA625F;">Lufei Chen, Xiangpeng Tian, Shuhua Xiong, Yinjie Lei, <strong>Chao Ren</strong><sup>✉</sup></span>
 
 *In Proc. IEEE Conf. on Computer Vision and Pattern Recognition (CVPR 2024)*
 
-[**Paper**](https://openaccess.thecvf.com/content/CVPR2024/html/Chen_Unsupervised_Blind_Image_Deblurring_Based_on_Self-Enhancement_CVPR_2024_paper.html)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+<div style="display: flex; gap: 10px; align-items: center;">
+  <span>
+    <a href="https://openaccess.thecvf.com/content/CVPR2024/html/Chen_Unsupervised_Blind_Image_Deblurring_Based_on_Self-Enhancement_CVPR_2024_paper.html" 
+       style="display: inline-block; padding: 4px 12px; background-color: #f8f9fa; color: #0366d6; text-decoration: none; border: 1px solid #d1d5da; border-radius: 6px; font-size: 14px; font-weight: 500;">
+      Paper
+    </a>
+    <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+  </span>
+</div>
 </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/publications2/ECCV-2024-Xiangyu Liao.png' alt="sym" width="100%"></div></div>
@@ -237,12 +356,28 @@ Lufei Chen, Xiangpeng Tian, Shuhua Xiong, Yinjie Lei, **Chao Ren**<sup>✉</sup>
 
 [Asymmetric Mask Scheme for Self-supervised Real Image Denoising](https://link.springer.com/content/pdf/10.1007/978-3-031-72698-9_12)
 
-Xiangyu Liao, Tianheng Zheng, Jiayu Zhong, Pingping Zhang, **Chao Ren**<sup>✉</sup>
+<span style="color: #BA625F;">Xiangyu Liao, Tianheng Zheng, Jiayu Zhong, Pingping Zhang, <strong>Chao Ren</strong><sup>✉</sup></span>
 
 *In Proc. of the European Conf. on Computer Vision (ECCV 2024)*
 
-[**Paper**](https://link.springer.com/content/pdf/10.1007/978-3-031-72698-9_12)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | 
-[**Codes**](https://github.com/lll143653/amsnet) <strong><span class='show_paper_citations' data=''></span></strong>
+
+<div style="display: flex; gap: 10px; align-items: center;">
+  <span>
+    <a href="https://link.springer.com/content/pdf/10.1007/978-3-031-72698-9_12" 
+       style="display: inline-block; padding: 4px 12px; background-color: #f8f9fa; color: #0366d6; text-decoration: none; border: 1px solid #d1d5da; border-radius: 6px; font-size: 14px; font-weight: 500;">
+      Paper
+    </a>
+    <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+  </span>
+  <span>
+    <a href="https://github.com/lll143653/amsnet" 
+       style="display: inline-block; padding: 4px 12px; background-color: #f8f9fa; color: #0366d6; text-decoration: none; border: 1px solid #d1d5da; border-radius: 6px; font-size: 14px; font-weight: 500;">
+      Codes
+    </a>
+    <strong><span class='show_paper_citations' data=''></span></strong>
+  </span>
+</div>
+ <strong><span class='show_paper_citations' data=''></span></strong>
 </div></div>
 
 
@@ -251,12 +386,28 @@ Xiangyu Liao, Tianheng Zheng, Jiayu Zhong, Pingping Zhang, **Chao Ren**<sup>✉<
 
 [Dual Degradation Representation for Joint Deraining and Low-Light Enhancement in the Dark](https://ieeexplore.ieee.org/document/10737413)
 
-Xin Lin, Jingtong Yue, Sixian Ding, **Chao Ren**<sup>✉</sup>, Lu Qi, Ming-Hsuan Yang
+<span style="color: #BA625F;">Xin Lin, Jingtong Yue, Sixian Ding, <strong>Chao Ren</strong><sup>✉</sup>, Lu Qi, Ming-Hsuan Yang</span>
 
 *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT 2025)*
 
-[**Paper**](https://ieeexplore.ieee.org/document/10737413)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | 
-[**Codes**](https://github.com/linxin0/Low_light_rainy) <strong><span class='show_paper_citations' data=''></span></strong>
+
+<div style="display: flex; gap: 10px; align-items: center;">
+  <span>
+    <a href="https://ieeexplore.ieee.org/document/10737413" 
+       style="display: inline-block; padding: 4px 12px; background-color: #f8f9fa; color: #0366d6; text-decoration: none; border: 1px solid #d1d5da; border-radius: 6px; font-size: 14px; font-weight: 500;">
+      Paper
+    </a>
+    <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+  </span>
+  <span>
+    <a href="https://github.com/linxin0/Low_light_rainy" 
+       style="display: inline-block; padding: 4px 12px; background-color: #f8f9fa; color: #0366d6; text-decoration: none; border: 1px solid #d1d5da; border-radius: 6px; font-size: 14px; font-weight: 500;">
+      Codes
+    </a>
+    <strong><span class='show_paper_citations' data=''></span></strong>
+  </span>
+</div>
+ <strong><span class='show_paper_citations' data=''></span></strong>
 </div></div>
 
 
@@ -271,12 +422,28 @@ Xin Lin, Jingtong Yue, Sixian Ding, **Chao Ren**<sup>✉</sup>, Lu Qi, Ming-Hsua
 
 [Unsupervised image denoising in real-world scenarios via self-collaboration parallel generative adversarial branches](https://openaccess.thecvf.com/content/ICCV2023/html/Lin_Unsupervised_Image_Denoising_in_Real-World_Scenarios_via_Self-Collaboration_Parallel_Generative_ICCV_2023_paper.html)
 
-Xin Lin, **Chao Ren**<sup>✉</sup>, Xiao Liu, Jie Huang, Yinjie Lei
+<span style="color: #BA625F;">Xin Lin, <strong>Chao Ren</strong><sup>✉</sup>, Xiao Liu, Jie Huang, Yinjie Lei</span>
 
 *In Proc. of the IEEE International Conf. on Computer Vision (ICCV 2023)*
 
-[**Paper**](https://openaccess.thecvf.com/content/ICCV2023/html/Lin_Unsupervised_Image_Denoising_in_Real-World_Scenarios_via_Self-Collaboration_Parallel_Generative_ICCV_2023_paper.html) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | 
-[**Codes**](https://github.com/linxin0/SCPGabNet) <strong><span class='show_paper_citations' data=''></span></strong>
+
+<div style="display: flex; gap: 10px; align-items: center;">
+  <span>
+    <a href="https://openaccess.thecvf.com/content/ICCV2023/html/Lin_Unsupervised_Image_Denoising_in_Real-World_Scenarios_via_Self-Collaboration_Parallel_Generative_ICCV_2023_paper.html" 
+       style="display: inline-block; padding: 4px 12px; background-color: #f8f9fa; color: #0366d6; text-decoration: none; border: 1px solid #d1d5da; border-radius: 6px; font-size: 14px; font-weight: 500;">
+      Paper
+    </a>
+    <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+  </span>
+  <span>
+    <a href="https://github.com/linxin0/SCPGabNet" 
+       style="display: inline-block; padding: 4px 12px; background-color: #f8f9fa; color: #0366d6; text-decoration: none; border: 1px solid #d1d5da; border-radius: 6px; font-size: 14px; font-weight: 500;">
+      Codes
+    </a>
+    <strong><span class='show_paper_citations' data=''></span></strong>
+  </span>
+</div>
+ <strong><span class='show_paper_citations' data=''></span></strong>
 </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/publications2/ICCV-2023-Yizhong Pan.jpg' alt="sym" width="100%"></div></div>
@@ -284,12 +451,28 @@ Xin Lin, **Chao Ren**<sup>✉</sup>, Xiao Liu, Jie Huang, Yinjie Lei
 
 [Random sub-samples generation for self-supervised real image denoising](https://openaccess.thecvf.com/content/ICCV2023/html/Pan_Random_Sub-Samples_Generation_for_Self-Supervised_Real_Image_Denoising_ICCV_2023_paper.html)
 
-Yizhong Pan, Xiao Liu, Xiangyu Liao, Yuanzhouhan Cao, **Chao Ren**<sup>✉</sup>
+<span style="color: #BA625F;">Yizhong Pan, Xiao Liu, Xiangyu Liao, Yuanzhouhan Cao, <strong>Chao Ren</strong><sup>✉</sup></span>
 
 *In Proc. of the IEEE International Conf. on Computer Vision (ICCV 2023)*
 
-[**Paper**](https://openaccess.thecvf.com/content/ICCV2023/html/Pan_Random_Sub-Samples_Generation_for_Self-Supervised_Real_Image_Denoising_ICCV_2023_paper.html) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | 
-[**Codes**](https://github.com/p1y2z3/SDAP) <strong><span class='show_paper_citations' data=''></span></strong>
+
+<div style="display: flex; gap: 10px; align-items: center;">
+  <span>
+    <a href="https://openaccess.thecvf.com/content/ICCV2023/html/Pan_Random_Sub-Samples_Generation_for_Self-Supervised_Real_Image_Denoising_ICCV_2023_paper.html" 
+       style="display: inline-block; padding: 4px 12px; background-color: #f8f9fa; color: #0366d6; text-decoration: none; border: 1px solid #d1d5da; border-radius: 6px; font-size: 14px; font-weight: 500;">
+      Paper
+    </a>
+    <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+  </span>
+  <span>
+    <a href="https://github.com/p1y2z3/SDAP" 
+       style="display: inline-block; padding: 4px 12px; background-color: #f8f9fa; color: #0366d6; text-decoration: none; border: 1px solid #d1d5da; border-radius: 6px; font-size: 14px; font-weight: 500;">
+      Codes
+    </a>
+    <strong><span class='show_paper_citations' data=''></span></strong>
+  </span>
+</div>
+ <strong><span class='show_paper_citations' data=''></span></strong>
 </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/publications/CVPR-2023-Yuwei Yang.png' alt="sym" width="100%"></div></div>
@@ -297,25 +480,50 @@ Yizhong Pan, Xiao Liu, Xiangyu Liao, Yuanzhouhan Cao, **Chao Ren**<sup>✉</sup>
 
 [Geometry and uncertainty-aware 3d point cloud class-incremental semantic](https://openaccess.thecvf.com/content/CVPR2023/html/Yang_Geometry_and_Uncertainty-Aware_3D_Point_Cloud_Class-Incremental_Semantic_Segmentation_CVPR_2023_paper.html)
 
-Yuwei Yang, Munawar Hayat, Zhao Jin, **Chao Ren**, Yinjie Lei
+<span style="color: #BA625F;">Yuwei Yang, Munawar Hayat, Zhao Jin, <strong>Chao Ren</strong><sup>✉</sup>, Yinjie Lei</span>
 
 *In Proc. IEEE Conf. on Computer Vision and Pattern Recognition (CVPR 2023)*
 
-[**Paper**](https://openaccess.thecvf.com/content/CVPR2023/html/Yang_Geometry_and_Uncertainty-Aware_3D_Point_Cloud_Class-Incremental_Semantic_Segmentation_CVPR_2023_paper.html)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+<div style="display: flex; gap: 10px; align-items: center;">
+  <span>
+    <a href="https://openaccess.thecvf.com/content/CVPR2023/html/Yang_Geometry_and_Uncertainty-Aware_3D_Point_Cloud_Class-Incremental_Semantic_Segmentation_CVPR_2023_paper.html" 
+       style="display: inline-block; padding: 4px 12px; background-color: #f8f9fa; color: #0366d6; text-decoration: none; border: 1px solid #d1d5da; border-radius: 6px; font-size: 14px; font-weight: 500;">
+      Paper
+    </a>
+    <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+  </span>
+</div>
 </div></div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2023</div><img src='images/publications2/ACMMM-2023-Xiao Liu.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/publications2/ACMMM-2023-Xiao Liu.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Efficient parallel multi-scale detail and semantic encoding network for lightweight semantic segmentation](https://dl.acm.org/doi/10.1145/3581783.3611848)
 
-Xiao Liu, Xiuya Shi, Lufei Chen, Linbo Qing, **Chao Ren**<sup>✉</sup>
+<span style="color: #BA625F;">Xiao Liu, Xiuya Shi, Lufei Chen, Linbo Qing, <strong>Chao Ren</strong><sup>✉</sup></span>
 
 *In Proc. of the 31st ACM International Conference on Multimedia (ACM MM 2023)*
 
-[**Paper**](https://dl.acm.org/doi/10.1145/3581783.3611848) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | 
-[**Codes**](https://github.com/liux520/PMSDSEN) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+<div style="display: flex; gap: 10px; align-items: center;">
+  <span>
+    <a href="https://dl.acm.org/doi/10.1145/3581783.3611848" 
+       style="display: inline-block; padding: 4px 12px; background-color: #f8f9fa; color: #0366d6; text-decoration: none; border: 1px solid #d1d5da; border-radius: 6px; font-size: 14px; font-weight: 500;">
+      Paper
+    </a>
+    <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+  </span>
+  <span>
+    <a href="https://github.com/liux520/PMSDSEN" 
+       style="display: inline-block; padding: 4px 12px; background-color: #f8f9fa; color: #0366d6; text-decoration: none; border: 1px solid #d1d5da; border-radius: 6px; font-size: 14px; font-weight: 500;">
+      Codes
+    </a>
+    <strong><span class='show_paper_citations' data=''></span></strong>
+  </span>
+</div>
+ <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECAI 2023</div><img src='images/publications2/ECAI-2023-Xiao Liu.jpg' alt="sym" width="100%"></div></div>
@@ -323,12 +531,28 @@ Xiao Liu, Xiuya Shi, Lufei Chen, Linbo Qing, **Chao Ren**<sup>✉</sup>
 
 [Efficient information modulation network for image super-resolution](https://ebooks.iospress.nl/volumearticle/64367)
 
-Xiao Liu, Xiangyu Liao, Xiuya Shi, Linbo Qing, **Chao Ren**<sup>✉</sup>
+<span style="color: #BA625F;">Xiao Liu, Xiangyu Liao, Xiuya Shi, Linbo Qing, <strong>Chao Ren</strong><sup>✉</sup></span>
 
 *In Proc. of European Conference on Artificial Intelligence (ECAI 2023)*
 
-[**Paper**](https://ebooks.iospress.nl/volumearticle/64367)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | 
-[**Codes**](https://github.com/liux520/EIMN) <strong><span class='show_paper_citations' data=''></span></strong>
+
+<div style="display: flex; gap: 10px; align-items: center;">
+  <span>
+    <a href="https://ebooks.iospress.nl/volumearticle/64367" 
+       style="display: inline-block; padding: 4px 12px; background-color: #f8f9fa; color: #0366d6; text-decoration: none; border: 1px solid #d1d5da; border-radius: 6px; font-size: 14px; font-weight: 500;">
+      Paper
+    </a>
+    <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+  </span>
+  <span>
+    <a href="https://github.com/liux520/EIMN" 
+       style="display: inline-block; padding: 4px 12px; background-color: #f8f9fa; color: #0366d6; text-decoration: none; border: 1px solid #d1d5da; border-radius: 6px; font-size: 14px; font-weight: 500;">
+      Codes
+    </a>
+    <strong><span class='show_paper_citations' data=''></span></strong>
+  </span>
+</div>
+ <strong><span class='show_paper_citations' data=''></span></strong>
 </div></div>
 
 
@@ -337,24 +561,78 @@ Xiao Liu, Xiangyu Liao, Xiuya Shi, Linbo Qing, **Chao Ren**<sup>✉</sup>
 
 [Real image denoising via guided residual estimation and noise correction](https://ieeexplore.ieee.org/document/9927458)
 
-Yizhong Pan, **Chao Ren**<sup>✉</sup>, Xiaohong Wu, Jie Huang, Xiaohai He
+<span style="color: #BA625F;">Yizhong Pan, <strong>Chao Ren</strong><sup>✉</sup>, Xiaohong Wu, Jie Huang, Xiaohai He</span>
 
 *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT 2023)*
 
-[**Paper**](https://ieeexplore.ieee.org/document/9927458) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | 
-[**Codes**](https://github.com/chaoren88/GrencNet) <strong><span class='show_paper_citations' data=''></span></strong>
+
+<div style="display: flex; gap: 10px; align-items: center;">
+  <span>
+    <a href="https://ieeexplore.ieee.org/document/9927458" 
+       style="display: inline-block; padding: 4px 12px; background-color: #f8f9fa; color: #0366d6; text-decoration: none; border: 1px solid #d1d5da; border-radius: 6px; font-size: 14px; font-weight: 500;">
+      Paper
+    </a>
+    <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+  </span>
+  <span>
+    <a href="https://github.com/chaoren88/GrencNet" 
+       style="display: inline-block; padding: 4px 12px; background-color: #f8f9fa; color: #0366d6; text-decoration: none; border: 1px solid #d1d5da; border-radius: 6px; font-size: 14px; font-weight: 500;">
+      Codes
+    </a>
+    <strong><span class='show_paper_citations' data=''></span></strong>
+  </span>
+</div>
+ <strong><span class='show_paper_citations' data=''></span></strong>
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT-II 2023</div><img src='images/publications2/TCSVT-II-2023-Man Qin.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCAS-II 2023</div><img src='images/publications2/TCSVT-II-2023-Man Qin.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Blind image denoising via deep unfolding network with degradation information guidance](https://ieeexplore.ieee.org/document/10054005)
 
-Man Qin, **Chao Ren**<sup>✉</sup>, Hong Yang, Xiaohai He, Zhengyong Wang
+<span style="color: #BA625F;">Man Qin, <strong>Chao Ren</strong><sup>✉</sup>, Hong Yang, Xiaohai He, Zhengyong Wang</span>
 
-*IEEE Transactions on Circuits and Systems II: Express Briefs (TCSVT-II 2023)*
+*IEEE Transactions on Circuits and Systems II: Express Briefs (TCAS-II 2023)*
 
-[**Paper**](https://ieeexplore.ieee.org/document/10054005) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+<div style="display: flex; gap: 10px; align-items: center;">
+  <span>
+    <a href="https://ieeexplore.ieee.org/document/10054005" 
+       style="display: inline-block; padding: 4px 12px; background-color: #f8f9fa; color: #0366d6; text-decoration: none; border: 1px solid #d1d5da; border-radius: 6px; font-size: 14px; font-weight: 500;">
+      Paper
+    </a>
+    <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+  </span>
+</div>
+</div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TII 2023</div><img src='images/publications/TII-2022-Jie Huang.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CasaPuNet: Channel affine self-attention based progressively updated network for real image denoising](https://ieeexplore.ieee.org/document/9969152)
+
+<span style="color: #BA625F;">Jie Huang, Xiao Liu, Yizhong Pan, Xiaohai He, <strong>Chao Ren</strong><sup>✉</sup></span>
+
+*IEEE Transactions on Industrial Informatics (TII 2023)*
+
+
+<div style="display: flex; gap: 10px; align-items: center;">
+  <span>
+    <a href="https://ieeexplore.ieee.org/document/9969152" 
+       style="display: inline-block; padding: 4px 12px; background-color: #f8f9fa; color: #0366d6; text-decoration: none; border: 1px solid #d1d5da; border-radius: 6px; font-size: 14px; font-weight: 500;">
+      Paper
+    </a>
+    <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+  </span>
+  <span>
+    <a href="https://github.com/chaoren88/CasaPuNet" 
+       style="display: inline-block; padding: 4px 12px; background-color: #f8f9fa; color: #0366d6; text-decoration: none; border: 1px solid #d1d5da; border-radius: 6px; font-size: 14px; font-weight: 500;">
+      Codes
+    </a>
+    <strong><span class='show_paper_citations' data=''></span></strong>
+  </span>
+</div>
+ <strong><span class='show_paper_citations' data=''></span></strong>
 </div></div>
 
 <hr />
@@ -363,30 +641,25 @@ Man Qin, **Chao Ren**<sup>✉</sup>, Hong Yang, Xiaohai He, Zhengyong Wang
 
 <hr />
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TII 2022</div><img src='images/publications/TII-2022-Jie Huang.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[CasaPuNet: Channel affine self-attention based progressively updated network for real image denoising](https://ieeexplore.ieee.org/document/9969152)
-
-Jie Huang, Xiao Liu, Yizhong Pan, Xiaohai He, **Chao Ren**<sup>✉</sup>
-
-*IEEE Transactions on Industrial Informatics (TII 2023)*
-
-[**Paper**](https://ieeexplore.ieee.org/document/9969152) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | 
-[**Codes**](https://github.com/chaoren88/CasaPuNet) <strong><span class='show_paper_citations' data=''></span></strong>
-</div></div>
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS 2022</div><img src='images/publications/KBS-2022-Jie Huang.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A prior-guided deep network for real image denoising and its applications](https://www.sciencedirect.com/science/article/abs/pii/S0950705122008991)
 
-Jie Huang, Zhibo Zhao, **Chao Ren**<sup>✉</sup>, Qizhi Teng, Xiaohai He
+<span style="color: #BA625F;">Jie Huang, Zhibo Zhao, <strong>Chao Ren</strong><sup>✉</sup>, Qizhi Teng, Xiaohai He</span>
 
 *Knowledge-Based Systems (KBS 2022)*
 
-[**Paper**](https://www.sciencedirect.com/science/article/abs/pii/S0950705122008991)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+<div style="display: flex; gap: 10px; align-items: center;">
+  <span>
+    <a href="https://www.sciencedirect.com/science/article/abs/pii/S0950705122008991" 
+       style="display: inline-block; padding: 4px 12px; background-color: #f8f9fa; color: #0366d6; text-decoration: none; border: 1px solid #d1d5da; border-radius: 6px; font-size: 14px; font-weight: 500;">
+      Paper
+    </a>
+    <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+  </span>
+</div>
 </div></div>
 
 
@@ -395,11 +668,20 @@ Jie Huang, Zhibo Zhao, **Chao Ren**<sup>✉</sup>, Qizhi Teng, Xiaohai He
 
 [An effective deep network using target vector update modules for image restoration](https://www.sciencedirect.com/science/article/abs/pii/S0031320321005136)
 
-Sen Zhai, Chao Ren*, Zhengyong Wang, Xiaohai He, Linbo Qing
+<span style="color: #BA625F;">Sen Zhai, <strong>Chao Ren</strong><sup>✉</sup>*, Zhengyong Wang, Xiaohai He, Linbo Qing</span>
 
 *Pattern Recognition (PR 2022)*
 
-[**Paper**](https://www.sciencedirect.com/science/article/abs/pii/S0031320321005136) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+<div style="display: flex; gap: 10px; align-items: center;">
+  <span>
+    <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320321005136" 
+       style="display: inline-block; padding: 4px 12px; background-color: #f8f9fa; color: #0366d6; text-decoration: none; border: 1px solid #d1d5da; border-radius: 6px; font-size: 14px; font-weight: 500;">
+      Paper
+    </a>
+    <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+  </span>
+</div>
 </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Fusion 2022</div><img src='images/publications2/IF-2022-Honggang Chen.jpg' alt="sym" width="100%"></div></div>
@@ -407,11 +689,20 @@ Sen Zhai, Chao Ren*, Zhengyong Wang, Xiaohai He, Linbo Qing
 
 [Real-world single image super-resolution: A brief review](https://www.sciencedirect.com/science/article/abs/pii/S1566253521001792)
 
-Honggang Chen, Xiaohai He, Linbo Qing, Yuanyuan Wu, **Chao Ren**<sup>✉</sup>, Ray E. Sheriff, Ce Zhu
+<span style="color: #BA625F;">Honggang Chen, Xiaohai He, Linbo Qing, Yuanyuan Wu, <strong>Chao Ren</strong><sup>✉</sup>, Ray E. Sheriff, Ce Zhu</span>
 
 *Information Fusion (IF 2022)*
 
-[**Paper**](https://www.sciencedirect.com/science/article/abs/pii/S1566253521001792) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+<div style="display: flex; gap: 10px; align-items: center;">
+  <span>
+    <a href="https://www.sciencedirect.com/science/article/abs/pii/S1566253521001792" 
+       style="display: inline-block; padding: 4px 12px; background-color: #f8f9fa; color: #0366d6; text-decoration: none; border: 1px solid #d1d5da; border-radius: 6px; font-size: 14px; font-weight: 500;">
+      Paper
+    </a>
+    <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+  </span>
+</div>
 </div></div>
 
 
@@ -420,11 +711,20 @@ Honggang Chen, Xiaohai He, Linbo Qing, Yuanyuan Wu, **Chao Ren**<sup>✉</sup>, 
 
 [CMAN: Learning global structure correlation for monocular 3D object detection](https://ieeexplore.ieee.org/document/9899377)
 
-Yuanzhouhan Cao, Hui Zhang, Yidong Li, **Chao Ren**, Congyan Lang
+<span style="color: #BA625F;">Yuanzhouhan Cao, Hui Zhang, Yidong Li, <strong>Chao Ren</strong><sup>✉</sup>, Congyan Lang</span>
 
 *IEEE Transactions on Intelligent Transportation Systems (TITS 2022)*
 
-[**Paper**](https://ieeexplore.ieee.org/document/9899377) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+<div style="display: flex; gap: 10px; align-items: center;">
+  <span>
+    <a href="https://ieeexplore.ieee.org/document/9899377" 
+       style="display: inline-block; padding: 4px 12px; background-color: #f8f9fa; color: #0366d6; text-decoration: none; border: 1px solid #d1d5da; border-radius: 6px; font-size: 14px; font-weight: 500;">
+      Paper
+    </a>
+    <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+  </span>
+</div>
 </div></div>
 
 
@@ -433,112 +733,210 @@ Yuanzhouhan Cao, Hui Zhang, Yidong Li, **Chao Ren**, Congyan Lang
 
 [Enhanced latent space blind model for real image denoising via alternative optimization](https://proceedings.neurips.cc/paper_files/paper/2022/hash/fa93d7bfb48450e1af63c8fa647d317f-Abstract-Conference.html)
 
-**Chao Ren**, Yizhong Pan, Jie Huang
+<span style="color: #BA625F;"><strong>Chao Ren</strong><sup>✉</sup>, Yizhong Pan, Jie Huang</span>
 
 *In Advances in Neural Information Processing Systems (NeurIPS 2022)*
 
-[**Paper**](https://proceedings.neurips.cc/paper_files/paper/2022/hash/fa93d7bfb48450e1af63c8fa647d317f-Abstract-Conference.html) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> |
-[**Codes**](https://github.com/chaoren88/ScaoedNet) <strong><span class='show_paper_citations' data=''></span></strong>
+
+<div style="display: flex; gap: 10px; align-items: center;">
+  <span>
+    <a href="https://proceedings.neurips.cc/paper_files/paper/2022/hash/fa93d7bfb48450e1af63c8fa647d317f-Abstract-Conference.html" 
+       style="display: inline-block; padding: 4px 12px; background-color: #f8f9fa; color: #0366d6; text-decoration: none; border: 1px solid #d1d5da; border-radius: 6px; font-size: 14px; font-weight: 500;">
+      Paper
+    </a>
+    <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+  </span>
+  <span>
+    <a href="https://github.com/chaoren88/ScaoedNet" 
+       style="display: inline-block; padding: 4px 12px; background-color: #f8f9fa; color: #0366d6; text-decoration: none; border: 1px solid #d1d5da; border-radius: 6px; font-size: 14px; font-weight: 500;">
+      Codes
+    </a>
+    <strong><span class='show_paper_citations' data=''></span></strong>
+  </span>
+</div>
+ <strong><span class='show_paper_citations' data=''></span></strong>
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCYB 2022</div><img src='images/publications2/TCYB-2021-Chao Ren.jpg' alt="sym" width="100%"></div></div>
+<hr />
+
+## <center> 🤗🤗🤗 <font color="#4A708B"> 2021 </font> 🤗🤗🤗 </center>
+
+<hr />
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCYB 2021</div><img src='images/publications2/TCYB-2021-Chao Ren.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Learning image profile enhancement and denoising statistics priors for single-image super-resolution](https://ieeexplore.ieee.org/document/8809912)
 
-**Chao Ren**, Xiaohai He, Yifei Pu, Truong Q. Nguyen
+<span style="color: #BA625F;"><strong>Chao Ren</strong><sup>✉</sup>, Xiaohai He, Yifei Pu, Truong Q. Nguyen</span>
 
 *IEEE Transactions on Cybernetics (TCYB 2021)*
 
-[**Paper**](https://ieeexplore.ieee.org/document/8809912) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+<div style="display: flex; gap: 10px; align-items: center;">
+  <span>
+    <a href="https://ieeexplore.ieee.org/document/8809912" 
+       style="display: inline-block; padding: 4px 12px; background-color: #f8f9fa; color: #0366d6; text-decoration: none; border: 1px solid #d1d5da; border-radius: 6px; font-size: 14px; font-weight: 500;">
+      Paper
+    </a>
+    <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+  </span>
+</div>
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS 2022</div><img src='images/publications2/KBS-2021-Chao Ren-1.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS 2021</div><img src='images/publications2/KBS-2021-Chao Ren-1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Remote sensing image recovery via enhanced residual learning and dual-luminance scheme](https://www.sciencedirect.com/science/article/abs/pii/S0950705121002768)
 
-**Chao Ren**, Xiaohai He, Linbo Qing, Yuanyuan Wu, Yifei Pu
+<span style="color: #BA625F;"><strong>Chao Ren</strong><sup>✉</sup>, Xiaohai He, Linbo Qing, Yuanyuan Wu, Yifei Pu</span>
 
 *Knowledge-Based Systems (KBS 2021)*
 
-[**Paper**](https://www.sciencedirect.com/science/article/abs/pii/S0950705121002768) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+<div style="display: flex; gap: 10px; align-items: center;">
+  <span>
+    <a href="https://www.sciencedirect.com/science/article/abs/pii/S0950705121002768" 
+       style="display: inline-block; padding: 4px 12px; background-color: #f8f9fa; color: #0366d6; text-decoration: none; border: 1px solid #d1d5da; border-radius: 6px; font-size: 14px; font-weight: 500;">
+      Paper
+    </a>
+    <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+  </span>
+</div>
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS 2022</div><img src='images/publications/KBS-2021-Chao Ren-2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS 2021</div><img src='images/publications/KBS-2021-Chao Ren-2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Compressed image restoration via deep deblocker driven unified framework](https://www.sciencedirect.com/science/article/abs/pii/S095070512100530X)
 
-**Chao Ren**, Qizhi Teng, Xiaohai He, Linbo Qing, Truong Q. Nguyen
+<span style="color: #BA625F;"><strong>Chao Ren</strong><sup>✉</sup>, Qizhi Teng, Xiaohai He, Linbo Qing, Truong Q. Nguyen</span>
 
 *Knowledge-Based Systems (KBS 2021)*
 
-[**Paper**](https://www.sciencedirect.com/science/article/abs/pii/S095070512100530X) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+<div style="display: flex; gap: 10px; align-items: center;">
+  <span>
+    <a href="https://www.sciencedirect.com/science/article/abs/pii/S095070512100530X" 
+       style="display: inline-block; padding: 4px 12px; background-color: #f8f9fa; color: #0366d6; text-decoration: none; border: 1px solid #d1d5da; border-radius: 6px; font-size: 14px; font-weight: 500;">
+      Paper
+    </a>
+    <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+  </span>
+</div>
 </div></div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/publications2/CVPR-2021-Chao Ren.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2021</div><img src='images/publications2/CVPR-2021-Chao Ren.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Adaptive consistency prior based deep network for image denoising](https://ieeexplore.ieee.org/document/9577972)
 
-**Chao Ren**, Xiaohai He, Chuncheng Wang, Zhibo Zhao
+<span style="color: #BA625F;"><strong>Chao Ren</strong><sup>✉</sup>, Xiaohai He, Chuncheng Wang, Zhibo Zhao</span>
 
 *In Proc. IEEE Conf. on Computer Vision and Pattern Recognition (CVPR 2021)*
 
-[**Paper**](https://ieeexplore.ieee.org/document/9577972) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+<div style="display: flex; gap: 10px; align-items: center;">
+  <span>
+    <a href="https://ieeexplore.ieee.org/document/9577972" 
+       style="display: inline-block; padding: 4px 12px; background-color: #f8f9fa; color: #0366d6; text-decoration: none; border: 1px solid #d1d5da; border-radius: 6px; font-size: 14px; font-weight: 500;">
+      Paper
+    </a>
+    <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+  </span>
+</div>
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2022</div><img src='images/publications2/ICME-2021-Chao Ren.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2021</div><img src='images/publications2/ICME-2021-Chao Ren.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep deblocker driven adaptive iteration scheme for compressed image recovery](https://ieeexplore.ieee.org/document/9428099)
 
-**Chao Ren**, Xiaohai He, Linbo Qing, Yuanzhouhan Cao
+<span style="color: #BA625F;"><strong>Chao Ren</strong><sup>✉</sup>, Xiaohai He, Linbo Qing, Yuanzhouhan Cao</span>
 
 *In Proc. of IEEE International Conference on Multimedia and Expo (ICME 2021)*
 
-[**Paper**](https://ieeexplore.ieee.org/document/9428099) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+<div style="display: flex; gap: 10px; align-items: center;">
+  <span>
+    <a href="https://ieeexplore.ieee.org/document/9428099" 
+       style="display: inline-block; padding: 4px 12px; background-color: #f8f9fa; color: #0366d6; text-decoration: none; border: 1px solid #d1d5da; border-radius: 6px; font-size: 14px; font-weight: 500;">
+      Paper
+    </a>
+    <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+  </span>
+</div>
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2022</div><img src='images/publications2/ACMMM-2021-Yuanzhouhan Cao.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2021</div><img src='images/publications2/ACMMM-2021-Yuanzhouhan Cao.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Learning structure affinity for video depth estimation](https://dl.acm.org/doi/abs/10.1145/3474085.3475564)
 
-Yuanzhouhan Cao, Yidong Li, Haokui Zhang, **Chao Ren**, Yifan Liu
+<span style="color: #BA625F;">Yuanzhouhan Cao, Yidong Li, Haokui Zhang, <strong>Chao Ren</strong><sup>✉</sup>, Yifan Liu</span>
 
 *In Proc. of the 31st ACM International Conference on Multimedia (ACM MM 2021)*
 
-[**Paper**](https://dl.acm.org/doi/abs/10.1145/3474085.3475564) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+<div style="display: flex; gap: 10px; align-items: center;">
+  <span>
+    <a href="https://dl.acm.org/doi/abs/10.1145/3474085.3475564" 
+       style="display: inline-block; padding: 4px 12px; background-color: #f8f9fa; color: #0366d6; text-decoration: none; border: 1px solid #d1d5da; border-radius: 6px; font-size: 14px; font-weight: 500;">
+      Paper
+    </a>
+    <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+  </span>
+</div>
 </div></div>
 
+<hr />
 
+## <center> 🤗🤗🤗 <font color="#4A708B"> 2016-2019 </font> 🤗🤗🤗 </center>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2022</div><img src='images/publications2/TMM-2019-Chao Ren.jpg' alt="sym" width="100%"></div></div>
+<hr />
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2019</div><img src='images/publications2/TMM-2019-Chao Ren.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Adjusted non-local regression and directional smoothness for image restoration](https://ieeexplore.ieee.org/document/8440746)
 
-**Chao Ren**, Xiaohai He, Truong Q. Nguyen
+<span style="color: #BA625F;"><strong>Chao Ren</strong><sup>✉</sup>, Xiaohai He, Truong Q. Nguyen</span>
 
 *IEEE Transactions on Multimedia (TMM 2019)*
 
-[**Paper**](https://ieeexplore.ieee.org/document/8440746) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+<div style="display: flex; gap: 10px; align-items: center;">
+  <span>
+    <a href="https://ieeexplore.ieee.org/document/8440746" 
+       style="display: inline-block; padding: 4px 12px; background-color: #f8f9fa; color: #0366d6; text-decoration: none; border: 1px solid #d1d5da; border-radius: 6px; font-size: 14px; font-weight: 500;">
+      Paper
+    </a>
+    <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+  </span>
+</div>
 </div></div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2022</div><img src='images/publications2/TIP-2017-Chao Ren.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2017</div><img src='images/publications2/TIP-2017-Chao Ren.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Single image super-resolution via adaptive high-dimensional non-local total variation and adaptive geometric feature](https://ieeexplore.ieee.org/document/7600470)
 
-**Chao Ren**, Xiaohai He, Truong Q. Nguyen
+<span style="color: #BA625F;"><strong>Chao Ren</strong><sup>✉</sup>, Xiaohai He, Truong Q. Nguyen</span>
 
 *IEEE Transactions on Image Processing (TIP 2017)*
 
-[**Paper**](https://ieeexplore.ieee.org/document/7600470) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+<div style="display: flex; gap: 10px; align-items: center;">
+  <span>
+    <a href="https://ieeexplore.ieee.org/document/7600470" 
+       style="display: inline-block; padding: 4px 12px; background-color: #f8f9fa; color: #0366d6; text-decoration: none; border: 1px solid #d1d5da; border-radius: 6px; font-size: 14px; font-weight: 500;">
+      Paper
+    </a>
+    <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+  </span>
+</div>
 </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2016</div><img src='images/publications2/TIP-2016-Chao Ren.jpg' alt="sym" width="100%"></div></div>
@@ -549,9 +947,17 @@ Yuanzhouhan Cao, Yidong Li, Haokui Zhang, **Chao Ren**, Yifan Liu
 
 **Chao Ren**, Xiaohai He, Qizhi Teng, Yuanyuan Wu, Truong Q. Nguyen
 
-[**Paper**](https://ieeexplore.ieee.org/document/7433993) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-</div></div>
 
+<div style="display: flex; gap: 10px; align-items: center;">
+  <span>
+    <a href="https://ieeexplore.ieee.org/document/7433993" 
+       style="display: inline-block; padding: 4px 12px; background-color: #f8f9fa; color: #0366d6; text-decoration: none; border: 1px solid #d1d5da; border-radius: 6px; font-size: 14px; font-weight: 500;">
+      Paper
+    </a>
+    <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+  </span>
+</div>
+</div></div>
 
 
 
