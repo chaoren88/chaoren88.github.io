@@ -426,7 +426,7 @@ Yuanzhouhan Cao, Hui Zhang, Yidong Li, **Chao Ren**, Congyan Lang
 [**Codes**]() <strong><span class='show_paper_citations' data=''></span></strong>
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCYB 2022</div><img src='images/publications/TCYB-2021-Chao Ren.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCYB 2022</div><img src='images/publications2/TCYB-2021-Chao Ren.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Learning image profile enhancement and denoising statistics priors for single-image super-resolution](https://ieeexplore.ieee.org/document/8809912)
@@ -439,7 +439,7 @@ Yuanzhouhan Cao, Hui Zhang, Yidong Li, **Chao Ren**, Congyan Lang
 [**Codes**]() <strong><span class='show_paper_citations' data=''></span></strong>
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS 2022</div><img src='images/publications/KBS-2021-Chao Ren-1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS 2022</div><img src='images/publications2/KBS-2021-Chao Ren-1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Remote sensing image recovery via enhanced residual learning and dual-luminance scheme](https://www.sciencedirect.com/science/article/abs/pii/S0950705121002768)
@@ -479,7 +479,7 @@ Yuanzhouhan Cao, Hui Zhang, Yidong Li, **Chao Ren**, Congyan Lang
 [**Codes**]() <strong><span class='show_paper_citations' data=''></span></strong>
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2022</div><img src='images/publications/ICME-2021-Chao Ren.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2022</div><img src='images/publications2/ICME-2021-Chao Ren.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep deblocker driven adaptive iteration scheme for compressed image recovery](https://ieeexplore.ieee.org/document/9428099)
@@ -492,7 +492,7 @@ Yuanzhouhan Cao, Hui Zhang, Yidong Li, **Chao Ren**, Congyan Lang
 [**Codes**]() <strong><span class='show_paper_citations' data=''></span></strong>
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2022</div><img src='images/publications/ACMMM-2021-Yuanzhouhan Cao.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2022</div><img src='images/publications2/ACMMM-2021-Yuanzhouhan Cao.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Learning structure affinity for video depth estimation](https://dl.acm.org/doi/abs/10.1145/3474085.3475564)
