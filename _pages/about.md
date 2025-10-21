@@ -172,23 +172,24 @@ Xiao Liu, Xiaofeng Wang, Shouyi Wang, Haosong Gou, Zhengyong Wang, **Chao Ren**<
 
 Xiao Liu, Zhengyong Wang, Hong Yang, Xiaohai He, Haosong Gou, **Chao Ren**<sup>✉</sup>
 
-*IEEE Transactions on Industrial Informatics (TII 2025)*
+*IEEE Transactions on Industrial Informatics (TII 2025)* 
 
-<span style="display: inline-block; margin: 3px;">
-  <a href="https://ieeexplore.ieee.org/abstract/document/10949639" 
-     style="display: inline-block; padding: 6px 16px; background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%); color: #495057; text-decoration: none; border: 1px solid #ced4da; border-radius: 10px; font-size: 14px; font-weight: 600; box-shadow: 0 2px 4px rgba(0,0,0,0.05); transition: all 0.2s;">
-    Paper
-  </a>
-</span>
-<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-
-<span style="display: inline-block; margin: 3px;">
-  <a href="https://github.com/liux520/TSCN" 
-     style="display: inline-block; padding: 6px 16px; background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%); color: #495057; text-decoration: none; border: 1px solid #ced4da; border-radius: 10px; font-size: 14px; font-weight: 600; box-shadow: 0 2px 4px rgba(0,0,0,0.05); transition: all 0.2s;">
-    Codes
-  </a>
-</span>
-<strong><span class='show_paper_citations' data=''></span></strong>
+<div style="display: flex; gap: 10px; align-items: center;">
+  <span>
+    <a href="https://ieeexplore.ieee.org/abstract/document/10949639" 
+       style="display: inline-block; padding: 4px 12px; background-color: #f8f9fa; color: #0366d6; text-decoration: none; border: 1px solid #d1d5da; border-radius: 6px; font-size: 14px; font-weight: 500;">
+      Paper
+    </a>
+    <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+  </span>
+  <span>
+    <a href="https://github.com/liux520/TSCN" 
+       style="display: inline-block; padding: 4px 12px; background-color: #f8f9fa; color: #0366d6; text-decoration: none; border: 1px solid #d1d5da; border-radius: 6px; font-size: 14px; font-weight: 500;">
+      Codes
+    </a>
+    <strong><span class='show_paper_citations' data=''></span></strong>
+  </span>
+</div>
 
 </div></div>
 
