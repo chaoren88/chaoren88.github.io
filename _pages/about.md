@@ -21,14 +21,11 @@ Chao Ren, an Associate Research Professor with the College of Electronics and In
 Dr. Ren received the Ph.D. degree in Communication and Information System from Sichuan University, Chengdu, China, in 2017. 
 His current research interests include inverse problems in image and video processing.
 Dr. Ren has published more than 70 papers in SCI journals and international conferences. 
-Among them, he has authored or co-authored over 30 high-level papers as the first or corresponding author in top-tier venues, 
-including the IEEE Conference on Computer Vision and Pattern Recognition (CVPR, CCF A), 
-the International Conference on Computer Vision (ICCV, CCF A), Advances in Neural Information Processing Systems (NeurIPS, CCF A), 
-the ACM International Conference on Multimedia (ACMMM, CCF A), and leading journals such as 
-IEEE Transactions on Image Processing (TIP, CCF A, JCR Q1), IEEE Transactions on Cybernetics (TCYB, JCR Q1), 
-IEEE Transactions on Multimedia (TMM, JCR Q1), IEEE Transactions on Circuits and Systems for Video Technology (TCSVT, JCR Q1), 
-and IEEE Transactions on Industrial Informatics (TII, JCR Q1). 
-One paper was selected as an ESI highly cited paper.
+Among them, over 30 high-level papers as the first or corresponding author were published in top-tier venues, including 
+CVPR, ICCV, NeurIPS, ECCV, ACMMM, and IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 
+IEEE Transactions on Image Processing (TIP), IEEE Transactions on Cybernetics (TCYB), IEEE Transactions on Multimedia (TMM), 
+IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), IEEE Transactions on Neural Networks and Learning Systems (TNNLS), and 
+IEEE Transactions on Industrial Informatics (TII).
 Dr. Ren has received the Huawei Spark Award and was selected for the National Post-Doctoral Program for Innovative Talents of China.
 
 
@@ -52,14 +49,14 @@ Dr. Ren has received the Huawei Spark Award and was selected for the National Po
 
 <div class="scroll-box">
     <p>- 2025.07.12: 🎉🎉🎉 One paper was accepted by TPAMI. Congratulations to Xin Lin 👏👏👏. </p>
-    <p>- 2025.05.16: 🎉🎉🎉 Three papers were accepted by CVPR. Congratulations to Guanglu Dong and Xiangpeng Tian 👏👏👏. </p>
+    <p>- 2025.03.08: 🎉🎉🎉 Three papers were accepted by CVPR. Congratulations to Guanglu Dong and Xiangpeng Tian 👏👏👏. </p>
     <p>- 2025.05.12: 🎉🎉🎉 One paper was accepted by TCSVT. Congratulations to Tianheng Zhen 👏👏👏. </p>
     <p>- 2025.06.24: 🎉🎉🎉 One paper was accepted by TNNLS. Congratulations to Xiao Liu 👏👏👏. </p>
     <p>- 2025.02.25: 🎉🎉🎉 One paper was accepted by TII. Congratulations to Xiao Liu 👏👏👏. </p>
     <p>- 2025.04.16: 🎉🎉🎉 One paper was accepted by WACV. Congratulations to Jingtong Yue 👏👏👏. </p>
-    <p>- 2025.04.16: 🎉🎉🎉 One paper was accepted by CVPR. Congratulations to Lufei Chen 👏👏👏. </p>
-    <p>- 2025.04.16: 🎉🎉🎉 One paper was accepted by ECCV. Congratulations to Xiangyu Liao 👏👏👏. </p>
     <p>- 2024.10.25: 🎉🎉🎉 One paper was accepted by TCSVT. Congratulations to Xin Lin 👏👏👏. </p>
+    <p>- 2023.02.27: 🎉🎉🎉 One paper was accepted by CVPR. Congratulations to Lufei Chen 👏👏👏. </p>
+    <p>- 2023.07.01: 🎉🎉🎉 One paper was accepted by ECCV. Congratulations to Xiangyu Liao 👏👏👏. </p>
 </div>
 
 </body>
