@@ -238,18 +238,6 @@ Xin Lin, Jingtong Yue, Sixian Ding, **Chao Ren**<sup>✉</sup>, Lu Qi, Ming-Hsua
 [**Codes**](https://github.com/linxin0) <strong><span class='show_paper_citations' data=''></span></strong>
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neural Network 2024</div><img src='images/publications/NN-2024-Zhengxin Chen.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Dual-stage feedback network for lightweight color image compression artifact reduction](https://www.sciencedirect.com/science/article/abs/pii/S0893608024004799)
-
-Zhengxin Chen, Xiaohai He, Tingrong Zhang, Shuhua Xiong, **Chao Ren**<sup>✉</sup>
-
-*Neural Networks (NN 2024)*
-
-[**Paper**](https://www.sciencedirect.com/science/article/abs/pii/S0893608024004799)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | 
-[**Codes**]() <strong><span class='show_paper_citations' data=''></span></strong>
-</div></div>
 
 <hr />
 
@@ -425,7 +413,7 @@ Yuanzhouhan Cao, Hui Zhang, Yidong Li, **Chao Ren**, Congyan Lang
 </div></div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022</div><img src='images/publications2/NIPS-2022-Chao Ren.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022</div><img src='images/publications2/NIPS-2022-Chao Ren.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Enhanced latent space blind model for real image denoising via alternative optimization](https://proceedings.neurips.cc/paper_files/paper/2022/hash/fa93d7bfb48450e1af63c8fa647d317f-Abstract-Conference.html)
