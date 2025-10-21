@@ -111,7 +111,7 @@ Guanglu Dong, Tianheng Zheng, Yuanzhouhan Cao, Linbo Qing, **Chao Ren**<sup>âœ‰<
 </div></div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/publications2/CVPR-2025-Guanglu Dong_2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/publications2/CVPR-2025-Guanglu Dong_2.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Exploring semantic feature discrimination for perceptual image super-resolution and opinion-unaware no-reference image quality assessment](https://openaccess.thecvf.com/content/CVPR2025/papers/Dong_Exploring_Semantic_Feature_Discrimination_for_Perceptual_Image_Super-Resolution_and_Opinion-Unaware_CVPR_2025_paper.pdf)
@@ -179,7 +179,7 @@ Xiao Liu, Zhengyong Wang, Hong Yang, Xiaohai He, Haosong Gou, **Chao Ren**<sup>â
 </div></div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WACV 2025</div><img src='images/publications2/WACV-2024-Jingtong Yue.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WACV 2025</div><img src='images/publications2/WACV-2025-Jingtong Yue.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Dual-Representation Interaction Driven Image Quality Assessment with Restoration Assistance](https://ieeexplore.ieee.org/document/10943422)
