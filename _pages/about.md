@@ -71,11 +71,7 @@ Dr. Ren has received the Huawei Spark Award and was selected for the National Po
 
 
 
-# 📝 Publications 
-
-## <center> 📑📑📑 <font color="#4A708B"> Summary (First Author and Corresponding Author) </font> 📑📑📑 </center>
-
-## <center> 📑📑📑 <font color="#4A708B"> Total 46: TPAMI 1 TIP 3 CVPR 5 ICCV 2 ECCV 1 NeurIPS 1 ACMMM 1 Others 34 </font> 📑📑📑 </center>
+# 📝 Publications
 
 <hr />
 
