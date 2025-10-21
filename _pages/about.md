@@ -51,15 +51,15 @@ Dr. Ren has received the Huawei Spark Award and was selected for the National Po
 <body>
 
 <div class="scroll-box">
-    <p>- July  12, 2025: 🎉🎉🎉 One paper was accepted by TPAMI. Congratulations to Xin Lin 👏👏👏. </p>
-    <p>- May   16, 2025: 🎉🎉🎉 Three papers were accepted by CVPR. Congratulations to Guanglu Dong and Xiangpeng Tian 👏👏👏. </p>
-    <p>- May   12, 2025: 🎉🎉🎉 One paper was accepted by TCSVT. Congratulations to Tianheng Zhen 👏👏👏. </p>
-    <p>- June  16, 2025: 🎉🎉🎉 One paper was accepted by TNNLS. Congratulations to Xiao Liu 👏👏👏. </p>
-    <p>- June  02, 2025: 🎉🎉🎉 One paper was accepted by TII. Congratulations to Xiao Liu 👏👏👏. </p>
-    <p>- April 16, 2025: 🎉🎉🎉 One paper was accepted by WACV. Congratulations to Jingtong Yue 👏👏👏. </p>
-    <p>- April 16, 2024: 🎉🎉🎉 One paper was accepted by CVPR. Congratulations to Lufei Chen 👏👏👏. </p>
-    <p>- April 16, 2024: 🎉🎉🎉 One paper was accepted by ECCV. Congratulations to Xiangyu Liao 👏👏👏. </p>
-    <p>- April 16, 2024: 🎉🎉🎉 One paper was accepted by TCSVT. Congratulations to Xin Lin 👏👏👏. </p>
+    <p>- 2025.07.12: 🎉🎉🎉 One paper was accepted by TPAMI. Congratulations to Xin Lin 👏👏👏. </p>
+    <p>- 2025.05.16: 🎉🎉🎉 Three papers were accepted by CVPR. Congratulations to Guanglu Dong and Xiangpeng Tian 👏👏👏. </p>
+    <p>- 2025.05.12: 🎉🎉🎉 One paper was accepted by TCSVT. Congratulations to Tianheng Zhen 👏👏👏. </p>
+    <p>- 2025.06.24: 🎉🎉🎉 One paper was accepted by TNNLS. Congratulations to Xiao Liu 👏👏👏. </p>
+    <p>- 2025.02.25: 🎉🎉🎉 One paper was accepted by TII. Congratulations to Xiao Liu 👏👏👏. </p>
+    <p>- 2025.04.16: 🎉🎉🎉 One paper was accepted by WACV. Congratulations to Jingtong Yue 👏👏👏. </p>
+    <p>- 2025.04.16: 🎉🎉🎉 One paper was accepted by CVPR. Congratulations to Lufei Chen 👏👏👏. </p>
+    <p>- 2025.04.16: 🎉🎉🎉 One paper was accepted by ECCV. Congratulations to Xiangyu Liao 👏👏👏. </p>
+    <p>- 2024.10.25: 🎉🎉🎉 One paper was accepted by TCSVT. Congratulations to Xin Lin 👏👏👏. </p>
 </div>
 
 </body>
