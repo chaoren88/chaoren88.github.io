@@ -53,10 +53,10 @@ Dr. Ren has received the Huawei Spark Award and was selected for the National Po
     <p>- 2025.05.12: 🎉🎉🎉 One paper was accepted by TCSVT. Congratulations to Tianheng Zhen 👏👏👏. </p>
     <p>- 2025.06.24: 🎉🎉🎉 One paper was accepted by TNNLS. Congratulations to Xiao Liu 👏👏👏. </p>
     <p>- 2025.02.25: 🎉🎉🎉 One paper was accepted by TII. Congratulations to Xiao Liu 👏👏👏. </p>
-    <p>- 2025.04.16: 🎉🎉🎉 One paper was accepted by WACV. Congratulations to Jingtong Yue 👏👏👏. </p>
+    <p>- 2024.10.28: 🎉🎉🎉 One paper was accepted by WACV. Congratulations to Jingtong Yue 👏👏👏. </p>
     <p>- 2024.10.25: 🎉🎉🎉 One paper was accepted by TCSVT. Congratulations to Xin Lin 👏👏👏. </p>
-    <p>- 2023.02.27: 🎉🎉🎉 One paper was accepted by CVPR. Congratulations to Lufei Chen 👏👏👏. </p>
     <p>- 2023.07.01: 🎉🎉🎉 One paper was accepted by ECCV. Congratulations to Xiangyu Liao 👏👏👏. </p>
+    <p>- 2023.02.27: 🎉🎉🎉 One paper was accepted by CVPR. Congratulations to Lufei Chen 👏👏👏. </p>
 </div>
 
 </body>
