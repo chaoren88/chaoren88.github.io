@@ -553,19 +553,19 @@ Yuanzhouhan Cao, Yidong Li, Haokui Zhang, **Chao Ren**, Yifan Liu
 
 # 🎖 Honors and Awards
 
-| Year |                                          Award Name                                          | Ranking |                                    Awarding Institution                                     |                           Notes                           |
-|:----:|:--------------------------------------------------------------------------------------------:|:-------:|:-------------------------------------------------------------------------------------------:|:---------------------------------------------------------:|
-| 2025 |                               CVPR Outstanding Reviewer Award                                | - |                                            CVPR                                             |                             -                             |
-| 2025 |                       Sichuan University Annual Outstanding Individual                       | - |                                     Sichuan University                                      |                             -                             |
-| 2024 |            Sichuan University Outstanding Research Talent—Academic Newcomer Award            | Rank 1 |                                     Sichuan University                                      |    Only 10 recipients annually across all disciplines     |
-| 2024 |         Third Prize, China Institute of Communications Science and Technology Award          | Rank 3 |                              China Institute of Communications                              |                             -                             |
-| 2023 |                                      Huawei Spark Award                                      | Rank 1 |                                Huawei Technologies Co., Ltd.                                |                             -                             |
-| 2023 |            Third Prize, Sichuan Provincial Science and Technology Progress Award             | Rank 4 |                           Sichuan Provincial People's Government                            |                             -                             |
-| 2023 |                          Sichuan University Hundred Talents Program                          | Rank 1 |                                     Sichuan University                                      |                             -                             |
-| 2023 |          ICDT Novel Display Technology Competition, National First Prize (Advisor)           | Rank 1 |            SID China Chapter, ICDT Organizing Committee, Huawei Device Co., Ltd.            |      The sole national first prize in this category       |
-| 2018, 2020, 2024 | Sichuan University Sanxin Teaching Award and Wuliangchun Outstanding Faculty Award (3 times) | Rank 1 |                                     Sichuan University                                      |                             -                             |
-| 2017 |           National Postdoctoral Innovation Talent Support Program (Bo Xin Program)           | Rank 1 | Ministry of Human Resources and Social Security, National Postdoctoral Management Committee | Only 8 individuals nationwide selected in this discipline |
-| 2017 |                        Elsevier Outstanding Reviewer Award (2 times)                         | Rank 1 |                                          Elsevier                                           |                             -                             |
+| Year |                                          Award Name                                          |                                     Awarding Institution                                     |                       Notes                        |
+|:----:|:--------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------:|:--------------------------------------------------:|
+| 2025 |                               CVPR Outstanding Reviewer Award                                |                                            CVPR                                             |                         -                          |
+| 2025 |                       Sichuan University Annual Outstanding Individual                       |                                     Sichuan University                                      |                         -                          |
+| 2024 |            Sichuan University Outstanding Research Talent—Academic Newcomer Award            |                                     Sichuan University                                      | Only 10 recipients annually across all disciplines |
+| 2024 |     China Institute of Communications Science and Technology Award (Third Prize, Rank 3)     |                              China Institute of Communications                              |                         -                          |
+| 2023 |                                      Huawei Spark Award                                      |                                Huawei Technologies Co., Ltd.                                |                         -                          |
+| 2023 |            Sichuan Provincial Science and Technology Progress Award (Third Prize, Rank 3)    |                          Sichuan Provincial People's Government                            |                         -                          |
+| 2023 |                          Sichuan University Hundred Talents Program                          |                                      Sichuan University                                      |                         -                          |
+| 2023 |          ICDT Novel Display Technology Competition, National First Prize (Advisor)           |             SID China Chapter, ICDT Organizing Committee, Huawei Device Co., Ltd.            |   The sole national first prize in this category   |
+| 2018, 2020, 2024 | Sichuan University Sanxin Teaching Award and Wuliangchun Outstanding Faculty Award (3 times) |                                      Sichuan University                                      |                         -                          |
+| 2017 |           National Postdoctoral Innovation Talent Support Program (Bo Xin Program)           |  Ministry of Human Resources and Social Security, National Postdoctoral Management Committee |                                                    |
+| 2017 |                        Elsevier Outstanding Reviewer Award (2 times)                         |                                           Elsevier                                           |                         -                          |
 
 
 # 📖 Educations
@@ -585,7 +585,7 @@ Yuanzhouhan Cao, Yidong Li, Haokui Zhang, **Chao Ren**, Yifan Liu
     - **Reviewers**: IEEE TPAMI, IEEE TIP, IJCV, IEEE TMM IEEE TCSVT, IEEE TCYB, IEEE TGRS, IEEE TAI, IEEE TITS, IEEE TNNLS, IEEE TII, IEEE Signal Processing, IEEE/CAA Journal of Automatica Sinica, Optics Express, Advanced Engineering Informatics...
     
 - **Academic Conference Service**: 
-    - 2025, the 10th International Conference on Image, Vision and Computing (ICIVC 2025), **Publication Chair**
+    - 2025, the 10th International Conference on Image, Vision and Computing (ICIVC 2025), **Publication Chair and Conference Moderator**
     - 2025, the International Conference on Machine Vision, Image Processing and Imaging Technology (MVIPIT 2025), **Publicity Chair**
     - 2025, the International Conference on Robotics, Artificial Intelligence and Intelligent Control (RAIIC 2025), **Publicity Chair**
     - 2025, the ACM International Conference on Intelligent Perception and Pattern Recognition (IPPR 2025), Technical **Committee Chair**
@@ -599,3 +599,4 @@ Yuanzhouhan Cao, Yidong Li, Haokui Zhang, **Chao Ren**, Yifan Liu
 
 - **Academic organizations Service**: 
     - CCF Multimedia Technology Committee, **Executive Committee Member**
+    - China Mobile Group Sichuan Company, **Academic and Technical Advisor for the Postdoctoral Research Station**
