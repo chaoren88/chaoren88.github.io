@@ -507,7 +507,7 @@ Yuanzhouhan Cao, Yidong Li, Haokui Zhang, **Chao Ren**, Yifan Liu
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2022</div><img src='images/publications/TMM-2019-Chao Ren.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2022</div><img src='images/publications2/TMM-2019-Chao Ren.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Adjusted non-local regression and directional smoothness for image restoration](https://ieeexplore.ieee.org/document/8440746)
@@ -521,21 +521,7 @@ Yuanzhouhan Cao, Yidong Li, Haokui Zhang, **Chao Ren**, Yifan Liu
 </div></div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SPL 2022</div><img src='images/publications/SPL-2018-Chao Ren.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Non-local similarity modeling and deep CNN gradient prior for super resolution](https://ieeexplore.ieee.org/document/8345640)
-
-**Chao Ren**, Xiaohai He, Yifei Pu
-
-*IEEE Signal Processing Letters (SPL 2018)*
-
-[**Paper**](https://ieeexplore.ieee.org/document/8345640) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> |
-[**Codes**]() <strong><span class='show_paper_citations' data=''></span></strong>
-</div></div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2022</div><img src='images/publications/TIP-2017-Chao Ren.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2022</div><img src='images/publications2/TIP-2017-Chao Ren.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Single image super-resolution via adaptive high-dimensional non-local total variation and adaptive geometric feature](https://ieeexplore.ieee.org/document/7600470)
@@ -548,7 +534,7 @@ Yuanzhouhan Cao, Yidong Li, Haokui Zhang, **Chao Ren**, Yifan Liu
 [**Codes**]() <strong><span class='show_paper_citations' data=''></span></strong>
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2016</div><img src='images/publications/TIP-2016-Chao Ren.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2016</div><img src='images/publications2/TIP-2016-Chao Ren.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Single image super-resolution using local geometric duality and non-local similarity](https://ieeexplore.ieee.org/document/7433993)
