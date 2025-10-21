@@ -221,8 +221,7 @@ Lufei Chen, Xiangpeng Tian, Shuhua Xiong, Yinjie Lei, **Chao Ren**<sup>✉</sup>
 
 *In Proc. IEEE Conf. on Computer Vision and Pattern Recognition (CVPR 2024)*
 
-[**Paper**](https://openaccess.thecvf.com/content/CVPR2024/html/Chen_Unsupervised_Blind_Image_Deblurring_Based_on_Self-Enhancement_CVPR_2024_paper.html)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | 
-[**Codes**]() <strong><span class='show_paper_citations' data=''></span></strong> 
+[**Paper**](https://openaccess.thecvf.com/content/CVPR2024/html/Chen_Unsupervised_Blind_Image_Deblurring_Based_on_Self-Enhancement_CVPR_2024_paper.html)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/publications2/ECCV-2024-Xiangyu Liao.png' alt="sym" width="100%"></div></div>
@@ -235,7 +234,7 @@ Xiangyu Liao, Tianheng Zheng, Jiayu Zhong, Pingping Zhang, **Chao Ren**<sup>✉<
 *In Proc. of the European Conf. on Computer Vision (ECCV 2024)*
 
 [**Paper**](https://link.springer.com/content/pdf/10.1007/978-3-031-72698-9_12)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | 
-[**Codes**]() <strong><span class='show_paper_citations' data=''></span></strong>
+[**Codes**](https://github.com/lll143653/amsnet) <strong><span class='show_paper_citations' data=''></span></strong>
 </div></div>
 
 
@@ -249,7 +248,7 @@ Xin Lin, Jingtong Yue, Sixian Ding, **Chao Ren**<sup>✉</sup>, Lu Qi, Ming-Hsua
 *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT 2025)*
 
 [**Paper**](https://ieeexplore.ieee.org/document/10737413)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | 
-[**Codes**](https://github.com/linxin0) <strong><span class='show_paper_citations' data=''></span></strong>
+[**Codes**](https://github.com/linxin0/Low_light_rainy) <strong><span class='show_paper_citations' data=''></span></strong>
 </div></div>
 
 
@@ -282,7 +281,7 @@ Yizhong Pan, Xiao Liu, Xiangyu Liao, Yuanzhouhan Cao, **Chao Ren**<sup>✉</sup>
 *In Proc. of the IEEE International Conf. on Computer Vision (ICCV 2023)*
 
 [**Paper**](https://openaccess.thecvf.com/content/ICCV2023/html/Pan_Random_Sub-Samples_Generation_for_Self-Supervised_Real_Image_Denoising_ICCV_2023_paper.html) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | 
-[**Codes**]() <strong><span class='show_paper_citations' data=''></span></strong>
+[**Codes**](https://github.com/p1y2z3/SDAP) <strong><span class='show_paper_citations' data=''></span></strong>
 </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/publications/CVPR-2023-Yuwei Yang.png' alt="sym" width="100%"></div></div>
@@ -294,8 +293,7 @@ Yuwei Yang, Munawar Hayat, Zhao Jin, **Chao Ren**, Yinjie Lei
 
 *In Proc. IEEE Conf. on Computer Vision and Pattern Recognition (CVPR 2023)*
 
-[**Paper**](https://openaccess.thecvf.com/content/CVPR2023/html/Yang_Geometry_and_Uncertainty-Aware_3D_Point_Cloud_Class-Incremental_Semantic_Segmentation_CVPR_2023_paper.html)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | 
-[**Codes**]() <strong><span class='show_paper_citations' data=''></span></strong>
+[**Paper**](https://openaccess.thecvf.com/content/CVPR2023/html/Yang_Geometry_and_Uncertainty-Aware_3D_Point_Cloud_Class-Incremental_Semantic_Segmentation_CVPR_2023_paper.html)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div></div>
 
 
@@ -336,7 +334,7 @@ Yizhong Pan, **Chao Ren**<sup>✉</sup>, Xiaohong Wu, Jie Huang, Xiaohai He
 *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT 2023)*
 
 [**Paper**](https://ieeexplore.ieee.org/document/9927458) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | 
-[**Codes**]() <strong><span class='show_paper_citations' data=''></span></strong>
+[**Codes**](https://github.com/chaoren88/GrencNet) <strong><span class='show_paper_citations' data=''></span></strong>
 </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT-II 2023</div><img src='images/publications2/TCSVT-II-2023-Man Qin.jpg' alt="sym" width="100%"></div></div>
@@ -348,8 +346,7 @@ Man Qin, **Chao Ren**<sup>✉</sup>, Hong Yang, Xiaohai He, Zhengyong Wang
 
 *IEEE Transactions on Circuits and Systems II: Express Briefs (TCSVT-II 2023)*
 
-[**Paper**](https://ieeexplore.ieee.org/document/10054005) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | 
-[**Codes**]() <strong><span class='show_paper_citations' data=''></span></strong>
+[**Paper**](https://ieeexplore.ieee.org/document/10054005) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div></div>
 
 <hr />
@@ -381,8 +378,7 @@ Jie Huang, Zhibo Zhao, **Chao Ren**<sup>✉</sup>, Qizhi Teng, Xiaohai He
 
 *Knowledge-Based Systems (KBS 2022)*
 
-[**Paper**](https://www.sciencedirect.com/science/article/abs/pii/S0950705122008991)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | 
-[**Codes**]() <strong><span class='show_paper_citations' data=''></span></strong>
+[**Paper**](https://www.sciencedirect.com/science/article/abs/pii/S0950705122008991)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div></div>
 
 
@@ -395,8 +391,7 @@ Sen Zhai, Chao Ren*, Zhengyong Wang, Xiaohai He, Linbo Qing
 
 *Pattern Recognition (PR 2022)*
 
-[**Paper**](https://www.sciencedirect.com/science/article/abs/pii/S0031320321005136) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | 
-[**Codes**]() <strong><span class='show_paper_citations' data=''></span></strong>
+[**Paper**](https://www.sciencedirect.com/science/article/abs/pii/S0031320321005136) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Fusion 2022</div><img src='images/publications2/IF-2022-Honggang Chen.jpg' alt="sym" width="100%"></div></div>
@@ -408,8 +403,7 @@ Honggang Chen, Xiaohai He, Linbo Qing, Yuanyuan Wu, **Chao Ren**<sup>✉</sup>, 
 
 *Information Fusion (IF 2022)*
 
-[**Paper**](https://www.sciencedirect.com/science/article/abs/pii/S1566253521001792) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | 
-[**Codes**]() <strong><span class='show_paper_citations' data=''></span></strong>
+[**Paper**](https://www.sciencedirect.com/science/article/abs/pii/S1566253521001792) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div></div>
 
 
@@ -422,8 +416,7 @@ Yuanzhouhan Cao, Hui Zhang, Yidong Li, **Chao Ren**, Congyan Lang
 
 *IEEE Transactions on Intelligent Transportation Systems (TITS 2022)*
 
-[**Paper**](https://ieeexplore.ieee.org/document/9899377) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | 
-[**Codes**]() <strong><span class='show_paper_citations' data=''></span></strong>
+[**Paper**](https://ieeexplore.ieee.org/document/9899377) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div></div>
 
 
@@ -437,7 +430,7 @@ Yuanzhouhan Cao, Hui Zhang, Yidong Li, **Chao Ren**, Congyan Lang
 *In Advances in Neural Information Processing Systems (NeurIPS 2022)*
 
 [**Paper**](https://proceedings.neurips.cc/paper_files/paper/2022/hash/fa93d7bfb48450e1af63c8fa647d317f-Abstract-Conference.html) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> |
-[**Codes**]() <strong><span class='show_paper_citations' data=''></span></strong>
+[**Codes**](https://github.com/chaoren88/ScaoedNet) <strong><span class='show_paper_citations' data=''></span></strong>
 </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCYB 2022</div><img src='images/publications2/TCYB-2021-Chao Ren.jpg' alt="sym" width="100%"></div></div>
@@ -449,8 +442,7 @@ Yuanzhouhan Cao, Hui Zhang, Yidong Li, **Chao Ren**, Congyan Lang
 
 *IEEE Transactions on Cybernetics (TCYB 2021)*
 
-[**Paper**](https://ieeexplore.ieee.org/document/8809912) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> |
-[**Codes**]() <strong><span class='show_paper_citations' data=''></span></strong>
+[**Paper**](https://ieeexplore.ieee.org/document/8809912) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS 2022</div><img src='images/publications2/KBS-2021-Chao Ren-1.jpg' alt="sym" width="100%"></div></div>
@@ -462,8 +454,7 @@ Yuanzhouhan Cao, Hui Zhang, Yidong Li, **Chao Ren**, Congyan Lang
 
 *Knowledge-Based Systems (KBS 2021)*
 
-[**Paper**](https://www.sciencedirect.com/science/article/abs/pii/S0950705121002768) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> |
-[**Codes**]() <strong><span class='show_paper_citations' data=''></span></strong>
+[**Paper**](https://www.sciencedirect.com/science/article/abs/pii/S0950705121002768) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS 2022</div><img src='images/publications/KBS-2021-Chao Ren-2.png' alt="sym" width="100%"></div></div>
@@ -475,8 +466,7 @@ Yuanzhouhan Cao, Hui Zhang, Yidong Li, **Chao Ren**, Congyan Lang
 
 *Knowledge-Based Systems (KBS 2021)*
 
-[**Paper**](https://www.sciencedirect.com/science/article/abs/pii/S095070512100530X) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> |
-[**Codes**]() <strong><span class='show_paper_citations' data=''></span></strong>
+[**Paper**](https://www.sciencedirect.com/science/article/abs/pii/S095070512100530X) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div></div>
 
 
@@ -489,8 +479,7 @@ Yuanzhouhan Cao, Hui Zhang, Yidong Li, **Chao Ren**, Congyan Lang
 
 *In Proc. IEEE Conf. on Computer Vision and Pattern Recognition (CVPR 2021)*
 
-[**Paper**](https://ieeexplore.ieee.org/document/9577972) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> |
-[**Codes**]() <strong><span class='show_paper_citations' data=''></span></strong>
+[**Paper**](https://ieeexplore.ieee.org/document/9577972) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2022</div><img src='images/publications2/ICME-2021-Chao Ren.jpg' alt="sym" width="100%"></div></div>
@@ -502,8 +491,7 @@ Yuanzhouhan Cao, Hui Zhang, Yidong Li, **Chao Ren**, Congyan Lang
 
 *In Proc. of IEEE International Conference on Multimedia and Expo (ICME 2021)*
 
-[**Paper**](https://ieeexplore.ieee.org/document/9428099) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> |
-[**Codes**]() <strong><span class='show_paper_citations' data=''></span></strong>
+[**Paper**](https://ieeexplore.ieee.org/document/9428099) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2022</div><img src='images/publications2/ACMMM-2021-Yuanzhouhan Cao.jpg' alt="sym" width="100%"></div></div>
@@ -515,8 +503,7 @@ Yuanzhouhan Cao, Yidong Li, Haokui Zhang, **Chao Ren**, Yifan Liu
 
 *In Proc. of the 31st ACM International Conference on Multimedia (ACM MM 2021)*
 
-[**Paper**](https://dl.acm.org/doi/abs/10.1145/3474085.3475564) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> |
-[**Codes**]() <strong><span class='show_paper_citations' data=''></span></strong>
+[**Paper**](https://dl.acm.org/doi/abs/10.1145/3474085.3475564) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div></div>
 
 
@@ -530,8 +517,7 @@ Yuanzhouhan Cao, Yidong Li, Haokui Zhang, **Chao Ren**, Yifan Liu
 
 *IEEE Transactions on Multimedia (TMM 2019)*
 
-[**Paper**](https://ieeexplore.ieee.org/document/8440746) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> |
-[**Codes**]() <strong><span class='show_paper_citations' data=''></span></strong>
+[**Paper**](https://ieeexplore.ieee.org/document/8440746) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div></div>
 
 
@@ -544,8 +530,7 @@ Yuanzhouhan Cao, Yidong Li, Haokui Zhang, **Chao Ren**, Yifan Liu
 
 *IEEE Transactions on Image Processing (TIP 2017)*
 
-[**Paper**](https://ieeexplore.ieee.org/document/7600470) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> |
-[**Codes**]() <strong><span class='show_paper_citations' data=''></span></strong>
+[**Paper**](https://ieeexplore.ieee.org/document/7600470) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2016</div><img src='images/publications2/TIP-2016-Chao Ren.jpg' alt="sym" width="100%"></div></div>
@@ -556,8 +541,7 @@ Yuanzhouhan Cao, Yidong Li, Haokui Zhang, **Chao Ren**, Yifan Liu
 
 **Chao Ren**, Xiaohai He, Qizhi Teng, Yuanyuan Wu, Truong Q. Nguyen
 
-[**Paper**](https://ieeexplore.ieee.org/document/7433993) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> |
-[**Codes**]() <strong><span class='show_paper_citations' data=''></span></strong>
+[**Paper**](https://ieeexplore.ieee.org/document/7433993) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div></div>
 
 
