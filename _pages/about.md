@@ -580,6 +580,24 @@ Yuanzhouhan Cao, Yidong Li, Haokui Zhang, **Chao Ren**, Yifan Liu
 
 
 # 🎖 Honors and Awards
+
+| Year | Award Name | Ranking | Awarding Institution | Notes |
+|------|------------|---------|----------------------|-------|
+| 2025 | CVPR Outstanding Reviewer Award | - | CVPR | - |
+| 2025 | Sichuan University Annual Outstanding Individual | - | Sichuan University | - |
+| 2024 | Sichuan University Outstanding Research Talent—Academic Newcomer Award | Rank 1 | Sichuan University | Only 10 recipients annually across all disciplines |
+| 2024 | Third Prize, China Institute of Communications Science and Technology Award | Ranked 3rd | China Institute of Communications | - |
+| 2023 | Huawei Spark Award | Rank 1 | Huawei Technologies Co., Ltd. | - |
+| 2023 | Third Prize, Sichuan Provincial Science and Technology Progress Award | Ranked 4th | Sichuan Provincial People's Government | - |
+| 2023 | Sichuan University Hundred Talents Program | Ranked 1st | Sichuan University | - |
+| 2023 | ICDT Novel Display Technology Competition, National First Prize (Advisor) | Rank 1 | SID China Chapter, ICDT Organizing Committee, Huawei Device Co., Ltd. | The sole national first prize in this category |
+| 2018, 2020, 2024 | Sichuan University Sanxin Teaching Award and Wuliangchun Outstanding Faculty Award (3 times) | Rank 1 | Sichuan University | - |
+| 2017 | National Postdoctoral Innovation Talent Support Program (Bo Xin Program) | Rank 1 | Ministry of Human Resources and Social Security, National Postdoctoral Management Committee | Only 8 individuals nationwide selected in this discipline |
+| 2017 | Elsevier Outstanding Reviewer Award (2 times) | Rank 1 | Elsevier | - |
+
+
+# 🎖 Honors and Awards
+
 - 2017, National Postdoctoral Innovation Talent Support Program (Bo Xin Program; only 8 individuals nationwide selected in this discipline that year), Rank 1, Ministry of Human Resources and Social Security, National Postdoctoral Management Committee
 - 2017, Elsevier Outstanding Reviewer Award, 2 times, Rank 1, Elsevier
 - 2018, 2020, 2024, Sichuan University Sanxin Teaching Award and Wuliangchun Outstanding Faculty Award, 3 times, Rank 1, Sichuan University
