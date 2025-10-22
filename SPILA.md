@@ -30,9 +30,9 @@
 </style>
 
 <div class="image-container">
-  <img src="images/labs/lab-1.jpg" alt="SPILA" class="small-image">
-  <img src="images/labs/icon.jpg" alt="SPILA" class="small-image">
-  <img src="images/labs/lab-2.jpg" alt="SPILA" class="small-image">
+  <img src="/images/labs/lab-1.jpg" alt="SPILA" class="small-image">
+  <img src="/images/labs/icon.jpg" alt="SPILA" class="small-image">
+  <img src="/images/labs/lab-2.jpg" alt="SPILA" class="small-image">
 </div>
 
 <div class="image-container">
