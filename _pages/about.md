@@ -69,7 +69,7 @@ Dr. Ren has received the Huawei Spark Award and was selected for the National Po
 
 
 
-# 📝 Publications
+# 📝 Selected Publications
 
 <hr />
 
@@ -982,7 +982,7 @@ Dr. Ren has received the Huawei Spark Award and was selected for the National Po
 
 
 
-# 🎖 Honors and Awards
+# 🎖️ Honors and Awards
 
 | Year |                                          Award Name                                          |                                     Awarding Institution                                     |                       Notes                        |
 |:----:|:--------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------:|:--------------------------------------------------:|
