@@ -49,14 +49,15 @@ Dr. Ren has received the Huawei Spark Award and was selected for the National Po
 
 <div class="scroll-box">
     <p>- 2025.07.12: 🎉🎉🎉 One paper was accepted by TPAMI. Congratulations to Xin Lin 👏👏👏. </p>
-    <p>- 2025.03.08: 🎉🎉🎉 Three papers were accepted by CVPR. Congratulations to Guanglu Dong and Xiangpeng Tian 👏👏👏. </p>
-    <p>- 2025.05.12: 🎉🎉🎉 One paper was accepted by TCSVT. Congratulations to Tianheng Zhen 👏👏👏. </p>
     <p>- 2025.06.24: 🎉🎉🎉 One paper was accepted by TNNLS. Congratulations to Xiao Liu 👏👏👏. </p>
+    <p>- 2025.06.11: 🎉🎉🎉 I am honored to be selected as an Outstanding Reviewer for CVPR 2025. </p>
+    <p>- 2025.05.12: 🎉🎉🎉 One paper was accepted by TCSVT. Congratulations to Tianheng Zhen 👏👏👏. </p>
+    <p>- 2025.03.08: 🎉🎉🎉 Three papers were accepted by CVPR. Congratulations to Guanglu Dong and Xiangpeng Tian 👏👏👏. </p>
     <p>- 2025.02.25: 🎉🎉🎉 One paper was accepted by TII. Congratulations to Xiao Liu 👏👏👏. </p>
     <p>- 2024.10.28: 🎉🎉🎉 One paper was accepted by WACV. Congratulations to Jingtong Yue 👏👏👏. </p>
     <p>- 2024.10.25: 🎉🎉🎉 One paper was accepted by TCSVT. Congratulations to Xin Lin 👏👏👏. </p>
-    <p>- 2023.07.01: 🎉🎉🎉 One paper was accepted by ECCV. Congratulations to Xiangyu Liao 👏👏👏. </p>
-    <p>- 2023.02.27: 🎉🎉🎉 One paper was accepted by CVPR. Congratulations to Lufei Chen 👏👏👏. </p>
+    <p>- 2024.07.01: 🎉🎉🎉 One paper was accepted by ECCV. Congratulations to Xiangyu Liao 👏👏👏. </p>
+    <p>- 2024.02.27: 🎉🎉🎉 One paper was accepted by CVPR. Congratulations to Lufei Chen 👏👏👏. </p>
 </div>
 
 </body>
@@ -914,7 +915,15 @@ Dr. Ren has received the Huawei Spark Award and was selected for the National Po
     </a>
     <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
   </span>
+  <span>
+    <a href="https://drive.google.com/file/d/17G8fHf7KtDfPiDLBKzpnqG54k3oGQidY/view" 
+       style="display: inline-block; padding: 4px 12px; background-color: #f8f9fa; color: #0366d6; text-decoration: none; border: 1px solid #d1d5da; border-radius: 6px; font-size: 14px; font-weight: 500;">
+      Codes
+    </a>
+    <strong><span class='show_paper_citations' data=''></span></strong>
+  </span>
 </div>
+ <strong><span class='show_paper_citations' data=''></span></strong>
 </div></div>
 
 
@@ -936,7 +945,15 @@ Dr. Ren has received the Huawei Spark Award and was selected for the National Po
     </a>
     <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
   </span>
+  <span>
+    <a href="https://drive.google.com/file/d/0BxIaJ5cUs2_qNEhCekxqMmk0VjQ/view?resourcekey=0-tL8KMW96eWKWM_9KO2PE3g" 
+       style="display: inline-block; padding: 4px 12px; background-color: #f8f9fa; color: #0366d6; text-decoration: none; border: 1px solid #d1d5da; border-radius: 6px; font-size: 14px; font-weight: 500;">
+      Codes
+    </a>
+    <strong><span class='show_paper_citations' data=''></span></strong>
+  </span>
 </div>
+ <strong><span class='show_paper_citations' data=''></span></strong>
 </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2016</div><img src='images/publications2/TIP-2016-Chao Ren.jpg' alt="sym" width="100%"></div></div>

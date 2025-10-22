@@ -21,6 +21,13 @@
 <div class="image-container">
   <img src="/images/labs/lab-2023.JPG" alt="SPILA" class="custom-image">
   <img src="/images/labs/lab-2025-2.png" alt="SPILA" class="custom-image">
+  <img src="/images/labs/lab-2025-2.png" alt="SPILA" class="custom-image">
+</div>
+
+
+<div class="image-container">
+  <img src="/images/labs/lab-2023.JPG" alt="SPILA" class="custom-image">
+  <img src="/images/labs/lab-2025-2.png" alt="SPILA" class="custom-image">
 </div>
 
 <hr />
