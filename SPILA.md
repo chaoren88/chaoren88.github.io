@@ -5,29 +5,39 @@
 
 <style>
   .image-container {
-      display: flex; /* Enable Flexbox */
-      flex-wrap: wrap; /* Allow items to wrap to the next line */
-      gap: 20px;     /* Space between the images */
-      justify-content: center; /* Center the images */
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    margin-bottom: 20px;
+    width: 100%;
+    height: 300px; /* 固定高度确保两行高度一致 */
   }
 
-  .custom-image {
-      width: 45%;      /* Each image takes 45% of the width */
-      height: auto;    /* Maintain aspect ratio */
-      border-radius: 10px; /* Optional: rounded corners */
+  .small-image {
+    width: calc((100% - 40px) / 3); /* 三张图片平均分配宽度，减去间隙 */
+    height: 100%; /* 使用容器高度 */
+    object-fit: cover; /* 保持图片比例同时填充容器 */
+    border-radius: 10px;
+  }
+
+  .large-image {
+    width: calc((100% - 20px) / 2); /* 两张图片平均分配宽度，减去间隙 */
+    height: 100%; /* 使用容器高度 */
+    object-fit: cover; /* 保持图片比例同时填充容器 */
+    border-radius: 10px;
   }
 </style>
 
 <div class="image-container">
-  <img src="/images/labs/lab-2023.JPG" alt="SPILA" class="custom-image">
-  <img src="/images/labs/lab-2025-2.png" alt="SPILA" class="custom-image">
-  <img src="/images/labs/lab-2025-2.png" alt="SPILA" class="custom-image">
+  <img src="images/labs/lab-1.jpg" alt="SPILA" class="small-image">
+  <img src="images/labs/icon.jpg" alt="SPILA" class="small-image">
+  <img src="images/labs/lab-2.jpg" alt="SPILA" class="small-image">
 </div>
 
-
 <div class="image-container">
-  <img src="/images/labs/lab-2023.JPG" alt="SPILA" class="custom-image">
-  <img src="/images/labs/lab-2025-2.png" alt="SPILA" class="custom-image">
+  <img src="/images/labs/lab-2023.JPG" alt="SPILA" class="large-image">
+  <img src="/images/labs/lab-2025-2.png" alt="SPILA" class="large-image">
 </div>
 
 <hr />
