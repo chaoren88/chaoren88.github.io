@@ -200,10 +200,9 @@ Dr. Ren has received the Huawei Spark Award and was selected for the National Po
 
 [HQGS: High-Quality Novel View Synthesis with Gaussian Splatting in Degraded Scenes](https://proceedings.iclr.cc/paper_files/paper/2025/hash/4a69d58b1a64fd931ef72cd93b71dcbe-Abstract-Conference.html)
 
-<span style="color: #BA625F;">Xin Lin, Shi Luo, Xiaojun Shan, Xiaoyu Zhou, <strong>Chao Ren</strong><sup>✉</sup>, Lu Qi, Ming-Hsuan Yang, Nuno Vasconcelos</span>
+<span style="color: #BA625F;">Xin Lin, Shi Luo, Xiaojun Shan, Xiaoyu Zhou, <strong>Chao Ren</strong>, Lu Qi, Ming-Hsuan Yang, Nuno Vasconcelos</span>
 
 *International Conference on Representation Learning 2025 (ICLR 2025)*
-
 
 <div style="display: flex; gap: 10px; align-items: center;">
   <span>
@@ -213,8 +212,17 @@ Dr. Ren has received the Huawei Spark Award and was selected for the National Po
     </a>
     <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
   </span>
+  <span>
+    <a href="https://github.com/linxin0/HQGS" 
+       style="display: inline-block; padding: 4px 12px; background-color: #f8f9fa; color: #0366d6; text-decoration: none; border: 1px solid #d1d5da; border-radius: 6px; font-size: 14px; font-weight: 500;">
+      Codes
+    </a>
+    <strong><span class='show_paper_citations' data=''></span></strong>
+  </span>
 </div>
+ <strong><span class='show_paper_citations' data=''></span></strong>
 </div></div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2025</div><img src='images/publications2/TCSVT-2025-Tianheng Zheng.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -481,7 +489,7 @@ Dr. Ren has received the Huawei Spark Award and was selected for the National Po
 
 [Geometry and uncertainty-aware 3d point cloud class-incremental semantic](https://openaccess.thecvf.com/content/CVPR2023/html/Yang_Geometry_and_Uncertainty-Aware_3D_Point_Cloud_Class-Incremental_Semantic_Segmentation_CVPR_2023_paper.html)
 
-<span style="color: #BA625F;">Yuwei Yang, Munawar Hayat, Zhao Jin, <strong>Chao Ren</strong><sup>✉</sup>, Yinjie Lei</span>
+<span style="color: #BA625F;">Yuwei Yang, Munawar Hayat, Zhao Jin, <strong>Chao Ren</strong>, Yinjie Lei</span>
 
 *In Proc. IEEE Conf. on Computer Vision and Pattern Recognition (CVPR 2023)*
 
@@ -669,7 +677,7 @@ Dr. Ren has received the Huawei Spark Award and was selected for the National Po
 
 [An effective deep network using target vector update modules for image restoration](https://www.sciencedirect.com/science/article/abs/pii/S0031320321005136)
 
-<span style="color: #BA625F;">Sen Zhai, <strong>Chao Ren</strong><sup>✉</sup>*, Zhengyong Wang, Xiaohai He, Linbo Qing</span>
+<span style="color: #BA625F;">Sen Zhai, <strong>Chao Ren</strong><sup>✉</sup>, Zhengyong Wang, Xiaohai He, Linbo Qing</span>
 
 *Pattern Recognition (PR 2022)*
 
@@ -712,7 +720,7 @@ Dr. Ren has received the Huawei Spark Award and was selected for the National Po
 
 [CMAN: Learning global structure correlation for monocular 3D object detection](https://ieeexplore.ieee.org/document/9899377)
 
-<span style="color: #BA625F;">Yuanzhouhan Cao, Hui Zhang, Yidong Li, <strong>Chao Ren</strong><sup>✉</sup>, Congyan Lang</span>
+<span style="color: #BA625F;">Yuanzhouhan Cao, Hui Zhang, Yidong Li, <strong>Chao Ren</strong>, Congyan Lang</span>
 
 *IEEE Transactions on Intelligent Transportation Systems (TITS 2022)*
 
@@ -846,7 +854,15 @@ Dr. Ren has received the Huawei Spark Award and was selected for the National Po
     </a>
     <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
   </span>
+  <span>
+    <a href="https://github.com/chaoren88/DeamNet" 
+       style="display: inline-block; padding: 4px 12px; background-color: #f8f9fa; color: #0366d6; text-decoration: none; border: 1px solid #d1d5da; border-radius: 6px; font-size: 14px; font-weight: 500;">
+      Codes
+    </a>
+    <strong><span class='show_paper_citations' data=''></span></strong>
+  </span>
 </div>
+ <strong><span class='show_paper_citations' data=''></span></strong>
 </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2021</div><img src='images/publications2/ICME-2021-Chao Ren.jpg' alt="sym" width="100%"></div></div>
@@ -875,7 +891,7 @@ Dr. Ren has received the Huawei Spark Award and was selected for the National Po
 
 [Learning structure affinity for video depth estimation](https://dl.acm.org/doi/abs/10.1145/3474085.3475564)
 
-<span style="color: #BA625F;">Yuanzhouhan Cao, Yidong Li, Haokui Zhang, <strong>Chao Ren</strong><sup>✉</sup>, Yifan Liu</span>
+<span style="color: #BA625F;">Yuanzhouhan Cao, Yidong Li, Haokui Zhang, <strong>Chao Ren</strong>, Yifan Liu</span>
 
 *In Proc. of the 31st ACM International Conference on Multimedia (ACM MM 2021)*
 
@@ -896,6 +912,28 @@ Dr. Ren has received the Huawei Spark Award and was selected for the National Po
 ## <center> 🤗🤗🤗 <font color="#4A708B"> 2016-2019 </font> 🤗🤗🤗 </center>
 
 <hr />
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2019</div><img src='images/publications2/TIP-2019-Chao Ren.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Enhanced Non-Local Total Variation Model and Multi-Directional Feature Prediction Prior for Single Image Super Resolution](https://ieeexplore.ieee.org/document/8658150)
+
+<span style="color: #BA625F;"><strong>Chao Ren</strong><sup>✉</sup>, Xiaohai He, Yifei Pu, Truong Q. Nguyen</span>
+
+*IEEE Transactions on Image Processing (TIP 2019)*
+
+
+<div style="display: flex; gap: 10px; align-items: center;">
+  <span>
+    <a href="https://ieeexplore.ieee.org/document/8658150" 
+       style="display: inline-block; padding: 4px 12px; background-color: #f8f9fa; color: #0366d6; text-decoration: none; border: 1px solid #d1d5da; border-radius: 6px; font-size: 14px; font-weight: 500;">
+      Paper
+    </a>
+    <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+  </span>
+</div>
+</div></div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2019</div><img src='images/publications2/TMM-2019-Chao Ren.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -960,9 +998,10 @@ Dr. Ren has received the Huawei Spark Award and was selected for the National Po
 <div class='paper-box-text' markdown="1">
 
 [Single image super-resolution using local geometric duality and non-local similarity](https://ieeexplore.ieee.org/document/7433993)
-*IEEE Transactions on Image Processing (TIP 2016)*
 
-**Chao Ren**, Xiaohai He, Qizhi Teng, Yuanyuan Wu, Truong Q. Nguyen
+<span style="color: #BA625F;"><strong>Chao Ren</strong><sup>✉</sup>, Xiaohai He, Qizhi Teng, Yuanyuan Wu, Truong Q. Nguyen</span>
+
+*IEEE Transactions on Image Processing (TIP 2016)*
 
 
 <div style="display: flex; gap: 10px; align-items: center;">
