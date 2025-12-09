@@ -19,7 +19,7 @@ main:
     url: "/#-academic-communications"
 
   - title: "Resume"
-    url: /_pages/Resume
+    url: /Resume
 
   - title: "SPILA"
-    url: /SPILA/
+    url: /SPILA
