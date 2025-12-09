@@ -311,6 +311,25 @@ Dr. Ren has received the Huawei Spark Award and was selected for the National Po
 
 </div></div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS 2025</div><img src='images/publications2/KBS-2025-Xiao Liu.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Real-world blind image super-resolution with mixed and probabilistic scheme based synthetic degradation pipeline](https://doi.org/10.1016/j.knosys.2025.114643)
+
+<span style="color: #BA625F;">Xiao Liu, Xiaofeng Wang, Zhengyong Wang, Xiaohai He, <strong>Chao Ren</strong><sup>✉</sup></span>
+
+*Knowledge-Based Systems (KBS 2025)*
+
+<div style="display: flex; gap: 10px; align-items: center;">
+  <span>
+    <a href="https://doi.org/10.1016/j.knosys.2025.114643" 
+       style="display: inline-block; padding: 4px 12px; background-color: #f8f9fa; color: #0366d6; text-decoration: none; border: 1px solid #d1d5da; border-radius: 6px; font-size: 14px; font-weight: 500;">
+      Paper
+    </a>
+    <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+  </span>
+</div>
+</div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WACV 2025</div><img src='images/publications2/WACV-2025-Jingtong Yue.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
