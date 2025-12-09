@@ -19,7 +19,7 @@ main:
     url: "/#-academic-communications"
 
   - title: "Resume"
-    url: /images/resume/ChaoRen_Resume.pdf
+    url: /_pages/Resume
 
   - title: "SPILA"
     url: /SPILA/
