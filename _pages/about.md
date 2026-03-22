@@ -48,6 +48,8 @@ Dr. Ren has received the Huawei Spark Award and was selected for the National Po
 <body>
 
 <div class="scroll-box">
+    <p>- 2026.02.11: 🎉🎉🎉 One paper was accepted by TPAMI. Congratulations to Xiao Liu 👏👏👏. </p>
+    <p>- 2026.01.26: 🎉🎉🎉 One paper was accepted by ICLR. Congratulations to Guanglu Dong 👏👏👏. </p>
     <p>- 2025.07.12: 🎉🎉🎉 One paper was accepted by TPAMI. Congratulations to Xin Lin 👏👏👏. </p>
     <p>- 2025.06.24: 🎉🎉🎉 One paper was accepted by TNNLS. Congratulations to Xiao Liu 👏👏👏. </p>
     <p>- 2025.06.11: 🎉🎉🎉 I am honored to be selected as an Outstanding Reviewer for CVPR 2025. </p>
@@ -77,6 +79,99 @@ Dr. Ren has received the Huawei Spark Award and was selected for the National Po
 
 <hr />
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2026</div><img src='images/publications2/TPAMI-2026-Xiao Liu.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[D2S-RSG-SSD: Dual Double-Sampling with Random Sub-Samples Generation for Self-Supervised Real Image Denoising](https://ieeexplore.ieee.org/document/11397562)
+
+<span style="color: #BA625F;">Xiao Liu, Xiuya Shi, Yizhong Pan, Shuhang Gu, Wei Liu, <strong>Chao Ren</strong><sup>✉</sup></span>
+
+*IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI 2026)*
+
+
+<div style="display: flex; gap: 10px; align-items: center;">
+  <span>
+    <a href="https://ieeexplore.ieee.org/document/11397562" 
+       style="display: inline-block; padding: 4px 12px; background-color: #f8f9fa; color: #0366d6; text-decoration: none; border: 1px solid #d1d5da; border-radius: 6px; font-size: 14px; font-weight: 500;">
+      Paper
+    </a>
+    <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+  </span>
+  <span>
+    <a href="https://github.com/liux520/D2S-RSG-SSD" 
+       style="display: inline-block; padding: 4px 12px; background-color: #f8f9fa; color: #0366d6; text-decoration: none; border: 1px solid #d1d5da; border-radius: 6px; font-size: 14px; font-weight: 500;">
+      Codes
+    </a>
+    <strong><span class='show_paper_citations' data=''></span></strong>
+  </span>
+</div>
+ <strong><span class='show_paper_citations' data=''></span></strong>
+</div></div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/publications2/ICLR-2026-Guanglu Dong.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> 
+
+[Learning Domain-Aware Task Prompt Representations for Multi-Domain All-in-One Image Restoration](https://openreview.net/forum?id=CzVlgDOF7L)
+
+<span style="color: #BA625F;">Guanglu Dong, Chunlei Li, <strong>Chao Ren</strong>, Jingliang Hu, Yilei Shi, Xiao Xiang Zhu, Lichao Mou</span>
+
+*International Conference on Representation Learning 2026 (ICLR 2026)*
+
+<div style="display: flex; gap: 10px; align-items: center;">
+  <span>
+    <a href="https://openreview.net/forum?id=CzVlgDOF7L" 
+       style="display: inline-block; padding: 4px 12px; background-color: #f8f9fa; color: #0366d6; text-decoration: none; border: 1px solid #d1d5da; border-radius: 6px; font-size: 14px; font-weight: 500;">
+      Paper
+    </a>
+    <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+  </span>
+  <span>
+    <a href="https://github.com/GuangluDong0728/DATPRL-IR" 
+       style="display: inline-block; padding: 4px 12px; background-color: #f8f9fa; color: #0366d6; text-decoration: none; border: 1px solid #d1d5da; border-radius: 6px; font-size: 14px; font-weight: 500;">
+      Codes
+    </a>
+    <strong><span class='show_paper_citations' data=''></span></strong>
+  </span>
+</div>
+ <strong><span class='show_paper_citations' data=''></span></strong>
+</div></div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS 2026</div><img src='images/publications2/KBS-2026-Fajing Liu.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Data-interactive mamba driven SAR-optical fusion cloud removal](https://www.sciencedirect.com/science/article/pii/S0950705126000456)
+
+<span style="color: #BA625F;">Fajing Liu, En Li, Yixiao Liu, Sijie Zhou, Yuanyuan Wu, <strong>Chao Ren</strong><sup>✉</sup></span>
+
+*Knowledge-Based Systems (KBS 2026)*
+
+
+<div style="display: flex; gap: 10px; align-items: center;">
+  <span>
+    <a href="https://www.sciencedirect.com/science/article/pii/S0950705126000456" 
+       style="display: inline-block; padding: 4px 12px; background-color: #f8f9fa; color: #0366d6; text-decoration: none; border: 1px solid #d1d5da; border-radius: 6px; font-size: 14px; font-weight: 500;">
+      Paper
+    </a>
+    <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+  </span>
+  <span>
+    <a href="https://github.com/Jing220/MDFuse-CR" 
+       style="display: inline-block; padding: 4px 12px; background-color: #f8f9fa; color: #0366d6; text-decoration: none; border: 1px solid #d1d5da; border-radius: 6px; font-size: 14px; font-weight: 500;">
+      Codes
+    </a>
+    <strong><span class='show_paper_citations' data=''></span></strong>
+  </span>
+</div>
+ <strong><span class='show_paper_citations' data=''></span></strong>
+</div></div>
+
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='images/publications2/TPAMI-2025-Xin Lin.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -85,7 +180,6 @@ Dr. Ren has received the Huawei Spark Award and was selected for the National Po
 <span style="color: #BA625F;">Xin Lin, Yuyan Zhou, Jingtong Yue, <strong>Chao Ren</strong><sup>✉</sup>, Kelvin C.K. Chan, Lu Qi, and Ming-Hsuan Yang</span>
 
 *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI 2025)*
-
 
 <div style="display: flex; gap: 10px; align-items: center;">
   <span>
@@ -107,6 +201,8 @@ Dr. Ren has received the Huawei Spark Award and was selected for the National Po
 </div></div>
 
 
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/publications2/CVPR-2025-Guanglu Dong.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -115,7 +211,6 @@ Dr. Ren has received the Huawei Spark Award and was selected for the National Po
 <span style="color: #BA625F;">Guanglu Dong, Tianheng Zheng, Yuanzhouhan Cao, Linbo Qing, <strong>Chao Ren</strong><sup>✉</sup></span>
 
 *In Proc. IEEE Conf. on Computer Vision and Pattern Recognition (CVPR 2025)*
-
 
 <div style="display: flex; gap: 10px; align-items: center;">
   <span>
@@ -137,6 +232,7 @@ Dr. Ren has received the Huawei Spark Award and was selected for the National Po
 </div></div>
 
 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/publications2/CVPR-2025-Guanglu Dong_2.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -145,7 +241,6 @@ Dr. Ren has received the Huawei Spark Award and was selected for the National Po
 <span style="color: #BA625F;">Guanglu Dong, Xiangyu Liao, Mingyang Li, Guihuan Guo, <strong>Chao Ren</strong><sup>✉</sup></span>
 
 *In Proc. IEEE Conf. on Computer Vision and Pattern Recognition (CVPR 2025)*
-
 
 <div style="display: flex; gap: 10px; align-items: center;">
   <span>
@@ -175,7 +270,6 @@ Dr. Ren has received the Huawei Spark Award and was selected for the National Po
 
 *In Proc. IEEE Conf. on Computer Vision and Pattern Recognition (CVPR 2025)*
 
-
 <div style="display: flex; gap: 10px; align-items: center;">
   <span>
     <a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Tian_Degradation-Aware_Feature_Perturbation_for_All-in-One_Image_Restoration_CVPR_2025_paper.pdf" 
@@ -194,6 +288,7 @@ Dr. Ren has received the Huawei Spark Award and was selected for the National Po
 </div>
  <strong><span class='show_paper_citations' data=''></span></strong>
 </div></div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/publications2/ICLR-2025-Xin Lin.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> 
@@ -330,6 +425,8 @@ Dr. Ren has received the Huawei Spark Award and was selected for the National Po
   </span>
 </div>
 </div></div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WACV 2025</div><img src='images/publications2/WACV-2025-Jingtong Yue.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
