@@ -151,7 +151,6 @@
   vertical-align: middle;
   font-family: $sans-serif;
   z-index: 10;
-  position: relative;
   margin-left: auto;
   cursor: pointer;
 
@@ -163,6 +162,7 @@
 
   @include breakpoint($large) {
     display: block;
+    margin-left: 0;
   }
 
   button {

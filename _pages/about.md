@@ -29,6 +29,7 @@ IEEE Transactions on Industrial Informatics (TII).
 Dr. Ren has received the Huawei Spark Award and was selected for the National Post-Doctoral Program for Innovative Talents of China.
 
 
+<span id="-news"></span>
 # 🔥 News
 
 <html lang="en">
@@ -71,11 +72,12 @@ Dr. Ren has received the Huawei Spark Award and was selected for the National Po
 
 
 
+<span id="-publications"></span>
 # 📝 Selected Publications
 
 <hr />
 
-## <center> 🤗🤗🤗 <font color="#4A708B"> 2025 </font> 🤗🤗🤗 </center>
+## <center> 🤗🤗🤗 <font color="#4A708B"> 2026 </font> 🤗🤗🤗 </center>
 
 <hr />
 
@@ -170,7 +172,11 @@ Dr. Ren has received the Huawei Spark Award and was selected for the National Po
 </div></div>
 
 
+<hr />
 
+## <center> 🤗🤗🤗 <font color="#4A708B"> 2025 </font> 🤗🤗🤗 </center>
+
+<hr />
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='images/publications2/TPAMI-2025-Xin Lin.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -1137,6 +1143,7 @@ Dr. Ren has received the Huawei Spark Award and was selected for the National Po
 
 
 
+<span id="-honors-and-awards"></span>
 # 🎖️ Honors and Awards
 
 | Year |                                          Award Name                                          |                                     Awarding Institution                                     |                       Notes                        |
@@ -1154,6 +1161,7 @@ Dr. Ren has received the Huawei Spark Award and was selected for the National Po
 | 2017 |                        Elsevier Outstanding Reviewer Award (2 times)                         |                                           Elsevier                                           |                         -                          |
 
 
+<span id="-educations"></span>
 # 📖 Educations
 - 2021.09 – Present, Sichuan University, College of Electronic Information, **Associate Researcher**
 - 2018.05 – 2021.08, Sichuan University, College of Electronic Information, **Associate Researcher (Full-time Research)**
@@ -1163,6 +1171,7 @@ Dr. Ren has received the Huawei Spark Award and was selected for the National Po
 - 2008.09 – 2012.06, Sichuan University, Electronic Information Engineering, **Bachelor's Degree**
 
 
+<span id="-academic-communications"></span>
 # 💻 Academic Communications
 - **Academic Journal Service**: 
     - **Guest Editor**: Electronics, Applied Sciences – Basel, Sensors, AI, etc.

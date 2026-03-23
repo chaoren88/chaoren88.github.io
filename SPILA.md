@@ -30,14 +30,14 @@
 </style>
 
 <div class="image-container">
-  <img src="/images/labs/lab-1.jpg" alt="SPILA" class="small-image">
+  <img src="/images/labs/lab-1.webp" alt="SPILA" class="small-image">
   <img src="/images/labs/icon.jpg" alt="SPILA" class="small-image">
-  <img src="/images/labs/lab-2.jpg" alt="SPILA" class="small-image">
+  <img src="/images/labs/lab-2.webp" alt="SPILA" class="small-image">
 </div>
 
 <div class="image-container">
-  <img src="/images/labs/lab-2023.JPG" alt="SPILA" class="large-image">
-  <img src="/images/labs/lab-2025-2.png" alt="SPILA" class="large-image">
+  <img src="/images/labs/lab-2023.webp" alt="SPILA" class="large-image">
+  <img src="/images/labs/lab-2025-2.webp" alt="SPILA" class="large-image">
 </div>
 
 <hr />
