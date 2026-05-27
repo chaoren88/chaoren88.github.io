@@ -54,7 +54,7 @@ Dr. Ren has received the Huawei Spark Award and was selected for the National Po
     <p>- 2026.01.26: 🎉🎉🎉 One paper was accepted by ICLR. Congratulations to Guanglu Dong 👏👏👏. </p>
     <p>- 2025.07.12: 🎉🎉🎉 One paper was accepted by TPAMI. Congratulations to Xin Lin 👏👏👏. </p>
     <p>- 2025.06.24: 🎉🎉🎉 One paper was accepted by TNNLS. Congratulations to Xiao Liu 👏👏👏. </p>
-    <p>- 2025.06.11: 🎉🎉🎉 I am honored to be selected as an Outstanding Reviewer for CVPR 2025. </p>
+    <p>- 2025.06.11: 🎉🎉🎉 I was honored to be selected as an Outstanding Reviewer for CVPR 2025. </p>
     <p>- 2025.05.12: 🎉🎉🎉 One paper was accepted by TCSVT. Congratulations to Tianheng Zhen 👏👏👏. </p>
     <p>- 2025.03.08: 🎉🎉🎉 Three papers were accepted by CVPR. Congratulations to Guanglu Dong and Xiangpeng Tian 👏👏👏. </p>
     <p>- 2025.02.25: 🎉🎉🎉 One paper was accepted by TII. Congratulations to Xiao Liu 👏👏👏. </p>
