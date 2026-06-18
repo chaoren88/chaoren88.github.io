@@ -49,6 +49,7 @@ Dr. Ren has received the Huawei Spark Award and was selected for the National Po
 <body>
 
 <div class="scroll-box">
+    <p>- 2026.06.18: 🎉🎉🎉 One paper was accepted by ECCV. Congratulations to Shurui Peng 👏👏👏. </p>
     <p>- 2026.05.14: 🎉🎉🎉 I was awarded the Gold Reviewer Award for ICML 2026. </p>
     <p>- 2026.02.11: 🎉🎉🎉 One paper was accepted by TPAMI. Congratulations to Xiao Liu 👏👏👏. </p>
     <p>- 2026.01.26: 🎉🎉🎉 One paper was accepted by ICLR. Congratulations to Guanglu Dong 👏👏👏. </p>
@@ -81,6 +82,35 @@ Dr. Ren has received the Huawei Spark Award and was selected for the National Po
 ## <center> 🤗🤗🤗 <font color="#4A708B"> 2026 </font> 🤗🤗🤗 </center>
 
 <hr />
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/publications2/ECCV-2026-Shurui Peng.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> 
+
+[SLER-IR: Spherical Layer-wise Expert Routing for All-in-One Image Restoration](https://arxiv.org/pdf/2603.05940)
+
+<span style="color: #BA625F;">Shurui Peng, Xin Lin, Shi Luo, Jincen Ou, Dizhe Zhang, Lu Qi, Truong Nguyen, <strong>Chao Ren</strong><sup>✉</sup></span>
+
+*European Conference on Computer Vision 2026 (ECCV 2026)*
+
+<div style="display: flex; gap: 10px; align-items: center;">
+  <span>
+    <a href="https://openreview.net/forum?id=CzVlgDOF7L" 
+       style="display: inline-block; padding: 4px 12px; background-color: #f8f9fa; color: #0366d6; text-decoration: none; border: 1px solid #d1d5da; border-radius: 6px; font-size: 14px; font-weight: 500;">
+      Paper
+    </a>
+    <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+  </span>
+  <span>
+    <a href="https://arxiv.org/pdf/2603.05940"
+       style="display: inline-block; padding: 4px 12px; background-color: #f8f9fa; color: #0366d6; text-decoration: none; border: 1px solid #d1d5da; border-radius: 6px; font-size: 14px; font-weight: 500;">
+      Codes
+    </a>
+    <strong><span class='show_paper_citations' data=''></span></strong>
+  </span>
+</div>
+ <strong><span class='show_paper_citations' data=''></span></strong>
+</div></div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2026</div><img src='images/publications2/TPAMI-2026-Xiao Liu.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
