@@ -94,7 +94,7 @@ Dr. Ren has received the Huawei Spark Award and was selected for the National Po
 
 <div style="display: flex; gap: 10px; align-items: center;">
   <span>
-    <a href="https://openreview.net/forum?id=CzVlgDOF7L" 
+    <a href="https://arxiv.org/pdf/2603.05940" 
        style="display: inline-block; padding: 4px 12px; background-color: #f8f9fa; color: #0366d6; text-decoration: none; border: 1px solid #d1d5da; border-radius: 6px; font-size: 14px; font-weight: 500;">
       Paper
     </a>
