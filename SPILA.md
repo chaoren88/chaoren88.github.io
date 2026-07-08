@@ -207,40 +207,10 @@
                 <div class="student-role">MS@SCU, 2024 - present</div>
                 <div class="student-research">Image Registration and Fusion</div>
             </div>
-            <div class="student">
-                <img src="/images/labs/zth.jpg" alt="Tianheng Zheng">
-                <div class="student-name">Tianheng Zheng (郑天衡)</div>
-                <div class="student-role">MS@SCU, 2023 - present</div>
-                <div class="student-research">Image Registration and Fusion</div>
-            </div>
-            <div class="student">
-                <img src="/images/labs/dgl.jpg" alt="Guanglu Dong">
-                <div class="student-name">Guanglu Dong (董广陆)</div>
-                <div class="student-role">MS@SCU, 2023 - present</div>
-                <div class="student-research">Image Deraining and Quality Assessment</div>
-            </div>
-            <div class="student">
-                <img src="/images/labs/wsy.jpg" alt="Shouyi Wang">
-                <div class="student-name">Shouyi Wang (王守一)</div>
-                <div class="student-role">MS@SCU, 2023 - present</div>
-                <div class="student-research">Image Super-Resolution</div>
-            </div>
-            <div class="student">
-                <img src="/images/labs/zjy.jpg" alt="Jiayu Zhong">
-                <div class="student-name">Jiayu Zhong (钟嘉宇)</div>
-                <div class="student-role">MS@SCU, 2023 - present</div>
-                <div class="student-research">Few-shot Object Detection</div>
-            </div>
         </div>
 
         <h2>Research Interns</h2>
         <div class="students">
-            <div class="student">
-                <img src="/images/labs/ls.jpg" alt="Shi Luo">
-                <div class="student-name">Shi Luo (罗十)</div>
-                <div class="student-role">BS@SCU, 2023 - present</div>
-                <div class="student-research">Image Restoration/3D Vision</div>
-            </div>
             <div class="student">
                 <img src="/images/labs/psr.jpg" alt="Shurui Peng">
                 <div class="student-name">Shurui Peng (彭书睿)</div>
@@ -269,6 +239,41 @@
 
         <h2>Graduates</h2>
         <div class="students">
+            <div class="student">
+                <img src="/images/labs/zth.jpg" alt="Tianheng Zheng">
+                <div class="student-name">Tianheng Zheng (郑天衡)</div>
+                <div class="student-role">MS@SCU, 2023 - present</div>
+                <div class="student-research">Image Registration and Fusion</div>
+                <div class="student-work">MEGVII</div>
+            </div>
+            <div class="student">
+                <img src="/images/labs/dgl.jpg" alt="Guanglu Dong">
+                <div class="student-name">Guanglu Dong (董广陆)</div>
+                <div class="student-role">MS@SCU, 2023 - present</div>
+                <div class="student-research">Image Deraining and Quality Assessment</div>
+                <div class="student-work">MEITUAN</div>
+            </div>
+            <div class="student">
+                <img src="/images/labs/wsy.jpg" alt="Shouyi Wang">
+                <div class="student-name">Shouyi Wang (王守一)</div>
+                <div class="student-role">MS@SCU, 2023 - present</div>
+                <div class="student-research">Image Super-Resolution</div>
+                <div class="student-work">ZTE</div>
+            </div>
+            <div class="student">
+                <img src="/images/labs/zjy.jpg" alt="Jiayu Zhong">
+                <div class="student-name">Jiayu Zhong (钟嘉宇)</div>
+                <div class="student-role">MS@SCU, 2023 - present</div>
+                <div class="student-research">Few-shot Object Detection</div>
+                <div class="student-work">ZTE</div>
+            </div>
+            <div class="student">
+                <img src="/images/labs/ls.jpg" alt="Shi Luo">
+                <div class="student-name">Shi Luo (罗十)</div>
+                <div class="student-role">BS@SCU, 2023 - present</div>
+                <div class="student-research">Image Restoration/3D Vision</div>
+                <div class="student-work">Master student at ZJU</div>
+            </div>
             <div class="student">
                 <img src="/images/labs/linxin.jpg" alt="Xin Lin">
                 <div class="student-name">
