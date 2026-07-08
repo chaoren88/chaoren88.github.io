@@ -242,28 +242,28 @@
             <div class="student">
                 <img src="/images/labs/zth.jpg" alt="Tianheng Zheng">
                 <div class="student-name">Tianheng Zheng (郑天衡)</div>
-                <div class="student-role">MS@SCU, 2023 - present</div>
+                <div class="student-role">MS@SCU, 2023 - 2026</div>
                 <div class="student-research">Image Registration and Fusion</div>
                 <div class="student-work">MEGVII</div>
             </div>
             <div class="student">
                 <img src="/images/labs/dgl.jpg" alt="Guanglu Dong">
                 <div class="student-name">Guanglu Dong (董广陆)</div>
-                <div class="student-role">MS@SCU, 2023 - present</div>
+                <div class="student-role">MS@SCU, 2023 - 2026</div>
                 <div class="student-research">Image Deraining and Quality Assessment</div>
-                <div class="student-work">MEITUAN</div>
+                <div class="student-work">KUAISHOU</div>
             </div>
             <div class="student">
                 <img src="/images/labs/wsy.jpg" alt="Shouyi Wang">
                 <div class="student-name">Shouyi Wang (王守一)</div>
-                <div class="student-role">MS@SCU, 2023 - present</div>
+                <div class="student-role">MS@SCU, 2023 - 2026</div>
                 <div class="student-research">Image Super-Resolution</div>
                 <div class="student-work">ZTE</div>
             </div>
             <div class="student">
                 <img src="/images/labs/zjy.jpg" alt="Jiayu Zhong">
                 <div class="student-name">Jiayu Zhong (钟嘉宇)</div>
-                <div class="student-role">MS@SCU, 2023 - present</div>
+                <div class="student-role">MS@SCU, 2023 - 2026</div>
                 <div class="student-research">Few-shot Object Detection</div>
                 <div class="student-work">ZTE</div>
             </div>
