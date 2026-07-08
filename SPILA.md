@@ -265,7 +265,7 @@
                 <div class="student-name">Jiayu Zhong (钟嘉宇)</div>
                 <div class="student-role">MS@SCU, 2023 - 2026</div>
                 <div class="student-research">Few-shot Object Detection</div>
-                <div class="student-work">ZTE</div>
+                <div class="student-work">SGCC</div>
             </div>
             <div class="student">
                 <img src="/images/labs/ls.jpg" alt="Shi Luo">
