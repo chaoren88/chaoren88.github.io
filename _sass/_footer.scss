@@ -58,6 +58,19 @@
   font-size: $type-size-7;
 }
 
+.page__footer-views {
+  margin: 0;
+  color: mix(#000, $gray, 10%);
+  font-family: $global-font-family;
+  font-size: $type-size-7;
+  line-height: 1.5;
+  text-align: center;
+}
+
+.page__footer-view-count {
+  font-weight: 600;
+}
+
 .page__footer-follow {
   ul {
     margin: 0;
