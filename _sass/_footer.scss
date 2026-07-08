@@ -4,32 +4,31 @@
 
 .page__footer {
   @include clearfix;
-  float: left;
+  display: block;
+  float: none;
   margin-left: 0;
   margin-right: 0;
+  box-sizing: border-box;
   width: 100%;
   clear: both;
-  /* sticky footer fix start */
-  position: absolute;
-  bottom: 0em;
-  height: auto;
-  /* sticky footer fix end */
-  margin-top: 3em;
+  position: static;
+  margin-top: 2rem;
   color: mix(#fff, $gray, 25%);
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.45s;
           animation-delay: 0.45s;
-  background-color: $lighter-gray;
-  border-top: 1px solid $light-gray;
+  background-color: transparent;
+  border-top: 1px solid $lighter-gray;
 
   footer {
     @include clearfix;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 2em;
+    margin-top: 0;
     max-width: 100%;
-    padding: 0 1em 2em;
+    padding: 0.65rem 1rem 0.85rem;
+    text-align: center;
 
     @include breakpoint($x-large) {
       max-width: $x-large;
@@ -62,9 +61,10 @@
   margin: 0;
   color: mix(#000, $gray, 10%);
   font-family: $global-font-family;
-  font-size: $type-size-7;
-  line-height: 1.5;
+  font-size: 0.72rem;
+  line-height: 1.4;
   text-align: center;
+  white-space: nowrap;
 }
 
 .page__footer-view-count {

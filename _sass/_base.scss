@@ -2,13 +2,13 @@
    BASE ELEMENTS
    ========================================================================== */
 html {
-  /* sticky footer fix */
   position: relative;
   min-height: 100%;
 }
 
 body {
   margin: 0;
+  margin-bottom: 0 !important;
   padding: 0;
   padding-bottom: 0em;
   color: $text-color;
