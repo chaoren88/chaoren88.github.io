@@ -268,7 +268,7 @@
                 <div class="student-research">Image Restoration/3D Vision</div>
                 <div class="student-work">PhD student at ZJU</div>
             </div>
-            <div class="student">
+            <div class="student"> 
                 <img src="/images/labs/nyt.jpg" alt="Yuting Nie">
                 <div class="student-name">Yuting Nie (聂玉婷)</div>
                 <div class="student-role">BS@SCU, 2022 - 2026</div>
