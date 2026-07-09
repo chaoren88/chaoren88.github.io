@@ -224,12 +224,6 @@
                 <div class="student-research">Image Restoration/3D Vision</div>
             </div>
             <div class="student">
-                <img src="/images/labs/nyt.jpg" alt="Yuting Nie">
-                <div class="student-name">Yuting Nie (聂玉婷)</div>
-                <div class="student-role">BS@SCU, 2023 - present</div>
-                <div class="student-research">Image Super-Resolution and Quality Assessment</div>
-            </div>
-            <div class="student">
                 <img src="/images/labs/ojc.jpg" alt="jincen Ou">
                 <div class="student-name">jincen Ou (欧津岑)</div>
                 <div class="student-role">BS@SCU, 2023 - present</div>
@@ -270,9 +264,16 @@
             <div class="student">
                 <img src="/images/labs/ls.jpg" alt="Shi Luo">
                 <div class="student-name">Shi Luo (罗十)</div>
-                <div class="student-role">BS@SCU, 2023 - present</div>
+                <div class="student-role">BS@SCU, 2022 - 2026</div>
                 <div class="student-research">Image Restoration/3D Vision</div>
-                <div class="student-work">Master student at ZJU</div>
+                <div class="student-work">PhD student at ZJU</div>
+            </div>
+            <div class="student">
+                <img src="/images/labs/nyt.jpg" alt="Yuting Nie">
+                <div class="student-name">Yuting Nie (聂玉婷)</div>
+                <div class="student-role">BS@SCU, 2022 - 2026</div>
+                <div class="student-research">Image Super-Resolution and Quality Assessment</div>
+                <div class="student-work">Master student at SEU</div>
             </div>
             <div class="student">
                 <img src="/images/labs/linxin.jpg" alt="Xin Lin">
