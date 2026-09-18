@@ -49,6 +49,7 @@ Dr. Ren has received the Huawei Spark Award and was selected for the National Po
 <body>
 
 <div class="scroll-box">
+    <p>- 2026.09.17: 🎉🎉🎉 I was Invited to serve as an AC for ICLR. </p>
     <p>- 2026.06.18: 🎉🎉🎉 One paper was accepted by ECCV. Congratulations to Shurui Peng 👏👏👏. </p>
     <p>- 2026.05.14: 🎉🎉🎉 I was awarded the Gold Reviewer Award for ICML 2026. </p>
     <p>- 2026.02.11: 🎉🎉🎉 One paper was accepted by TPAMI. Congratulations to Xiao Liu 👏👏👏. </p>
