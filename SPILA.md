@@ -176,7 +176,7 @@
                 <img src="/images/labs/xls.webp" alt="Xiaofeng Wang">
                 <div class="student-name">Linsong Xiao (肖林松)</div>
                 <div class="student-role">PhD@SCU, 2026 - present</div>
-                <div class="student-research">Image Restoration</div>
+                <div class="student-research">UAV</div>
             </div>
             <div class="student">
                 <img src="/images/labs/liuxiao.webp" alt="Xiao Liu">
@@ -215,22 +215,46 @@
         <h2>MS Students</h2>
         <div class="students">
             <div class="student">
+                <img src="/images/labs/fqq.webp" alt="Qingqing Fang">
+                <div class="student-name">Qingqing Fang (房晴晴)</div>
+                <div class="student-role">MS@SCU, 2026 - present</div>
+                <div class="student-research">AI Agent</div>
+            </div>
+            <div class="student">
+                <img src="/images/labs/lh.webp" alt="Hao Li">
+                <div class="student-name">Hao Li (李豪)</div>
+                <div class="student-role">MS@SCU, 2026 - present</div>
+                <div class="student-research">AI Agent</div>
+            </div>
+            <div class="student">
+                <img src="/images/labs/qgp.webp" alt="Gongping Qin">
+                <div class="student-name">Gongping Qin (秦功平)</div>
+                <div class="student-role">MS@SCU, 2026 - present</div>
+                <div class="student-research">AI Agent</div>
+            </div>
+            <div class="student">
+                <img src="/images/labs/cjh.webp" alt="Jiahe Chen">
+                <div class="student-name">Jiahe Chen (陈佳贺)</div>
+                <div class="student-role">MS@SCU, 2026 - present</div>
+                <div class="student-research">AI Agent</div>
+            </div>
+            <div class="student">
                 <img src="/images/labs/hh.webp" alt="Hao Hong">
                 <div class="student-name">Hao Hong (洪豪)</div>
                 <div class="student-role">MS@SCU, 2025 - present</div>
-                <div class="student-research">Agent</div>
+                <div class="student-research">Image Restoration</div>
             </div>
             <div class="student">
                 <img src="/images/labs/wyl.webp" alt="YuLin Wu">
                 <div class="student-name">YuLin Wu (吴宇林)</div>
                 <div class="student-role">MS@SCU, 2025 - present</div>
-                <div class="student-research">Agent</div>
+                <div class="student-research">Image Restoration</div>
             </div>
             <div class="student">
                 <img src="/images/labs/zyh.webp" alt="Yuhan Zhao">
                 <div class="student-name">Yuhan Zhao (赵钰涵)</div>
                 <div class="student-role">MS@SCU, 2025 - present</div>
-                <div class="student-research">Agent</div>
+                <div class="student-research">Recommendation System</div>
             </div>
             <div class="student">
                 <img src="/images/labs/lmy.webp" alt="Mingyang Li">
