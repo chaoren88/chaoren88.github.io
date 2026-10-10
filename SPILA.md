@@ -147,7 +147,7 @@
   <div class="image-container image-container--three">
     <img src="/images/labs/lab-1.webp" alt="SPILA group activity" class="lab-image">
     <img src="/images/labs/icon.webp" alt="SPILA logo" class="lab-image">
-    <img src="/images/labs/lab-2.webp" alt="SPILA group activity" class="lab-image">
+    <img src="/images/labs/lab-2026.webp" alt="SPILA group activity" class="lab-image">
   </div>
 
   <div class="image-container image-container--two">
