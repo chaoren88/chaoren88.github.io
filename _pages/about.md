@@ -18,15 +18,15 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Chao Ren, an Associate Research Professor with the College of Electronics and Information Engineering, Sichuan University, Chengdu, China. 
-Dr. Ren received the Ph.D. degree in Communication and Information System from Sichuan University, Chengdu, China, in 2017. 
+He received the Ph.D. degree in Communication and Information System from Sichuan University, Chengdu, China, in 2017. 
 His current research interests include inverse problems in image and video processing.
-Dr. Ren has published more than 70 papers in SCI journals and international conferences. 
-Among them, over 30 high-level papers as the first or corresponding author were published in top-tier venues, including 
+He has published more than 90 papers in SCI journals and international conferences. 
+Among them, over 40 high-level papers as the first or corresponding author were published in top-tier venues, including 
 CVPR, ICCV, NeurIPS, ECCV, ACMMM, and IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 
 IEEE Transactions on Image Processing (TIP), IEEE Transactions on Cybernetics (TCYB), IEEE Transactions on Multimedia (TMM), 
 IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), IEEE Transactions on Neural Networks and Learning Systems (TNNLS), and 
-IEEE Transactions on Industrial Informatics (TII).
-Dr. Ren has received the Huawei Spark Award and was selected for the National Post-Doctoral Program for Innovative Talents of China.
+IEEE Transactions on Industrial Informatics (TII), etc. He has served as ACs for multiple conferences, such as ICLR, ICML.
+He has received the Huawei Spark Award and was selected for the National Post-Doctoral Program for Innovative Talents of China.
 
 
 <span id="-news"></span>
