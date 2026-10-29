@@ -88,6 +88,35 @@ He has received the Huawei Spark Award and was selected for the National Post-Do
 
 <hr />
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2026</div><img src='images/publications2/TMM-2026-Xiao Liu.webp' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> 
+
+[Progressive Supervision with Disentangled Learning and Density-Aware for Image Dehazing from Unpaired Clean and Hazy Images](https://github.com/liux520/PSUID)
+
+<span style="color: #BA625F;">Xiao Liu, Xiaofeng Wang, <strong>Chao Ren</strong><sup>✉</sup></span>
+
+*IEEE Transactions on Multimedia (TMM 2026)*
+
+<div style="display: flex; gap: 10px; align-items: center;">
+  <span>
+    <a href="https://github.com/liux520/PSUID" 
+       style="display: inline-block; padding: 4px 12px; background-color: #f8f9fa; color: #0366d6; text-decoration: none; border: 1px solid #d1d5da; border-radius: 6px; font-size: 14px; font-weight: 500;">
+      Paper
+    </a>
+    <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+  </span>
+  <span>
+    <a href="https://github.com/liux520/PSUID"
+       style="display: inline-block; padding: 4px 12px; background-color: #f8f9fa; color: #0366d6; text-decoration: none; border: 1px solid #d1d5da; border-radius: 6px; font-size: 14px; font-weight: 500;">
+      Codes
+    </a>
+    <strong><span class='show_paper_citations' data=''></span></strong>
+  </span>
+</div>
+ <strong><span class='show_paper_citations' data=''></span></strong>
+</div></div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/publications2/ECCV-2026-Shurui Peng.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> 
 
