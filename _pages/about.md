@@ -117,6 +117,56 @@ He has received the Huawei Spark Award and was selected for the National Post-Do
 </div></div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2026</div><img src='images/publications2/TCSVT-2026-Xiangpeng Tian.webp' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> 
+
+[SASFormer: Stage-Aware Selective Attention Transformer for All-in-One Blind Image Restoration](https://github.com/TxpHome/SASFormer)
+
+<span style="color: #BA625F;">Xiangpeng Tian, Mingyang Li, Fajing Liu, Xiaofeng Wang, Xiaohai He, <strong>Chao Ren</strong><sup>✉</sup></span>
+
+*IEEE Transactions on Multimedia (TCSVT 2026)*
+
+<div style="display: flex; gap: 10px; align-items: center;">
+  <span>
+    <a href="https://github.com/TxpHome/SASFormer" 
+       style="display: inline-block; padding: 4px 12px; background-color: #f8f9fa; color: #0366d6; text-decoration: none; border: 1px solid #d1d5da; border-radius: 6px; font-size: 14px; font-weight: 500;">
+      Paper
+    </a>
+    <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+  </span>
+  <span>
+    <a href="https://github.com/TxpHome/SASFormer"
+       style="display: inline-block; padding: 4px 12px; background-color: #f8f9fa; color: #0366d6; text-decoration: none; border: 1px solid #d1d5da; border-radius: 6px; font-size: 14px; font-weight: 500;">
+      Codes
+    </a>
+    <strong><span class='show_paper_citations' data=''></span></strong>
+  </span>
+</div>
+ <strong><span class='show_paper_citations' data=''></span></strong>
+</div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2026</div><img src='images/publications2/PR-2026-Yiqi Hu.webp' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> 
+
+[An Adaptive Decision-Map-Driven Focus-Guided Network with Global Blur Perception Constraint for Multi-Focus Fusion](https://www.sciencedirect.com/science/article/abs/pii/S0031320326018765)
+
+<span style="color: #BA625F;">Yiqi Hu, Tianheng Zheng, Guanglu Dong, Pingyu Wang, Xing Ruan, <strong>Chao Ren</strong><sup>✉</sup></span>
+
+*IEEE Transactions on Multimedia (PR 2026)*
+
+<div style="display: flex; gap: 10px; align-items: center;">
+  <span>
+    <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320326018765" 
+       style="display: inline-block; padding: 4px 12px; background-color: #f8f9fa; color: #0366d6; text-decoration: none; border: 1px solid #d1d5da; border-radius: 6px; font-size: 14px; font-weight: 500;">
+      Paper
+    </a>
+    <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+  </span>
+</div>
+ <strong><span class='show_paper_citations' data=''></span></strong>
+</div></div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/publications2/ECCV-2026-Shurui Peng.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> 
 
