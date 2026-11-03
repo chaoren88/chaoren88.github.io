@@ -1263,9 +1263,9 @@ He has received the Huawei Spark Award and was selected for the National Post-Do
 
 | Year |                                          Award Name                                          |                                     Awarding Institution                                     |                       Notes                        |
 |:----:|:--------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------:|:--------------------------------------------------:|
-| 2025 |                               CVPR Outstanding Reviewer Award                                |                                            CVPR
+| 2026 |                                               ICML Gold Reviewer Award                       |                                            ICML
 |                         -                          |
-| 2025 |                               CVPR Gold Reviewer Award                                       |                                            ICML       
+| 2025 |                                               CVPR Outstanding Reviewer Award                |                                            CVPR       
 |                         -                          |
 | 2025 |                       Sichuan University Annual Outstanding Individual                       |                                     Sichuan University                                      |                         -                          |
 | 2024 |            Sichuan University Outstanding Research Talent—Academic Newcomer Award            |                                     Sichuan University                                      | Only 10 recipients annually across all disciplines |
