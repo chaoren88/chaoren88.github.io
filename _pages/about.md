@@ -1263,7 +1263,10 @@ He has received the Huawei Spark Award and was selected for the National Post-Do
 
 | Year |                                          Award Name                                          |                                     Awarding Institution                                     |                       Notes                        |
 |:----:|:--------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------:|:--------------------------------------------------:|
-| 2025 |                               CVPR Outstanding Reviewer Award                                |                                            CVPR                                             |                         -                          |
+| 2025 |                               CVPR Outstanding Reviewer Award                                |                                            CVPR
+|                         -                          |
+| 2025 |                               CVPR Gold Reviewer Award                                       |                                            ICML       
+|                         -                          |
 | 2025 |                       Sichuan University Annual Outstanding Individual                       |                                     Sichuan University                                      |                         -                          |
 | 2024 |            Sichuan University Outstanding Research Talent—Academic Newcomer Award            |                                     Sichuan University                                      | Only 10 recipients annually across all disciplines |
 | 2024 |     China Institute of Communications Science and Technology Award (Third Prize, Rank 3)     |                              China Institute of Communications                              |                         -                          |
@@ -1294,7 +1297,9 @@ He has received the Huawei Spark Award and was selected for the National Post-Do
     - **Executive Editorial Board Member（执行编委）**: Communication Technology (通信技术).
     - **Reviewers**: IEEE TPAMI, IEEE TIP, IJCV, IEEE TMM IEEE TCSVT, IEEE TCYB, IEEE TGRS, IEEE TAI, IEEE TITS, IEEE TNNLS, IEEE TII, IEEE Signal Processing, IEEE/CAA Journal of Automatica Sinica, Optics Express, Advanced Engineering Informatics...
     
-- **Academic Conference Service**: 
+- **Academic Conference Service**:
+    - 2026, the International Conference on Machine Learning (ICML 2027), **Area Chair**
+    - 2026, the International Conference on Learning Representations (ICLR 2027), **Area Chair**
     - 2025, the 10th International Conference on Image, Vision and Computing (ICIVC 2025), **Publication Chair and Conference Moderator**
     - 2025, the International Conference on Machine Vision, Image Processing and Imaging Technology (MVIPIT 2025), **Publicity Chair**
     - 2025, the International Conference on Robotics, Artificial Intelligence and Intelligent Control (RAIIC 2025), **Publicity Chair**
