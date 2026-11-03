@@ -124,7 +124,7 @@ He has received the Huawei Spark Award and was selected for the National Post-Do
 
 <span style="color: #BA625F;">Xiangpeng Tian, Mingyang Li, Fajing Liu, Xiaofeng Wang, Xiaohai He, <strong>Chao Ren</strong><sup>✉</sup></span>
 
-*IEEE Transactions on Multimedia (TCSVT 2026)*
+*IEEE Transactions on Circuits and Systems for Video Technology (TCSVT 2026)*
 
 <div style="display: flex; gap: 10px; align-items: center;">
   <span>
@@ -152,7 +152,7 @@ He has received the Huawei Spark Award and was selected for the National Post-Do
 
 <span style="color: #BA625F;">Yiqi Hu, Tianheng Zheng, Guanglu Dong, Pingyu Wang, Xing Ruan, <strong>Chao Ren</strong><sup>✉</sup></span>
 
-*IEEE Transactions on Multimedia (PR 2026)*
+*Pattern Recognition (PR 2026)*
 
 <div style="display: flex; gap: 10px; align-items: center;">
   <span>
