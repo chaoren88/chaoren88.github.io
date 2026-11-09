@@ -49,6 +49,7 @@ He has received the Huawei Spark Award and was selected for the National Post-Do
 <body>
 
 <div class="scroll-box">
+    <p>- 2026.11.08: 🎉🎉🎉 One paper was accepted by PR. Congratulations to Mingyang Li 👏👏👏. </p>
     <p>- 2026.10.24: 🎉🎉🎉 One paper was accepted by TMM. Congratulations to Xiao Liu 👏👏👏. </p>
     <p>- 2026.10.21: 🎉🎉🎉 I was Invited to serve as an AC for ICML. </p>
     <p>- 2026.10.16: 🎉🎉🎉 One paper was accepted by TCSVT. Congratulations to Xiangpeng Tian 👏👏👏. </p>
