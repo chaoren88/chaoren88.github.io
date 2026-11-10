@@ -121,7 +121,7 @@ He has received the Huawei Spark Award and was selected for the National Post-Do
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2026</div><img src='images/publications2/TCSVT-2026-Xiangpeng Tian.webp' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> 
 
-[SASFormer: Stage-Aware Selective Attention Transformer for All-in-One Blind Image Restoration](https://github.com/TxpHome/SASFormer)
+[SASFormer: Stage-Aware Selective Attention Transformer for All-in-One Blind Image Restoration](https://arxiv.org/abs/2611.00523)
 
 <span style="color: #BA625F;">Xiangpeng Tian, Mingyang Li, Fajing Liu, Xiaofeng Wang, Xiaohai He, <strong>Chao Ren</strong><sup>✉</sup></span>
 
@@ -129,7 +129,7 @@ He has received the Huawei Spark Award and was selected for the National Post-Do
 
 <div style="display: flex; gap: 10px; align-items: center;">
   <span>
-    <a href="https://github.com/TxpHome/SASFormer" 
+    <a href="https://arxiv.org/abs/2611.00523" 
        style="display: inline-block; padding: 4px 12px; background-color: #f8f9fa; color: #0366d6; text-decoration: none; border: 1px solid #d1d5da; border-radius: 6px; font-size: 14px; font-weight: 500;">
       Paper
     </a>
